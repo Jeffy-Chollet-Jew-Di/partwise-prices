@@ -1,0 +1,28 @@
+{
+  "_note": "Stores whose Awin product feeds the price robot reads. 'r' must be the store id used on partwisepc.com (js/data-retailers.js). 'cats' maps the store's own category names to the site's categories; products in other categories are ignored.",
+  "stores": [
+    {
+      "r": "coolblue-de",
+      "country": "DE",
+      "network": "awin",
+      "feed": 95761,
+      "currency": "EUR",
+      "cats": {
+        "Grafikkarten": "gpu",
+        "Prozessoren": "cpu",
+        "Mainboards": "mobo",
+        "Ram": "ram",
+        "Solid State Drives (Ssd)": "ssd",
+        "Computernetzteile": "psu",
+        "Computergehäuse": "case",
+        "Cpu-Kühler": "cooler",
+        "Pc-Lüfter": "fans",
+        "Monitore": "monitor",
+        "Mäuse": "mouse",
+        "Gaming-Mäuse": "mouse",
+        "Tastaturen": "keyboard",
+        "Gaming-Tastaturen": "keyboard"
+      }
+    }
+  ]
+}
