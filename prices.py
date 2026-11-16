@@ -39,8 +39,12 @@ def norm(s):
     s = s.replace("wd_black", "wd black").replace("ß", "ss").replace("ä", "a").replace("ö", "o").replace("ü", "u")
     s = s.replace("m.2", "m2")
     s = re.sub(r"(\d)\.(\d{3})\b", r"\1\2", s)            # 6.000 -> 6000, 1.000 W -> 1000 W
+    s = re.sub(r"(\d)(mt/s|mhz)", r"\1 \2", s)                    # 6000MT/s -> 6000 mt/s
     s = re.sub(r"(\d)\s*(gb|tb|w|mm)\b", r"\1\2", s)       # 2 TB -> 2tb, 850 W -> 850w
-    s = re.sub(r"\(\s*2\s*x\s*\d+\s*gb\s*\)|2\s*x\s*\d+\s*gb", " ", s)   # (2 x 16GB): capacity is already given
+    s = re.sub(r"\(?\s*\b2\s*x\s*(\d+)gb\s*\)?", lambda m: " %dgb " % (2 * int(m.group(1))), s)   # 2 x 16GB -> 32gb
+    s = re.sub(r"\b(1[24]0)x\1x25\b", r"\1mm", s)                  # fan 120x120x25 -> 120mm
+    s = re.sub(r"\bc(\d\d)\b", r"cl\1", s)                          # C16 -> cl16 (CAS latency)
+    s = re.sub(r"\bweiss\b", "white", s)
     toks = re.split(r"[^a-z0-9+]+", s)
     return [t for t in toks if t]
 
@@ -58,6 +62,8 @@ def matches(prod, name, cat):
     have = set(toks)
     need = wanted(prod["q"])
     if not all(t in have for t in need):
+        return False
+    if have & set(prod.get("qx") or []):                  # words that mark another version of this product
         return False
     extra = (have & VARIANT) - set(need)
     if prod["cat"] == "gpu":                               # board names (TWIN X2, OC, PLUS...) do not matter,
@@ -105,7 +111,7 @@ def run(local_feeds):
             report["stores"][st["r"]] = {"error": str(e)[:200].replace(os.environ.get("AWIN_KEY", "") or "§", "***")}
             continue
         rows = list(csv.DictReader(io.StringIO(text)))
-        best, n_pc = {}, 0
+        best, n_pc, unmatched = {}, 0, []
         for row in rows:
             cat = st["cats"].get(row.get("merchant_category", ""))
             if not cat:
@@ -115,9 +121,11 @@ def run(local_feeds):
                 price = float(row["search_price"])
             except Exception:
                 continue
+            hit = False
             for p in prods:
                 if not matches(p, row["product_name"], cat):
                     continue
+                hit = True
                 if p["ref"] and not (0.45 * p["ref"] <= price <= 2.5 * p["ref"]):   # wrong match or price error
                     report["rejected"].append([st["r"], p["id"], row["product_name"][:80], price])
                     continue
@@ -128,6 +136,9 @@ def run(local_feeds):
                 rank = lambda x: (x["stock"] == "out", x["price"])
                 if cur is None or rank(o) < rank(cur):
                     best[p["id"]] = o
+            if not hit:                                     # PC part the site does not list yet
+                unmatched.append([cat, row["product_name"][:90], price])
+        report.setdefault("not_on_site", {})[st["r"]] = sorted(unmatched)
         for pid, o in best.items():
             offers.setdefault(st["country"], {}).setdefault(pid, []).append(o)
         report["stores"][st["r"]] = {"feed_rows": len(rows), "pc_rows": n_pc, "matched": len(best)}
