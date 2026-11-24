@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23T14:51:37Z",
+ "updated": "2026-11-24T14:57:51Z",
  "stores": {
   "coolblue-de": {
-   "feed_rows": 15481,
-   "pc_rows": 757,
-   "matched": 120
+   "feed_rows": 15495,
+   "pc_rows": 764,
+   "matched": 119
   }
  },
  "rejected": [],
@@ -13,22 +13,22 @@
    [
     "case",
     "NZXT H6 Flow - Weiß",
-    98.9
+    99.9
    ],
    [
     "cooler",
     "ASUS PRIME LC 240 ARGB",
-    84.9
+    85.9
    ],
    [
     "cooler",
     "NZXT Kraken Plus 360 V2 - RGB - White",
-    189.9
+    189.99
    ],
    [
     "cooler",
     "Noctua NH-D15 Chromax Schwarz",
-    111.9
+    112.9
    ],
    [
     "cooler",
@@ -38,12 +38,12 @@
    [
     "cooler",
     "be quiet! Pure Rock 3 Schwarz",
-    37.9
+    38.9
    ],
    [
     "cooler",
     "be quiet! SILENT LOOP 3 360 mm",
-    135.99
+    136.9
    ],
    [
     "fans",
@@ -54,11 +54,6 @@
     "fans",
     "NZXT F140X RGB - Weiß",
     31.99
-   ],
-   [
-    "gpu",
-    "INNO3D GeForce RTX 5080 X3 16GB + Corsair RM850x",
-    2291.0
    ],
    [
     "keyboard",
@@ -93,7 +88,7 @@
    [
     "keyboard",
     "CHERRY KW 9100 SLIM Kabellose Tastatur QWERTZ Schwarz",
-    71.99
+    71.9
    ],
    [
     "keyboard",
@@ -103,12 +98,12 @@
    [
     "keyboard",
     "Corsair K55 CORE TKL RGB Membran Gaming Tastatur QWERTZ",
-    49.9
+    49.99
    ],
    [
     "keyboard",
     "Corsair K70 CORE RGB Mechanische Gaming Tastatur QWERTZ",
-    98.9
+    89.95
    ],
    [
     "keyboard",
@@ -123,7 +118,7 @@
    [
     "keyboard",
     "Gaming-Tastatur Logitech G915 X Lightspeed TKL Wireless Schwarz Qwertz",
-    151.9
+    152.9
    ],
    [
     "keyboard",
@@ -133,12 +128,12 @@
    [
     "keyboard",
     "Logitech ERGO K860 Ergonomic Wireless Keyboard QWERTZ",
-    93.9
+    92.9
    ],
    [
     "keyboard",
     "Logitech G PRO X TKL Lightspeed-Gaming-Tastatur Qwertz Schwarz",
-    144.9
+    167.9
    ],
    [
     "keyboard",
@@ -164,11 +159,6 @@
     "keyboard",
     "Logitech G512 X 98 Gaming-Tastatur QWERTZ Weiß",
     185.9
-   ],
-   [
-    "keyboard",
-    "Logitech G515 TKL Gaming-Tastatur QWERTZ",
-    80.9
    ],
    [
     "keyboard",
@@ -218,7 +208,7 @@
    [
     "keyboard",
     "Logitech MX Keys Mini Graphit QWERTZ",
-    78.95
+    78.9
    ],
    [
     "keyboard",
@@ -247,8 +237,13 @@
    ],
    [
     "keyboard",
+    "Logitech Signature Slim K950 Kabellose Tastatur QWERTZ Weiß",
+    62.9
+   ],
+   [
+    "keyboard",
     "Logitech Signature Slim Solar+ kabellose Tastatur QWERTZ",
-    70.9
+    69.95
    ],
    [
     "keyboard",
@@ -318,7 +313,7 @@
    [
     "monitor",
     "AOC AG326UD",
-    622.95
+    599.9
    ],
    [
     "monitor",
@@ -358,7 +353,7 @@
    [
     "monitor",
     "AOC AGON G4 27G4ZR",
-    144.9
+    145.9
    ],
    [
     "monitor",
@@ -374,11 +369,6 @@
     "monitor",
     "AOC AGON G4 Q27G4SRU",
     219.9
-   ],
-   [
-    "monitor",
-    "AOC AGON G4 Q27G4ZD QD-OLED",
-    409.9
    ],
    [
     "monitor",
@@ -423,12 +413,12 @@
    [
     "monitor",
     "AOC CU34G2XP/BK",
-    318.9
+    317.9
    ],
    [
     "monitor",
     "AOC CU34G2XP/BK + Vortech Monitorhalterung mit Gasfeder",
-    407.9
+    406.9
    ],
    [
     "monitor",
@@ -487,11 +477,6 @@
    ],
    [
     "monitor",
-    "AOC OLED Q27G4ZDR",
-    325.9
-   ],
-   [
-    "monitor",
     "AOC Q24G4RE",
     129.0
    ],
@@ -532,13 +517,13 @@
    ],
    [
     "monitor",
-    "AOC U27B3AF",
-    165.95
+    "AOC Q27G4ZR",
+    175.9
    ],
    [
     "monitor",
-    "AOC U32G4U",
-    373.9
+    "AOC U27B3AF",
+    165.95
    ],
    [
     "monitor",
@@ -662,8 +647,13 @@
    ],
    [
     "monitor",
+    "ASUS ROG Strix XG27UQDMS QD-OLED",
+    797.9
+   ],
+   [
+    "monitor",
     "ASUS ROG Strix XG32UCWMG OLED",
-    811.0
+    808.0
    ],
    [
     "monitor",
@@ -673,7 +663,7 @@
    [
     "monitor",
     "ASUS ROG Swift OLED PG27UCDM",
-    805.0
+    820.9
    ],
    [
     "monitor",
@@ -762,11 +752,6 @@
    ],
    [
     "monitor",
-    "ASUS TUF Gaming VG34VQL3A",
-    284.99
-   ],
-   [
-    "monitor",
     "ASUS TUF Gaming VG34WQL5A Curved",
     356.9
    ],
@@ -783,7 +768,7 @@
    [
     "monitor",
     "ASUS ZenScreen Duo OLED MQ149CD",
-    524.9
+    527.9
    ],
    [
     "monitor",
@@ -803,7 +788,7 @@
    [
     "monitor",
     "ASUS ZenScreen MB16NCG",
-    243.95
+    249.0
    ],
    [
     "monitor",
@@ -883,7 +868,7 @@
    [
     "monitor",
     "Apple Studio Display XDR Nanotextur (2026) mit neigbarem, höhenverstellbarem Standfuß",
-    3476.0
+    3446.0
    ],
    [
     "monitor",
@@ -912,23 +897,18 @@
    ],
    [
     "monitor",
-    "BlueBuilt 27 Zoll Full HD Monitor mit USB-C Doppelpack",
-    341.9
-   ],
-   [
-    "monitor",
     "BlueBuilt 27 Zoll Full-HD-Monitor mit USB-C",
-    170.95
+    171.9
    ],
    [
     "monitor",
     "BlueBuilt 27 Zoll Quad HD Monitor mit USB-C Doppelpack",
-    313.9
+    315.9
    ],
    [
     "monitor",
     "BlueBuilt 27 Zoll Quad-HD-Monitor mit USB-C",
-    156.9
+    157.9
    ],
    [
     "monitor",
@@ -943,7 +923,7 @@
    [
     "monitor",
     "Dell Pro Plus P3425WE Curved",
-    453.9
+    446.9
    ],
    [
     "monitor",
@@ -952,18 +932,18 @@
    ],
    [
     "monitor",
-    "Dell U2725QE",
-    628.9
-   ],
-   [
-    "monitor",
     "Dell U4025QW",
-    1633.0
+    1637.0
    ],
    [
     "monitor",
     "EIZO CS2740",
     1313.0
+   ],
+   [
+    "monitor",
+    "EIZO EV3240X-BK",
+    1099.0
    ],
    [
     "monitor",
@@ -974,11 +954,6 @@
     "monitor",
     "Eizo EV2480-BK",
     325.9
-   ],
-   [
-    "monitor",
-    "GIGABYTE G27Q2",
-    139.0
    ],
    [
     "monitor",
@@ -1222,8 +1197,8 @@
    ],
    [
     "monitor",
-    "LG UltraGear 27GS85Q-B",
-    224.9
+    "LG UltraGear 27GX790B WOLED",
+    655.9
    ],
    [
     "monitor",
@@ -1243,7 +1218,7 @@
    [
     "monitor",
     "LG UltraGear Evo 39GX950B OLED Curved",
-    1409.0
+    1399.0
    ],
    [
     "monitor",
@@ -1328,7 +1303,7 @@
    [
     "monitor",
     "Lenovo L27h-4A",
-    210.0
+    209.9
    ],
    [
     "monitor",
@@ -1368,7 +1343,7 @@
    [
     "monitor",
     "Lenovo ThinkVision T24D-40",
-    185.95
+    185.9
    ],
    [
     "monitor",
@@ -1412,6 +1387,11 @@
    ],
    [
     "monitor",
+    "MSI MAG 272QP X24 QD-OLED",
+    386.9
+   ],
+   [
+    "monitor",
     "MSI MAG 272QP X50 QD-OLED",
     640.9
    ],
@@ -1439,6 +1419,11 @@
     "monitor",
     "MSI MAG 274CQFDE",
     213.9
+   ],
+   [
+    "monitor",
+    "MSI MAG 274QFDE E20",
+    179.0
    ],
    [
     "monitor",
@@ -1508,7 +1493,7 @@
    [
     "monitor",
     "MSI MAG 342CQRF E20 Curved",
-    264.9
+    265.9
    ],
    [
     "monitor",
@@ -1518,7 +1503,7 @@
    [
     "monitor",
     "MSI MAG 401QR",
-    391.9
+    411.9
    ],
    [
     "monitor",
@@ -1623,27 +1608,27 @@
    [
     "monitor",
     "Philips 242B1G/00",
-    170.95
+    170.99
    ],
    [
     "monitor",
     "Philips 242B1G/00 + BlueBuilt Monitorhalterung Mechanische Feder für 1 Monitor",
-    219.95
+    219.99
    ],
    [
     "monitor",
     "Philips 242B1G/00 Doppelpack",
-    341.9
+    341.99
    ],
    [
     "monitor",
     "Philips 242B1G/00 Doppelpack + BlueBuilt Monitorhalterung Mechanische Feder für 2 Monitore",
-    420.9
+    420.99
    ],
    [
     "monitor",
     "Philips 245B1",
-    202.95
+    202.99
    ],
    [
     "monitor",
@@ -1688,7 +1673,7 @@
    [
     "monitor",
     "Philips 27B2G5500/00",
-    217.9
+    217.95
    ],
    [
     "monitor",
@@ -1763,7 +1748,12 @@
    [
     "monitor",
     "Philips 27E2N1500L/00 Duo Pack + BlueBuilt Monitorhalterung für 2 Monitore",
-    267.9
+    264.9
+   ],
+   [
+    "monitor",
+    "Philips 27E2N2500/00",
+    125.9
    ],
    [
     "monitor",
@@ -1862,6 +1852,11 @@
    ],
    [
     "monitor",
+    "Philips E3 27E3U7903/00",
+    822.9
+   ],
+   [
+    "monitor",
     "Philips EVNIA 24M2N3201P/00",
     124.9
    ],
@@ -1932,6 +1927,11 @@
    ],
    [
     "monitor",
+    "Phillips 32E1N1800LA/00",
+    204.95
+   ],
+   [
+    "monitor",
     "Samsung Essential G3 G32H LS24HG320EUXEN",
     129.0
    ],
@@ -1939,6 +1939,21 @@
     "monitor",
     "Samsung Essential G3 G32H LS27HG320EUXEN",
     139.0
+   ],
+   [
+    "monitor",
+    "Samsung G5 G55H LS27HG552EUXEN Curved",
+    199.0
+   ],
+   [
+    "monitor",
+    "Samsung G5 G55H LS32HG552EUXEN Curved",
+    229.0
+   ],
+   [
+    "monitor",
+    "Samsung G5 G55H LS34HG552EUXEN Curved",
+    279.0
    ],
    [
     "monitor",
@@ -2058,7 +2073,7 @@
    [
     "monitor",
     "Samsung Smart Monitor M5 M50D LS27FM500EUXEN",
-    235.9
+    245.9
    ],
    [
     "monitor",
@@ -2069,6 +2084,11 @@
     "monitor",
     "Samsung Smart Monitor M8 M80F LS32FM801UUXEN",
     453.9
+   ],
+   [
+    "monitor",
+    "Samsung Smart Monitor M9 M90SF LS32FM902SUXEN QD-OLED",
+    1377.0
    ],
    [
     "monitor",
@@ -2109,11 +2129,6 @@
     "monitor",
     "Samsung ViewFinity S8 S80UH LS27H804UAUXEN",
     289.0
-   ],
-   [
-    "monitor",
-    "Samsung ViewFinity S8 S80UH LS32H804UAUXEN",
-    303.99
    ],
    [
     "monitor",
@@ -2188,7 +2203,12 @@
    [
     "monitor",
     "iiyama PROLITE T2252MSC-B2",
-    252.9
+    265.9
+   ],
+   [
+    "monitor",
+    "iiyama PROLITE XU2792UHSU-B6",
+    264.95
    ],
    [
     "monitor",
@@ -2198,7 +2218,7 @@
    [
     "monitor",
     "iiyama ProLite T2255MSC-B1",
-    260.9
+    259.9
    ],
    [
     "monitor",
@@ -2258,7 +2278,7 @@
    [
     "monitor",
     "iiyama ProLite XB2492HSU-B1",
-    137.9
+    133.9
    ],
    [
     "monitor",
@@ -2268,7 +2288,7 @@
    [
     "monitor",
     "iiyama ProLite XB2497HSN-B1",
-    176.9
+    171.9
    ],
    [
     "monitor",
@@ -2317,8 +2337,23 @@
    ],
    [
     "monitor",
+    "iiyama ProLite XB3270QSU-B1",
+    239.0
+   ],
+   [
+    "monitor",
     "iiyama ProLite XB3294UHSCP-B1",
-    292.9
+    307.9
+   ],
+   [
+    "monitor",
+    "iiyama ProLite XUB2492QSU-B1",
+    159.9
+   ],
+   [
+    "monitor",
+    "iiyama ProLite XUB3293UHSN-B5",
+    397.9
    ],
    [
     "mouse",
@@ -2492,6 +2527,11 @@
    ],
    [
     "mouse",
+    "HP 400 Leise Kabellose Maus Schwarz",
+    29.9
+   ],
+   [
+    "mouse",
     "HP 430 Multi-Device Kabelgebunden Maus",
     28.9
    ],
@@ -2543,7 +2583,7 @@
    [
     "mouse",
     "HyperX Pulsefire Saga Pro Wireless Gaming-Maus Schwarz",
-    84.9
+    83.9
    ],
    [
     "mouse",
@@ -2603,7 +2643,7 @@
    [
     "mouse",
     "Logitech G PRO X SUPERLIGHT 2c SE Schwarz",
-    139.99
+    139.9
    ],
    [
     "mouse",
@@ -2648,7 +2688,7 @@
    [
     "mouse",
     "Logitech G PRO X3 SUPERSTRIKE LIGHTSPEED Schwarz",
-    187.9
+    186.99
    ],
    [
     "mouse",
@@ -2658,7 +2698,7 @@
    [
     "mouse",
     "Logitech G305 Lightspeed Kabellose Gaming-Maus",
-    34.9
+    33.9
    ],
    [
     "mouse",
@@ -3028,7 +3068,7 @@
    [
     "mouse",
     "Turtle Beach Kone II AIR Wireless Gaming-Maus Weiß",
-    129.99
+    123.9
    ],
    [
     "mouse",
@@ -3063,32 +3103,32 @@
    [
     "psu",
     "be quiet! PURE POWER 12 750 W",
-    103.9
+    104.9
    ],
    [
     "psu",
     "be quiet! PURE POWER 13 M 1.000 W",
-    154.9
+    146.9
    ],
    [
     "psu",
     "be quiet! Power Zone 2 1.000 W",
-    160.9
+    161.9
    ],
    [
     "psu",
     "be quiet! Power Zone 2 1200 W ATX 3.1",
-    164.9
+    165.9
    ],
    [
     "psu",
     "be quiet! Power Zone 2 750 W",
-    123.9
+    124.9
    ],
    [
     "psu",
     "be quiet! Power Zone 2 850 W",
-    142.9
+    143.9
    ],
    [
     "ram",
@@ -3098,7 +3138,7 @@
    [
     "ram",
     "Crucial 16GB (1x 16GB) DDR5 DIMM 5600MT/s CL46",
-    361.9
+    347.9
    ],
    [
     "ram",
