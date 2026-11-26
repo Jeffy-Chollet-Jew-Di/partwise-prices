@@ -38,6 +38,14 @@ def norm(s):
     s = s.lower().replace("g.skill", "gskill").replace("be quiet!", "bequiet").replace("be quiet", "bequiet")
     s = s.replace("wd_black", "wd black").replace("ß", "ss").replace("ä", "a").replace("ö", "o").replace("ü", "u")
     s = s.replace("m.2", "m2")
+    s = re.sub(r"\b(\d{4,6})\s*mb\b", lambda m: "%dgb" % (int(m.group(1)) // 1024) if int(m.group(1)) % 1024 == 0 else m.group(0), s)   # 16384 MB -> 16gb
+    s = re.sub(r"\b(rtx|gtx|rx)(\d)", r"\1 \2", s)                 # RX9060 -> rx 9060
+    s = re.sub(r"\b(\d{1,2})g\b", r"\1gb", s)                        # 8G -> 8gb (card names)
+    s = re.sub(r"\b[345]\.[01]\s*x[1248]\b", " ", s)                 # interface lanes "4.0 x4 / 5.0 x2" are not a version
+    s = re.sub(r"\b(\d{1,2})\.(\d{3})\s*watt\b", r"\1\2w", s)               # 1.000 Watt -> 1000w
+    s = re.sub(r"\b80\s*plus\b", "80plus", s)                             # "80 PLUS Gold" is an efficiency label, not a "Plus" version
+    s = re.sub(r"(\d)\s*watt\b", r"\1w", s)                            # 850 Watt -> 850w
+    s = re.sub(r"\b(\d{4})(ti|xtx|xt|gre)\b", r"\1 \2", s)        # 5060Ti -> 5060 ti
     s = re.sub(r"(\d)\.(\d{3})\b", r"\1\2", s)            # 6.000 -> 6000, 1.000 W -> 1000 W
     s = re.sub(r"(\d)(mt/s|mhz)", r"\1 \2", s)                    # 6000MT/s -> 6000 mt/s
     s = re.sub(r"(\d)\s*(gb|tb|w|mm)\b", r"\1\2", s)       # 2 TB -> 2tb, 850 W -> 850w
