@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-26T14:46:36Z",
+ "updated": "2026-11-26T15:29:07Z",
  "stores": {
   "coolblue-de": {
    "feed_rows": 15430,
    "pc_rows": 775,
-   "matched": 119
+   "matched": 121
   },
   "caseking": {
    "feed_rows": 8749,
    "pc_rows": 3358,
-   "matched": 96
+   "matched": 166
   },
   "conrad-be": {
    "feed_rows": 780922,
    "pc_rows": 2863,
-   "matched": 29
+   "matched": 45
   }
  },
  "rejected": [],
@@ -59,11 +59,6 @@
     "cooler",
     "Noctua NH-D15 G2 chromax.black",
     161.9
-   ],
-   [
-    "cooler",
-    "be quiet! Pure Rock 3 Schwarz",
-    38.9
    ],
    [
     "cooler",
@@ -3172,11 +3167,6 @@
    ],
    [
     "psu",
-    "be quiet! PURE POWER 12 750 W",
-    104.9
-   ],
-   [
-    "psu",
     "be quiet! PURE POWER 13 M 1.000 W",
     146.9
    ],
@@ -3244,11 +3234,6 @@
    ],
    [
     "case",
-    "ADATA XPG Valor Mesh PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
-    44.9
-   ],
-   [
-    "case",
     "ARCTIC Xtender PC-Gehäuse, Midi-Tower, E-ATX, RGB, Tempered Glass - inklusive vertikaler G",
     159.9
    ],
@@ -3286,11 +3271,6 @@
     "case",
     "ASUS Prime AP201 Micro-ATX Gehäuse - weiß",
     66.9
-   ],
-   [
-    "case",
-    "ASUS Prime AP201 Micro-ATX Gehäuse, Tempered Glass - schwarz",
-    69.9
    ],
    [
     "case",
@@ -4006,16 +3986,6 @@
     "case",
     "Fractal Design Pop 2 Air TG RGB PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - inklusive 3x",
     99.9
-   ],
-   [
-    "case",
-    "Fractal Design Pop Air Black Solid Midi-Tower - schwarz",
-    82.9
-   ],
-   [
-    "case",
-    "Fractal Design Pop Air Black TG Clear Tint Midi-Tower - schwarz",
-    82.9
    ],
    [
     "case",
@@ -4789,11 +4759,6 @@
    ],
    [
     "case",
-    "Lian Li LANCOOL 216 E-ATX-Gehäuse, Midi-Tower - schwarz",
-    99.9
-   ],
-   [
-    "case",
     "Lian Li LANCOOL 216 RGB, E-ATX-Gehäuse, Midi-Tower - schwarz",
     89.9
    ],
@@ -5061,11 +5026,6 @@
     "case",
     "Montech X3 Glass PC-Gehäuse, Midi-Tower, ATX, RGB, Tempered Glass - weiß",
     54.9
-   ],
-   [
-    "case",
-    "Montech X3 Mesh Midi-Tower, RGB, Tempered Glass - schwarz",
-    49.9
    ],
    [
     "case",
@@ -6169,21 +6129,6 @@
    ],
    [
     "cooler",
-    "Arctic Freezer 36 Black CPU-Kühler, 120mm",
-    26.9
-   ],
-   [
-    "cooler",
-    "Arctic Freezer 36 CO CPU-Kühler, 120mm",
-    22.9
-   ],
-   [
-    "cooler",
-    "Arctic Freezer 36 CPU-Kühler, 120mm",
-    26.9
-   ],
-   [
-    "cooler",
     "Arctic Freezer 36-S A-RGB CPU-Kühler - schwarz",
     21.9
    ],
@@ -6191,16 +6136,6 @@
     "cooler",
     "Arctic Freezer 36-S A-RGB CPU-Kühler - weiß",
     22.9
-   ],
-   [
-    "cooler",
-    "Arctic Freezer 36-S CPU-Kühler - schwarz",
-    19.9
-   ],
-   [
-    "cooler",
-    "Arctic Freezer 36-S CPU-Kühler - schwarz/silber",
-    18.9
    ],
    [
     "cooler",
@@ -6251,11 +6186,6 @@
     "cooler",
     "Arctic Liquid Freezer III Pro 360 ARGB AiO Wasserkühlung - 360mm, weiß",
     92.9
-   ],
-   [
-    "cooler",
-    "Arctic Liquid Freezer III Pro 360 AiO Wasserkühlung - 360mm, schwarz",
-    79.9
    ],
    [
     "cooler",
@@ -7479,11 +7409,6 @@
    ],
    [
     "cooler",
-    "Thermalright Phantom Spirit 120 SE CPU-Kühler - 120 mm, Dual-Tower",
-    44.9
-   ],
-   [
-    "cooler",
     "Thermalright Royal Pretor 130 CPU-Kühler, Dual-Tower - 1x 120mm, 1x 130mm, schwarz",
     49.9
    ],
@@ -7559,11 +7484,6 @@
    ],
    [
     "cooler",
-    "be quiet! Pure Rock 3 CPU-Kühler - 120mm, schwarz",
-    34.9
-   ],
-   [
-    "cooler",
     "be quiet! Pure Rock 3 LX CPU-Kühler - 120mm, schwarz",
     37.9
    ],
@@ -7624,18 +7544,8 @@
    ],
    [
     "cpu",
-    "AMD Ryzen 5 5500 3,6 GHz (Cezanne) Sockel AM4 - boxed",
-    77.89
-   ],
-   [
-    "cpu",
     "AMD Ryzen 5 5500F CPU, 6 Kerne, 4,4GHz, Sockel AM4 (Zen 3) - boxed, mit Kühler",
     94.9
-   ],
-   [
-    "cpu",
-    "AMD Ryzen 5 5600X 3,7 GHz (Vermeer) AM4 - mit AMD Wraith Stealth Kühler",
-    152.87
    ],
    [
     "cpu",
@@ -7659,11 +7569,6 @@
    ],
    [
     "cpu",
-    "AMD Ryzen 5 7600 5,1 GHz (Raphael) AM5 - boxed",
-    189.65
-   ],
-   [
-    "cpu",
     "AMD Ryzen 5 8500G 5,0 GHz (Phoenix) AM5 - boxed, mit Kühler",
     135.65
    ],
@@ -7684,11 +7589,6 @@
    ],
    [
     "cpu",
-    "AMD Ryzen 7 5700X 3,4 GHz (Vermeer) AM4 - boxed ohne Kühler",
-    199.82
-   ],
-   [
-    "cpu",
     "AMD Ryzen 7 5800X 3,8 GHz (Vermeer) AM4 - boxed ohne Kühler",
     205.22
    ],
@@ -7696,11 +7596,6 @@
     "cpu",
     "AMD Ryzen 7 8700F 5,0 GHz (Phoenix ) AM5 - boxed, mit Kühler",
     169.97
-   ],
-   [
-    "cpu",
-    "AMD Ryzen 9 7900X 4,7 GHz (Raphael) AM5 - boxed",
-    264.31
    ],
    [
     "cpu",
@@ -7769,18 +7664,8 @@
    ],
    [
     "cpu",
-    "Intel Core Ultra 5 225F CPU, 10 Kerne, 4,9 GHz, Sockel 1851 (Arrow Lake) - boxed, ohne Küh",
-    157.9
-   ],
-   [
-    "cpu",
     "Intel Core Ultra 5 235 CPU, 14 Kerne, 5,0 GHz, Sockel 1851 (Arrow Lake) - boxed, ohne Kühl",
     282.9
-   ],
-   [
-    "cpu",
-    "Intel Core Ultra 5 245KF CPU, 14 Kerne, 5,2 GHz, Sockel 1851 (Arrow Lake) - boxed, ohne Kü",
-    190.61
    ],
    [
     "cpu",
@@ -7814,11 +7699,6 @@
    ],
    [
     "cpu",
-    "Intel Core Ultra 7 265KF CPU, 20 Kerne, 5,5 GHz, Sockel 1851 (Arrow Lake) - boxed, ohne Kü",
-    299.0
-   ],
-   [
-    "cpu",
     "Intel Core Ultra 7 265KF CPU, 20 Kerne, 5,5 GHz, Sockel 1851 (Arrow Lake) - tray, ohne Küh",
     273.99
    ],
@@ -7849,11 +7729,6 @@
    ],
    [
     "cpu",
-    "Intel Core i3-14100F 3,5 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
-    98.1
-   ],
-   [
-    "cpu",
     "Intel Core i5-12400 2,50 GHz (Alder Lake-S) Sockel 1700 - boxed",
     174.9
    ],
@@ -7871,16 +7746,6 @@
     "cpu",
     "Intel Core i5-12600K 3,70 GHz (Alder Lake-S) Sockel 1700 - boxed",
     199.9
-   ],
-   [
-    "cpu",
-    "Intel Core i5-12600KF 3,70 GHz (Alder Lake-S) Sockel 1700 - boxed",
-    174.75
-   ],
-   [
-    "cpu",
-    "Intel Core i5-14400F 2,5 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
-    167.28
    ],
    [
     "cpu",
@@ -7936,11 +7801,6 @@
     "cpu",
     "Intel Core i7-14700 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
     348.65
-   ],
-   [
-    "cpu",
-    "Intel Core i7-14700F 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
-    289.0
    ],
    [
     "cpu",
@@ -8001,11 +7861,6 @@
     "fans",
     "APNX FP1-R PWM-Lüfter, Reverse Blade, PWM, ARGB - 3er-Pack, weiß",
     16.9
-   ],
-   [
-    "fans",
-    "ARCTIC P12 Pro A-RGB PWM Lüfter - 3er Pack, 120mm, schwarz",
-    27.9
    ],
    [
     "fans",
@@ -10929,31 +10784,6 @@
    ],
    [
     "gpu",
-    "ASUS Dual GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
-    829.0
-   ],
-   [
-    "gpu",
-    "ASUS Dual GeForce RTX 5060 Ti OC Edition, 8192 MB GDDR7",
-    599.0
-   ],
-   [
-    "gpu",
-    "ASUS Dual GeForce RTX 5060 Ti White OC Edition, 16384 MB GDDR7",
-    849.0
-   ],
-   [
-    "gpu",
-    "ASUS Dual Radeon RX 9060 XT White Edition, 16384 MB GDDR6",
-    689.0
-   ],
-   [
-    "gpu",
-    "ASUS Dual Radeon RX 9060 XT, 16384 MB GDDR6",
-    679.0
-   ],
-   [
-    "gpu",
     "ASUS GeForce GT 1030 2G, 2048 MB GDDR5 - Single Slot, Low Profile",
     100.57
    ],
@@ -10979,31 +10809,6 @@
    ],
    [
     "gpu",
-    "ASUS Prime GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
-    799.0
-   ],
-   [
-    "gpu",
-    "ASUS Prime GeForce RTX 5060 Ti OC Edition, 8192 MB GDDR7",
-    579.9
-   ],
-   [
-    "gpu",
-    "ASUS Prime Radeon RX 9060 XT OC Edition Grafikkarte, 16384 MB GDDR6",
-    879.0
-   ],
-   [
-    "gpu",
-    "ASUS Prime Radeon RX 9070 OC Edition Grafikkarte, 16384 MB GDDR6",
-    749.0
-   ],
-   [
-    "gpu",
-    "ASUS TUF GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
-    949.0
-   ],
-   [
-    "gpu",
     "ASUS TURBO Radeon AI PRO R9700 32G Grafikkarte, 32768 MB GDDR6",
     2449.0
    ],
@@ -11014,33 +10819,8 @@
    ],
    [
     "gpu",
-    "ASrock Radeon RX 9070 Challenger Grafikkarte, 16384 MB GDDR6",
-    729.0
-   ],
-   [
-    "gpu",
     "GIGABYTE GeForce GT 1030 Low Profile D4 2G, 2048 MB DDR4",
     140.05
-   ],
-   [
-    "gpu",
-    "GIGABYTE GeForce RTX 5060 Ti Eagle MAX OC 16G, 16384 MB GDDR7",
-    949.0
-   ],
-   [
-    "gpu",
-    "GIGABYTE GeForce RTX 5060 Ti Eagle MAX OC 8G, 8192 MB GDDR7",
-    569.0
-   ],
-   [
-    "gpu",
-    "GIGABYTE GeForce RTX 5060 Ti Windforce MAX OC 16G, 16384 MB GDDR7",
-    959.0
-   ],
-   [
-    "gpu",
-    "GIGABYTE GeForce RTX 5060 Ti Windforce MAX OC 8G, 8192 MB GDDR7",
-    599.0
    ],
    [
     "gpu",
@@ -11049,143 +10829,8 @@
    ],
    [
     "gpu",
-    "GIGABYTE Radeon RX 9060 XT Gaming 16G, 16384 GDDR6",
-    649.0
-   ],
-   [
-    "gpu",
     "Gainward GeForce RTX 3050 Pegasus Grafikkarte, 6144 MB GDDR6",
     349.0
-   ],
-   [
-    "gpu",
-    "Gainward GeForce RTX 5060 Ti Ghost Grafikkarte, 8192 MB GDDR7",
-    589.0
-   ],
-   [
-    "gpu",
-    "Gainward GeForce RTX 5060 Ti Ghost OC, 16384 MB GDDR7",
-    884.9
-   ],
-   [
-    "gpu",
-    "Gainward GeForce RTX 5060 Ti Python III OC, 16384 MB GDDR7",
-    899.0
-   ],
-   [
-    "gpu",
-    "Gainward GeForce RTX 5060 Ti Python III, 16384 MB GDDR7",
-    879.0
-   ],
-   [
-    "gpu",
-    "Gigabyte Aorus GeForce RTX 5060 Ti Elite, 16384 MB GDDR7",
-    869.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Aero OC, 16384 MB GDDR7",
-    919.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Aero OC, 8192 MB GDDR7",
-    629.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Eagle OC, 16384 MB GDDR7",
-    969.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Eagle OC, 8192 MB GDDR7",
-    599.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Gaming OC, 16384 MB GDDR7",
-    949.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Gaming OC, 8192 MB GDDR7",
-    619.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Windforce OC 16G, 16384 MB GDDR7",
-    959.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Windforce OC, 8192 MB GDDR7",
-    659.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Windforce, 16384 MB GDDR7",
-    919.0
-   ],
-   [
-    "gpu",
-    "Gigabyte GeForce RTX 5060 Ti Windforce, 8192 MB GDDR7",
-    599.0
-   ],
-   [
-    "gpu",
-    "Gigabyte Radeon RX 9060 XT Gaming OC 16G Grafikkarte, 16384 MB GDDR6",
-    749.0
-   ],
-   [
-    "gpu",
-    "Gigabyte Radeon RX 9060 XT Gaming OC 8G Grafikkarte, 8192 MB GDDR6",
-    499.0
-   ],
-   [
-    "gpu",
-    "Gigabyte Radeon RX 9060 XT Gaming OC 8G Grafikkarte, 8192 MB GDDR6",
-    529.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti Twin X2 OC White, 16384 MB GDDR7",
-    829.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti Twin X2 OC White, 8192 MB GDDR7",
-    639.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti Twin X2 OC, 16384 MB GDDR7",
-    829.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti Twin X2 OC, 8192 MB GDDR7",
-    569.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti Twin X2, 16384 MB GDDR7",
-    869.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti Twin X2, 8192 MB GDDR7",
-    549.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti X3 OC, 16384 MB GDDR7",
-    869.0
-   ],
-   [
-    "gpu",
-    "INNO3D GEFORCE RTX 5060 Ti X3 OC, 8192 MB GDDR7",
-    559.0
    ],
    [
     "gpu",
@@ -11204,18 +10849,8 @@
    ],
    [
     "gpu",
-    "INNO3D GeForce RTX 3050 Twin X2 V2, 8192 MB GDDR6",
-    349.0
-   ],
-   [
-    "gpu",
     "INNO3D GeForce RTX 3050 Twin X2, 6144 MB GDDR6",
     317.94
-   ],
-   [
-    "gpu",
-    "INNO3D GeForce RTX 3060 Twin X2, 12288 MB GDDR6",
-    529.9
    ],
    [
     "gpu",
@@ -11231,36 +10866,6 @@
     "gpu",
     "MSI GeForce GT 710 Grafikkarte, Low-Profile, 2048 MB DDR3",
     51.98
-   ],
-   [
-    "gpu",
-    "MSI GeForce RTX 5060 Ti 16G Ventus 2X OC Plus, 16384 MB GDDR7",
-    829.0
-   ],
-   [
-    "gpu",
-    "MSI GeForce RTX 5060 Ti 8G Ventus 2X OC Plus, 8192 MB GDDR7",
-    569.0
-   ],
-   [
-    "gpu",
-    "MSI GeForce RTX 5060 Ti Gaming OC, 16384 MB GDDR7",
-    889.0
-   ],
-   [
-    "gpu",
-    "MSI GeForce RTX 5060 Ti Gaming Trio OC White, 16384 MB GDDR7",
-    999.0
-   ],
-   [
-    "gpu",
-    "MSI GeForce RTX 5060 Ti Ventus 2X OC White, 16384 MB GDDR7",
-    959.0
-   ],
-   [
-    "gpu",
-    "MSI GeForce RTX 5060 Ti Ventus 3X OC, 16384 MB GDDR7",
-    869.0
    ],
    [
     "gpu",
@@ -11289,11 +10894,6 @@
    ],
    [
     "gpu",
-    "PNY GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
-    819.0
-   ],
-   [
-    "gpu",
     "PNY RTX 2000 Ada Generation Grafikkarte, 16384 MB GDDR6",
     799.0
    ],
@@ -11309,78 +10909,8 @@
    ],
    [
     "gpu",
-    "Palit GeForce RTX 3060 Infinity 2 OC Grafikkarte, 12288 MB GDDR6",
-    549.0
-   ],
-   [
-    "gpu",
-    "Palit GeForce RTX 5060 Ti Infinity 3, 16384 MB GDDR7",
-    809.0
-   ],
-   [
-    "gpu",
-    "Palit GeForce RTX 5060Ti Dual, 8192 MB GDDR7",
-    589.0
-   ],
-   [
-    "gpu",
-    "Palit GeForce RTX 5060Ti Infinity 3 OC, 16384 MB GDDR7",
-    879.0
-   ],
-   [
-    "gpu",
-    "PowerColor Hellhound Radeon RX 9060 XT Grafikkarte, 8192 MB GDDR6",
-    499.0
-   ],
-   [
-    "gpu",
-    "PowerColor Hellhound Radeon RX 9060 XT OC Grafikkarte, 16384 MB GDDR6",
-    749.0
-   ],
-   [
-    "gpu",
-    "PowerColor Hellhound Spectral White Radeon RX 9060 XT OC Grafikkarte, 16384 MB GDDR6",
-    558.48
-   ],
-   [
-    "gpu",
     "PowerColor Radeon AI PRO R9700 Grafikkarte, 32GB GDDR6",
     2349.0
-   ],
-   [
-    "gpu",
-    "PowerColor Reaper Radeon RX 9060 XT Grafikkarte, 16384 MB GDDR6",
-    689.0
-   ],
-   [
-    "gpu",
-    "PowerColor Reaper Radeon RX 9060 XT Grafikkarte, 8192 MB GDDR6",
-    569.0
-   ],
-   [
-    "gpu",
-    "Sapphire Nitro+ Radeon RX 9060 XT Gaming OC Grafikkarte, 16384 MB GDDR6",
-    769.0
-   ],
-   [
-    "gpu",
-    "Sapphire Pulse Radeon RX 9060 XT Gaming Grafikkarte, 8192 MB GDDR6",
-    549.0
-   ],
-   [
-    "gpu",
-    "Sapphire Pulse Radeon RX 9060 XT Gaming OC Grafikkarte, 16384 MB GDDR6",
-    749.0
-   ],
-   [
-    "gpu",
-    "Sapphire Pulse Radeon RX 9060 XT Gaming OC Grafikkarte, 8192 MB GDDR6",
-    569.0
-   ],
-   [
-    "gpu",
-    "Sapphire Pure Radeon RX 9060 XT Gaming OC Grafikkarte, 16384 MB GDDR6",
-    749.0
    ],
    [
     "gpu",
@@ -11414,83 +10944,8 @@
    ],
    [
     "gpu",
-    "XFX Mercury Radeon RX 9060 XT OC Gaming Edition Grafikkarte, 16384 MB GDDR6",
-    749.0
-   ],
-   [
-    "gpu",
-    "XFX Mercury Radeon RX 9060 XT OC White Gaming Edition Grafikkarte, 16384 MB GDDR6",
-    709.0
-   ],
-   [
-    "gpu",
     "XFX Radeon AI PRO R9700 Grafikkarte, 32GB GDDR6",
     2399.0
-   ],
-   [
-    "gpu",
-    "XFX Swift Radeon RX 9060 XT OC Gaming Edition Grafikkarte, 8192 MB GDDR6",
-    499.0
-   ],
-   [
-    "gpu",
-    "XFX Swift Radeon RX 9060 XT OC Gaming Edition, 16384 MB GDDR6",
-    769.0
-   ],
-   [
-    "gpu",
-    "XFX Swift Radeon RX 9060 XT OC Triple Fan Gaming Edition, 16384 MB GDDR6",
-    749.0
-   ],
-   [
-    "gpu",
-    "XFX Swift Radeon RX 9060 XT OC White Gaming Edition Grafikkarte, 8192 MB GDDR6",
-    473.41
-   ],
-   [
-    "gpu",
-    "ZOTAC GAMING GeForce RTX 5060 Ti AMP, 16384 MB GDDR7",
-    879.0
-   ],
-   [
-    "gpu",
-    "ZOTAC GAMING GeForce RTX 5060 Ti AMP, 8192 MB GDDR7",
-    539.0
-   ],
-   [
-    "gpu",
-    "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC, 16384 MB GDDR7",
-    899.0
-   ],
-   [
-    "gpu",
-    "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC, 8192 MB GDDR7",
-    549.0
-   ],
-   [
-    "gpu",
-    "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge, 16384 MB GDDR7",
-    949.0
-   ],
-   [
-    "gpu",
-    "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge, 8192 MB GDDR7",
-    569.0
-   ],
-   [
-    "gpu",
-    "ZOTAC Gaming GeForce RTX 3050 Eco Solo, 8192 MB GDDR6",
-    369.0
-   ],
-   [
-    "gpu",
-    "ZOTAC Gaming GeForce RTX 3050 Eco, 8192 MB GDDR6",
-    379.0
-   ],
-   [
-    "gpu",
-    "ZOTAC Gaming GeForce RTX 5060 Ti Twin Edge OC White Edition, 16384 MB GDDR7",
-    929.0
    ],
    [
     "gpu",
@@ -12364,11 +11819,6 @@
    ],
    [
     "mobo",
-    "ASROCK B850M Pro-A WiFi Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
-    134.9
-   ],
-   [
-    "mobo",
     "ASROCK B850M Riptide Wifi Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
     164.9
    ],
@@ -12424,16 +11874,6 @@
    ],
    [
     "mobo",
-    "ASRock B650M Pro RS, AMD B650 Mainboard - Sockel AM5, DDR5",
-    120.51
-   ],
-   [
-    "mobo",
-    "ASRock B650M-HDV/M.2, AMD B650 Mainboard - Sockel AM5, DDR5",
-    94.71
-   ],
-   [
-    "mobo",
     "ASRock B760 Pro RS, Intel B760 Mainboard - Sockel 1700, DDR5",
     115.65
    ],
@@ -12451,11 +11891,6 @@
     "mobo",
     "ASRock B760M-H2/M.2 Mainboard, Sockel 1700, Intel B760, mATX, DDR5",
     75.95
-   ],
-   [
-    "mobo",
-    "ASRock B760M-HDV/M.2 D4, Intel B760 Mainboard - Sockel 1700, DDR4",
-    82.9
    ],
    [
     "mobo",
@@ -13531,16 +12966,6 @@
     "mobo",
     "MSI B760I Edge WiFi, Sockel LGA 1700, Intel B760I, Mini-ITX - DDR5",
     201.67
-   ],
-   [
-    "mobo",
-    "MSI B850 Gaming Plus WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
-    180.1
-   ],
-   [
-    "mobo",
-    "MSI B860M Gaming Plus WiFi Mainboard, Sockel LGA 1851, Intel B860, mATX, DDR5",
-    166.43
    ],
    [
     "mobo",
@@ -15334,16 +14759,6 @@
    ],
    [
     "psu",
-    "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 750 Watt, schwarz",
-    74.9
-   ],
-   [
-    "psu",
-    "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
-    69.9
-   ],
-   [
-    "psu",
     "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 600 Watt, schwarz",
     34.9
    ],
@@ -15549,23 +14964,8 @@
    ],
    [
     "psu",
-    "Cooler Master MWE Gold 850 V3 80 PLUS Gold Netzteil, ATX 3.1 - 850 Watt",
-    75.9
-   ],
-   [
-    "psu",
     "Corsair CX Series CX550 Netzteil 80 PLUS Bronze - 550 Watt",
     56.9
-   ],
-   [
-    "psu",
-    "Corsair CX Series CX650 Netzteil 80 PLUS Bronze - 650 Watt",
-    64.9
-   ],
-   [
-    "psu",
-    "Corsair CX Series CX750 Netzteil 80 PLUS Bronze - 750 Watt",
-    72.9
    ],
    [
     "psu",
@@ -15589,16 +14989,6 @@
    ],
    [
     "psu",
-    "Corsair RMe Series RM1000e (3rd Gen) 80 PLUS Platinum Netzteil, ATX 3.1, PCIe 5.1 - 1.000 ",
-    119.9
-   ],
-   [
-    "psu",
-    "Corsair RMe Series RM1000e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt,",
-    134.9
-   ],
-   [
-    "psu",
     "Corsair RMe Series RM1000e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt,",
     149.9
    ],
@@ -15609,33 +14999,8 @@
    ],
    [
     "psu",
-    "Corsair RMe Series RM650e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 650 Watt, sc",
-    81.9
-   ],
-   [
-    "psu",
-    "Corsair RMe Series RM750e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 750 Watt, sc",
-    129.9
-   ],
-   [
-    "psu",
-    "Corsair RMe Series RM750e Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.0 - 750 Watt, schwarz",
-    124.9
-   ],
-   [
-    "psu",
-    "Corsair RMe Series RM850e (3rd Gen) 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt, s",
-    96.9
-   ],
-   [
-    "psu",
     "Corsair RMe Series RM850e (3rd Gen) 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt, w",
     96.9
-   ],
-   [
-    "psu",
-    "Corsair RMe Series RM850e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 850 Watt, sc",
-    119.9
    ],
    [
     "psu",
@@ -15644,18 +15009,8 @@
    ],
    [
     "psu",
-    "Corsair RMx Series RM1000x Netzteil 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 1000 Watt",
-    169.9
-   ],
-   [
-    "psu",
     "Corsair RMx Series RM750x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 750 Watt",
     129.9
-   ],
-   [
-    "psu",
-    "Corsair RMx Series RM850x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 850 Watt",
-    139.9
    ],
    [
     "psu",
@@ -15869,16 +15224,6 @@
    ],
    [
     "psu",
-    "MSI MAG A550BN Netzteil, 80 PLUS Bronze, ATX 2.4 - 550 Watt",
-    58.9
-   ],
-   [
-    "psu",
-    "MSI MAG A650BN Netzteil, 80 PLUS Bronze, ATX 2.4 - 650 Watt",
-    58.9
-   ],
-   [
-    "psu",
     "MSI MAG A650GL Netzteil, 80 PLUS Gold, vollmodular, ATX 3.0 - 650 Watt",
     90.9
    ],
@@ -15896,11 +15241,6 @@
     "psu",
     "MSI MAG A750GN 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 750 Watt, schwarz",
     109.9
-   ],
-   [
-    "psu",
-    "MSI MAG A850GL PCIe5 Netzteil, 80 PLUS Gold, vollmodular, ATX 3.0, PCIe 5.0 - 850 Watt",
-    123.9
    ],
    [
     "psu",
@@ -16424,28 +15764,8 @@
    ],
    [
     "psu",
-    "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 1.000 Watt",
-    139.9
-   ],
-   [
-    "psu",
     "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 550 Watt",
     74.9
-   ],
-   [
-    "psu",
-    "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 650 Watt",
-    89.9
-   ],
-   [
-    "psu",
-    "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 750 Watt",
-    104.9
-   ],
-   [
-    "psu",
-    "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 850 Watt",
-    114.9
    ],
    [
     "psu",
@@ -16719,11 +16039,6 @@
    ],
    [
     "ram",
-    "Crucial Pro Overclocking Edition DDR5-6000 RAM, CL36, XMP 3.0, AMD EXPO- 32 GB Dual-Kit, s",
-    385.11
-   ],
-   [
-    "ram",
     "G.Skill Flare X5 DDR5-5600 RAM, CL30, EXPO - 32 GB Dual-Kit, schwarz",
     138.2
    ],
@@ -16751,11 +16066,6 @@
     "ram",
     "G.Skill Ripjaws S5 DDR5-5600 RAM, CL28, XMP - 64 GB Dual-Kit, weiß",
     205.36
-   ],
-   [
-    "ram",
-    "G.Skill Ripjaws S5 DDR5-6000 RAM, CL36, Intel XMP 3.0 - 32 GB Dual-Kit, schwarz",
-    514.19
    ],
    [
     "ram",
@@ -17079,11 +16389,6 @@
    ],
    [
     "ram",
-    "Kingston Fury Beast DDR5-5600 RAM, CL40, XMP - 16 GB Dual-Kit, schwarz",
-    304.83
-   ],
-   [
-    "ram",
     "Kingston Fury Beast DDR5-5600 RAM, CL40, XMP - 32 GB Dual-Kit, schwarz",
     567.74
    ],
@@ -17259,18 +16564,8 @@
    ],
    [
     "ram",
-    "Patriot Viper Steel DDR4-3200 RAM, CL16, XMP - 16 GB Dual-Kit, silber",
-    149.9
-   ],
-   [
-    "ram",
     "Patriot Viper Steel DDR4-3200 RAM, CL16, XMP - 16 GB, silber",
     134.9
-   ],
-   [
-    "ram",
-    "Patriot Viper Steel DDR4-3200 RAM, CL16, XMP - 32 GB Dual-Kit, silber",
-    276.19
    ],
    [
     "ram",
@@ -17844,33 +17139,8 @@
    ],
    [
     "ssd",
-    "Crucial P3 Plus NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 1 TB",
-    252.4
-   ],
-   [
-    "ssd",
-    "Crucial P3 Plus NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
-    359.9
-   ],
-   [
-    "ssd",
     "Crucial P3 Plus NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 4 TB",
     534.29
-   ],
-   [
-    "ssd",
-    "Crucial P3 Plus NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 500 GB",
-    82.81
-   ],
-   [
-    "ssd",
-    "Crucial T500 NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 1TB",
-    357.0
-   ],
-   [
-    "ssd",
-    "Crucial T500 NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 2TB",
-    310.02
    ],
    [
     "ssd",
@@ -17891,16 +17161,6 @@
     "ssd",
     "Crucial T700 NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 1 TB ohne Kühlkörper",
     249.37
-   ],
-   [
-    "ssd",
-    "Crucial T700 NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2 TB mit Kühlkörper",
-    355.64
-   ],
-   [
-    "ssd",
-    "Crucial T700 NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2 TB ohne Kühlkörper",
-    382.55
    ],
    [
     "ssd",
@@ -18264,21 +17524,6 @@
    ],
    [
     "ssd",
-    "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 1 TB",
-    199.9
-   ],
-   [
-    "ssd",
-    "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 2 TB",
-    364.9
-   ],
-   [
-    "ssd",
-    "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 4 TB",
-    649.9
-   ],
-   [
-    "ssd",
     "Samsung PM9A1 NVMe SSD, PCIe 4.0 M.2 Typ 2280, bulk - 1 TB",
     327.05
    ],
@@ -18306,16 +17551,6 @@
     "ssd",
     "Team Group Z44A7 NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
     129.9
-   ],
-   [
-    "ssd",
-    "WD_BLACK SN7100 NVMe M.2 SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
-    309.08
-   ],
-   [
-    "ssd",
-    "Western Digital Black SN770 NVMe M.2 SSD, PCIe 4.0 M.2 Type 2280 - 1 TB",
-    191.84
    ],
    [
     "ssd",
@@ -19548,21 +18783,6 @@
     "case",
     "Fractal Design North XL Midi-tower Gaming-behuizing Wit Stoffilter, 3 voorgeïnstalleerde v",
     199.99
-   ],
-   [
-    "case",
-    "Fractal Design Pop Air Tower PC-behuizing Zwart",
-    91.99
-   ],
-   [
-    "case",
-    "Fractal Design Pop Air Tower PC-behuizing Zwart",
-    93.99
-   ],
-   [
-    "case",
-    "Fractal Design Pop Air Tower PC-behuizing Zwart",
-    104.99
    ],
    [
     "case",
@@ -21311,28 +20531,8 @@
    ],
    [
     "cooler",
-    "Arctic ARCTIC Kühler Freezer 36-S Chipsetkoeler met ventilator",
-    22.99
-   ],
-   [
-    "cooler",
     "Arctic Alpine 23 CPU-koellichaam met ventilator",
     9.99
-   ],
-   [
-    "cooler",
-    "Arctic Freezer 36 (Black) CPU-koellichaam met ventilator Intel LGA 1700, AMD AM5, AMD AM4",
-    28.99
-   ],
-   [
-    "cooler",
-    "Arctic Freezer 36 CO CPU-koellichaam met ventilator Intel LGA 1700, AMD AM5, AMD AM4",
-    28.99
-   ],
-   [
-    "cooler",
-    "Arctic Freezer 36 CPU-koellichaam met ventilator Intel LGA 1700, AMD AM5, AMD AM4",
-    28.99
    ],
    [
     "cooler",
@@ -24343,11 +23543,6 @@
     "mobo",
     "ASRock B760M Pro RS Moederbord Socket Intel FC LGA 1700 Vormfactor Micro-ATX Moederbord ch",
     139.99
-   ],
-   [
-    "mobo",
-    "ASRock B760M-HDV/M.2 D4 Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord c",
-    104.99
    ],
    [
     "mobo",
@@ -30376,28 +29571,8 @@
    ],
    [
     "psu",
-    "BeQuiet PURE POWER 12 1000W PC-netvoeding 1000 W ATX 80 Plus Gold",
-    139.99
-   ],
-   [
-    "psu",
     "BeQuiet PURE POWER 12 550W PC-netvoeding 550 W ATX 80 Plus Gold",
     93.99
-   ],
-   [
-    "psu",
-    "BeQuiet PURE POWER 12 650W PC-netvoeding 650 W ATX 80 Plus Gold",
-    104.99
-   ],
-   [
-    "psu",
-    "BeQuiet PURE POWER 12 750W PC-netvoeding 750 W ATX 80 Plus Gold",
-    109.99
-   ],
-   [
-    "psu",
-    "BeQuiet PURE POWER 12 850W PC-netvoeding 850 W ATX 80 Plus Gold",
-    119.99
    ],
    [
     "psu",
@@ -30576,21 +29751,6 @@
    ],
    [
     "psu",
-    "Corsair RM1000e PC-netvoeding 1000 W ATX 80 Plus Gold",
-    204.99
-   ],
-   [
-    "psu",
-    "Corsair RM1000x PC-netvoeding 1000 W ATX 80 Plus Gold",
-    219.99
-   ],
-   [
-    "psu",
-    "Corsair RM750e PC-netvoeding 750 W ATX 80 Plus Gold",
-    149.99
-   ],
-   [
-    "psu",
     "Corsair RM750x PC-netvoeding 750 W ATX 80 Plus Gold",
     164.99
    ],
@@ -30598,16 +29758,6 @@
     "psu",
     "Corsair RM750x SHIFT PC-netvoeding 750 W ATX 80 Plus Gold",
     164.99
-   ],
-   [
-    "psu",
-    "Corsair RM850e PC-netvoeding 850 W ATX 80 Plus Gold",
-    154.99
-   ],
-   [
-    "psu",
-    "Corsair RM850x PC-netvoeding 850 W ATX 80 Plus Gold",
-    184.99
    ],
    [
     "psu",
@@ -31878,21 +31028,6 @@
     "ssd",
     "Renkforce 500 GB SSD harde schijf (2.5 inch) SATA III RF-7558470",
     97.99
-   ],
-   [
-    "ssd",
-    "Samsung 990 EVO Plus 1 TB NVMe/PCIe M.2 SSD 2280 harde schijf M.2 NVMe PCIe 4.0 x4, M.2 NV",
-    275.0
-   ],
-   [
-    "ssd",
-    "Samsung 990 EVO Plus 2 TB NVMe/PCIe M.2 SSD 2280 harde schijf M.2 NVMe PCIe 4.0 x4, M.2 NV",
-    485.0
-   ],
-   [
-    "ssd",
-    "Samsung 990 EVO Plus 4 TB NVMe/PCIe M.2 SSD 2280 harde schijf M.2 NVMe PCIe 4.0 x4, M.2 NV",
-    749.0
    ],
    [
     "ssd",
