@@ -16,7 +16,7 @@ HISTORY_DAYS = 180
 
 # Words that mark a different model. A store product containing one of these only matches
 # a site product whose own search words contain it too ("RTX 5070" must not take a "5070 Ti").
-VARIANT = {"ti", "super", "xt", "xtx", "gre", "x3d", "g2", "chromax", "pro", "plus", "lx", "slim", "mini", "max",
+VARIANT = {"xl", "ti", "super", "xt", "xtx", "gre", "x3d", "g2", "chromax", "pro", "plus", "lx", "slim", "mini", "max",
            "rgb", "argb", "white", "weiss", "laptop", "notebook", "sodimm", "so", "refurbished", "generalüberholt",
            "gebraucht", "b", "ware", "tray", "lcd", "v2", "v3", "x2", "x3", "shift", "elite", "gaming", "oc", "dex", "se", "wireless", "ii", "iii"}
 # words that never decide anything
@@ -45,6 +45,7 @@ def norm(s):
     s = re.sub(r"\b(1[24]0)x\1x25\b", r"\1mm", s)                  # fan 120x120x25 -> 120mm
     s = re.sub(r"\bc(\d\d)\b", r"cl\1", s)                          # C16 -> cl16 (CAS latency)
     s = re.sub(r"\bweiss\b", "white", s)
+    s = re.sub(r"\b(wit|blanc|bianco|blanco)\b", "white", s)          # Dutch, French, Italian, Spanish shops
     toks = re.split(r"[^a-z0-9+]+", s)
     return [t for t in toks if t]
 
@@ -71,16 +72,29 @@ def matches(prod, name, cat):
     return not extra
 
 
-def fetch_awin(feed_id):
+def fetch_awin(feed_id, lang="de"):
     key = os.environ.get("AWIN_KEY", "").strip()
     if not key:
         raise SystemExit("AWIN_KEY secret is missing")
-    url = ("https://productdata.awin.com/datafeed/download/apikey/%s/fid/%d/format/csv/language/de/"
-           "delimiter/%%2C/compression/gzip/columns/%s/" % (key, feed_id, COLS))
+    url = ("https://productdata.awin.com/datafeed/download/apikey/%s/fid/%d/format/csv/language/%s/"
+           "delimiter/%%2C/compression/gzip/columns/%s/" % (key, feed_id, lang, COLS))
     req = urllib.request.Request(url, headers={"User-Agent": "partwise-price-robot"})
     with urllib.request.urlopen(req, timeout=300) as r:
         data = r.read()
     return gzip.decompress(data).decode("utf-8", "replace")
+
+
+def category_of(st, mc):
+    """Site category of a store category. Exact name, or with "prefix": true the longest matching branch
+    of a path such as "PC-Komponenten>Grafikkarten>NVIDIA>RTX 5000" (Caseking)."""
+    cat = st["cats"].get(mc)
+    if cat or not st.get("prefix"):
+        return cat
+    best = ""
+    for k in st["cats"]:
+        if mc.startswith(k + ">") and len(k) > len(best):
+            best = k
+    return st["cats"].get(best)
 
 
 def stock_of(row):
@@ -106,14 +120,14 @@ def run(local_feeds):
 
     for st in cfg["stores"]:
         try:
-            text = open(local_feeds[st["r"]], encoding="utf-8").read() if st["r"] in local_feeds else fetch_awin(st["feed"])
+            text = open(local_feeds[st["r"]], encoding="utf-8").read() if st["r"] in local_feeds else fetch_awin(st["feed"], st.get("lang", "de"))
         except Exception as e:                              # one broken feed must not stop the others
             report["stores"][st["r"]] = {"error": str(e)[:200].replace(os.environ.get("AWIN_KEY", "") or "§", "***")}
             continue
         rows = list(csv.DictReader(io.StringIO(text)))
         best, n_pc, unmatched = {}, 0, []
         for row in rows:
-            cat = st["cats"].get(row.get("merchant_category", ""))
+            cat = category_of(st, row.get("merchant_category", ""))
             if not cat:
                 continue
             n_pc += 1

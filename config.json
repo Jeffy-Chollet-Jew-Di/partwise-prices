@@ -1,5 +1,5 @@
 {
-  "_note": "Stores whose Awin product feeds the price robot reads. 'r' must be the store id used on partwisepc.com (js/data-retailers.js). 'cats' maps the store's own category names to the site's categories; products in other categories are ignored.",
+  "_note": "Stores whose Awin product feeds the price robot reads. 'r' must be the store id used on partwisepc.com (js/data-retailers.js). 'cats' maps the store's own category names to the site's categories; products in other categories are ignored. With \"prefix\": true a store category path also matches its sub-branches (e.g. Caseking's 'PC-Komponenten>Grafikkarten>NVIDIA>...'). 'lang' is the feed language in the Awin download address.",
   "stores": [
     {
       "r": "coolblue-de",
@@ -22,6 +22,80 @@
         "Gaming-Mäuse": "mouse",
         "Tastaturen": "keyboard",
         "Gaming-Tastaturen": "keyboard"
+      }
+    },
+    {
+      "r": "caseking",
+      "country": "DE",
+      "network": "awin",
+      "feed": 94269,
+      "currency": "EUR",
+      "lang": "de",
+      "prefix": true,
+      "cats": {
+        "PC-Komponenten>Grafikkarten>AMD": "gpu",
+        "PC-Komponenten>Grafikkarten>Intel": "gpu",
+        "PC-Komponenten>Grafikkarten>NVIDIA": "gpu",
+        "PC-Komponenten>CPUs / Prozessoren>AMD": "cpu",
+        "PC-Komponenten>CPUs / Prozessoren>Intel": "cpu",
+        "PC-Komponenten>CPUs / Prozessoren>Unlocked CPU": "cpu",
+        "PC-Komponenten>Mainboards>AMD": "mobo",
+        "PC-Komponenten>Mainboards>Intel": "mobo",
+        "PC-Komponenten>Arbeitsspeicher>DDR4": "ram",
+        "PC-Komponenten>Arbeitsspeicher>DDR5": "ram",
+        "PC-Komponenten>Arbeitsspeicher>LED-beleuchtet": "ram",
+        "PC-Komponenten>Laufwerke>Solid State Drives (SSD)": "ssd",
+        "PC-Komponenten>Netzteile": "psu",
+        "PC-Komponenten>Netzteile>80 Plus Platinum": "psu",
+        "PC-Komponenten>Netzteile>Modulare Netzteile": "psu",
+        "PC-Komponenten>Netzteile>PCIe 5.0": "psu",
+        "PC-Komponenten>Netzteile>bis 500 Watt": "psu",
+        "PC-Komponenten>Netzteile>bis 800 Watt": "psu",
+        "PC-Komponenten>Netzteile>über 800 Watt": "psu",
+        "Gehäuse & Modding>Computer Gehäuse>Big-Tower-Gehäuse": "case",
+        "Gehäuse & Modding>Computer Gehäuse>Midi-Tower-Gehäuse": "case",
+        "Gehäuse & Modding>Computer Gehäuse>Micro-ATX Gehäuse": "case",
+        "Gehäuse & Modding>Computer Gehäuse>Mini-ITX Gehäuse": "case",
+        "Gehäuse & Modding>Computer Gehäuse>Mini Gehäuse": "case",
+        "Gehäuse & Modding>Computer Gehäuse>Cube-Gehäuse": "case",
+        "Luftkühlung>Kühler>CPU-Kühler": "cooler",
+        "Wasserkühlung>WaKü-Sets>All In One": "cooler",
+        "Luftkühlung>Lüfter>LED Lüfter": "fans",
+        "Luftkühlung>Lüfter>Nach Größe": "fans",
+        "Luftkühlung>Lüfter>PWM Lüfter": "fans",
+        "Monitore>Gaming Monitore": "monitor",
+        "Monitore>Nach Größe": "monitor",
+        "Monitore>Nach Auflösung": "monitor",
+        "Monitore>Nach Typ": "monitor",
+        "Peripherie>Mäuse>Gaming Mäuse": "mouse",
+        "Peripherie>Mäuse>Kabelgebundene Mäuse": "mouse",
+        "Peripherie>Mäuse>Kabellose Mäuse": "mouse",
+        "Peripherie>Tastaturen>Gaming Tastaturen": "keyboard",
+        "Peripherie>Tastaturen>Custom Tastaturen": "keyboard",
+        "Peripherie>Tastaturen>Kabelgebundene Tastaturen": "keyboard",
+        "Peripherie>Tastaturen>Kabellose Tastaturen": "keyboard",
+        "Peripherie>Tastaturen>Mechanische Tastaturen": "keyboard"
+      }
+    },
+    {
+      "r": "conrad-be",
+      "country": "BE",
+      "network": "awin",
+      "feed": 117197,
+      "currency": "EUR",
+      "lang": "nl",
+      "cats": {
+        "Videokaarten": "gpu",
+        "Moederborden": "mobo",
+        "DDR-SDRAM geheugen": "ram",
+        "Interne SSD's": "ssd",
+        "PC-voedingen": "psu",
+        "PC-behuizingen": "case",
+        "Processorkoelers (CPU-koelers)": "cooler",
+        "PC-ventilatoren": "fans",
+        "Monitoren": "monitor",
+        "Muizen": "mouse",
+        "Toetsenborden": "keyboard"
       }
     }
   ]
