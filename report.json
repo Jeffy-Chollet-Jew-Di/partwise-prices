@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-26T15:29:07Z",
+ "updated": "2026-11-27T13:58:11Z",
  "stores": {
   "coolblue-de": {
-   "feed_rows": 15430,
-   "pc_rows": 775,
-   "matched": 121
+   "feed_rows": 15056,
+   "pc_rows": 754,
+   "matched": 119
   },
   "caseking": {
-   "feed_rows": 8749,
-   "pc_rows": 3358,
+   "feed_rows": 8739,
+   "pc_rows": 3355,
    "matched": 166
   },
   "conrad-be": {
-   "feed_rows": 780922,
-   "pc_rows": 2863,
+   "feed_rows": 781352,
+   "pc_rows": 2859,
    "matched": 45
   }
  },
@@ -48,7 +48,7 @@
    [
     "cooler",
     "NZXT Kraken Plus 360 V2 - RGB - White",
-    189.99
+    188.95
    ],
    [
     "cooler",
@@ -58,12 +58,17 @@
    [
     "cooler",
     "Noctua NH-D15 G2 chromax.black",
-    161.9
+    157.9
+   ],
+   [
+    "cooler",
+    "Noctua NH-U9S",
+    70.9
    ],
    [
     "cooler",
     "be quiet! SILENT LOOP 3 360 mm",
-    136.9
+    137.9
    ],
    [
     "fans",
@@ -76,9 +81,9 @@
     31.99
    ],
    [
-    "keyboard",
-    "Apple Magic Keyboard (2024) QWERTZ",
-    105.99
+    "fans",
+    "Noctua NF-A14x25 G2 Sx2-PP PWM - Dual Fan Kit",
+    76.95
    ],
    [
     "keyboard",
@@ -128,7 +133,7 @@
    [
     "keyboard",
     "Corsair K70 CORE RGB Mechanische Gaming Tastatur QWERTZ",
-    98.9
+    99.99
    ],
    [
     "keyboard",
@@ -164,6 +169,11 @@
     "keyboard",
     "Logitech G Pro X TKL Rapid Gaming-Tastatur Schwarz QWERTZ",
     114.9
+   ],
+   [
+    "keyboard",
+    "Logitech G Pro X TKL Rapid Gaming-Tastatur Weiß QWERTZ",
+    130.9
    ],
    [
     "keyboard",
@@ -203,7 +213,7 @@
    [
     "keyboard",
     "Logitech G915 X Lightspeed Wireless Gaming-Tastatur Qwertz Schwarz",
-    173.99
+    173.95
    ],
    [
     "keyboard",
@@ -214,11 +224,6 @@
     "keyboard",
     "Logitech K120 Tastatur QWERTZ",
     16.9
-   ],
-   [
-    "keyboard",
-    "Logitech K400 Plus Wireless Touch Schwarz QWERTZ",
-    32.9
    ],
    [
     "keyboard",
@@ -242,18 +247,23 @@
    ],
    [
     "keyboard",
-    "Logitech MX Mechanical Kabellos Tastatur Metall Qwertz",
-    127.9
-   ],
-   [
-    "keyboard",
     "Logitech Pebble Keyboard 2 - K380s Grafit Qwertz",
     30.9
    ],
    [
     "keyboard",
+    "Logitech Signature Slim K950 Kabellose Tastatur QWERTZ Schwarz",
+    55.9
+   ],
+   [
+    "keyboard",
     "Logitech Signature Slim K950 Kabellose Tastatur QWERTZ Weiß",
     62.9
+   ],
+   [
+    "keyboard",
+    "Logitech Signature Slim Solar+ kabellose Tastatur QWERTZ",
+    69.95
    ],
    [
     "keyboard",
@@ -263,12 +273,12 @@
    [
     "keyboard",
     "SteelSeries Apex 3 TKL Gaming-Tastatur QWERTZ Weiß",
-    48.9
+    47.99
    ],
    [
     "keyboard",
     "SteelSeries Apex 3 TKL Schwarz QWERTZ",
-    48.9
+    47.99
    ],
    [
     "keyboard",
@@ -297,11 +307,6 @@
    ],
    [
     "monitor",
-    "2x Dell U2422H",
-    464.9
-   ],
-   [
-    "monitor",
     "AOC 24B36X",
     79.99
    ],
@@ -313,7 +318,7 @@
    [
     "monitor",
     "AOC 27B36X",
-    97.99
+    96.9
    ],
    [
     "monitor",
@@ -343,7 +348,7 @@
    [
     "monitor",
     "AOC AGON B3 Q27B36X",
-    131.9
+    130.9
    ],
    [
     "monitor",
@@ -362,33 +367,28 @@
    ],
    [
     "monitor",
-    "AOC AGON G4 27G4ZR",
-    142.9
-   ],
-   [
-    "monitor",
     "AOC AGON G4 27G4ZRE",
-    119.9
+    116.9
    ],
    [
     "monitor",
     "AOC AGON G4 C32G42ZE Curved",
-    171.9
+    167.9
    ],
    [
     "monitor",
     "AOC AGON G4 Q27G4SRU",
-    216.9
+    206.95
    ],
    [
     "monitor",
     "AOC AGON G4 Q27G4ZD QD-OLED",
-    396.9
+    387.9
    ],
    [
     "monitor",
     "AOC AGON G4 U27G4XM",
-    399.0
+    349.0
    ],
    [
     "monitor",
@@ -418,7 +418,7 @@
    [
     "monitor",
     "AOC CQ32G4VE",
-    187.9
+    183.9
    ],
    [
     "monitor",
@@ -443,7 +443,7 @@
    [
     "monitor",
     "AOC CU34G4Z",
-    303.95
+    313.9
    ],
    [
     "monitor",
@@ -463,7 +463,7 @@
    [
     "monitor",
     "AOC G4 C27G42FE Curved",
-    115.9
+    115.0
    ],
    [
     "monitor",
@@ -473,7 +473,7 @@
    [
     "monitor",
     "AOC G4 CQ27G4Z2 Curved",
-    179.9
+    175.9
    ],
    [
     "monitor",
@@ -493,7 +493,7 @@
    [
     "monitor",
     "AOC OLED Q27G4ZDR",
-    326.9
+    319.9
    ],
    [
     "monitor",
@@ -503,27 +503,27 @@
    [
     "monitor",
     "AOC Q25G4SR",
-    216.9
+    211.9
    ],
    [
     "monitor",
     "AOC Q27B3CF2",
-    174.9
+    170.9
    ],
    [
     "monitor",
     "AOC Q27B3CF2 Doppelpack",
-    344.9
+    336.9
    ],
    [
     "monitor",
     "AOC Q27G3XMN/BK",
-    276.9
+    269.9
    ],
    [
     "monitor",
     "AOC Q27G42ZE",
-    171.9
+    167.9
    ],
    [
     "monitor",
@@ -542,53 +542,58 @@
    ],
    [
     "monitor",
+    "AOC U27G4R",
+    258.99
+   ],
+   [
+    "monitor",
     "AOC U27U3CV",
-    377.95
+    378.0
    ],
    [
     "monitor",
     "AOC U32G4U",
-    379.0
+    349.0
    ],
    [
     "monitor",
     "AOC U32U3CV",
-    502.9
+    492.9
    ],
    [
     "monitor",
     "ASUS EyeCare VA249HG",
-    100.9
+    98.9
    ],
    [
     "monitor",
     "ASUS EyeCare VA279HG",
-    119.9
+    116.95
    ],
    [
     "monitor",
     "ASUS ProArt Display PA24ACRV",
-    384.9
+    382.9
    ],
    [
     "monitor",
     "ASUS ProArt Display PA279CV",
-    371.99
+    364.9
    ],
    [
     "monitor",
     "ASUS ProArt PA278CGRV",
-    299.9
+    293.99
    ],
    [
     "monitor",
     "ASUS ProArt PA278QGV",
-    242.9
+    237.9
    ],
    [
     "monitor",
     "ASUS ProArt PA279CDV QD-OLED",
-    724.9
+    722.9
    ],
    [
     "monitor",
@@ -598,12 +603,12 @@
    [
     "monitor",
     "ASUS ProArt PA32KCX",
-    8530.0
+    8499.0
    ],
    [
     "monitor",
     "ASUS ProArt PA32QCV",
-    1238.0
+    1224.0
    ],
    [
     "monitor",
@@ -613,32 +618,32 @@
    [
     "monitor",
     "ASUS ROG Strix OLED XG32UCWG",
-    754.9
+    738.9
    ],
    [
     "monitor",
     "ASUS ROG Strix XG27ACDMS OLED",
-    498.9
+    506.9
    ],
    [
     "monitor",
     "ASUS ROG Strix XG27ACDNG QD-OLED",
-    578.9
+    566.9
    ],
    [
     "monitor",
     "ASUS ROG Strix XG27ACMES-W",
-    281.9
+    276.95
    ],
    [
     "monitor",
     "ASUS ROG Strix XG27ACSR",
-    253.9
+    248.9
    ],
    [
     "monitor",
     "ASUS ROG Strix XG27ACSR-W",
-    262.9
+    257.9
    ],
    [
     "monitor",
@@ -648,7 +653,7 @@
    [
     "monitor",
     "ASUS ROG Strix XG27AQDPG QD-OLED",
-    720.9
+    705.9
    ],
    [
     "monitor",
@@ -663,7 +668,7 @@
    [
     "monitor",
     "ASUS ROG Strix XG27UCGR",
-    404.9
+    396.9
    ],
    [
     "monitor",
@@ -683,12 +688,7 @@
    [
     "monitor",
     "ASUS ROG Strix XG32UCWMG OLED",
-    809.0
-   ],
-   [
-    "monitor",
-    "ASUS ROG Strix XG32UQWMS WOLED",
-    931.9
+    800.9
    ],
    [
     "monitor",
@@ -698,7 +698,7 @@
    [
     "monitor",
     "ASUS ROG Swift PG27AQWP-W OLED",
-    1056.0
+    1034.0
    ],
    [
     "monitor",
@@ -713,32 +713,32 @@
    [
     "monitor",
     "ASUS ROG Swift PG32UCDP WOLED",
-    863.9
+    846.9
    ],
    [
     "monitor",
     "ASUS ROG Swift PG32UCWM OLED",
-    1259.0
+    1219.0
    ],
    [
     "monitor",
     "ASUS ROG Swift PG34WCDN QD-OLED Curved",
-    1246.0
+    1220.0
    ],
    [
     "monitor",
     "ASUS ROG Swift PG39WCDM OLED Curved",
-    955.95
+    936.9
    ],
    [
     "monitor",
     "ASUS TUF Gaming VG259Q5A",
-    117.9
+    115.9
    ],
    [
     "monitor",
     "ASUS TUF Gaming VG279Q5R",
-    175.9
+    171.99
    ],
    [
     "monitor",
@@ -748,12 +748,12 @@
    [
     "monitor",
     "ASUS TUF Gaming VG27AQ5A",
-    199.0
+    189.0
    ],
    [
     "monitor",
     "ASUS TUF Gaming VG27AQ5A + BlueBuilt Monitorhalterung für 2 Monitore",
-    459.0
+    439.0
    ],
    [
     "monitor",
@@ -763,7 +763,7 @@
    [
     "monitor",
     "ASUS TUF Gaming VG27AQM5A",
-    245.9
+    246.99
    ],
    [
     "monitor",
@@ -778,22 +778,22 @@
    [
     "monitor",
     "ASUS TUF Gaming VG32WQ3B",
-    203.9
+    199.9
    ],
    [
     "monitor",
     "ASUS TUF Gaming VG34VQL3A",
-    282.9
+    281.9
    ],
    [
     "monitor",
     "ASUS TUF Gaming VG34WQL5A Curved",
-    353.9
+    345.9
    ],
    [
     "monitor",
     "ASUS TUF Gaming VG34WQML5A",
-    351.9
+    343.9
    ],
    [
     "monitor",
@@ -802,13 +802,8 @@
    ],
    [
     "monitor",
-    "ASUS ZenScreen Duo OLED MQ149CD",
-    527.9
-   ],
-   [
-    "monitor",
     "ASUS ZenScreen MB16AHV",
-    149.0
+    144.0
    ],
    [
     "monitor",
@@ -818,17 +813,17 @@
    [
     "monitor",
     "ASUS ZenScreen MB16FC",
-    149.0
+    133.9
    ],
    [
     "monitor",
     "ASUS ZenScreen MB16NCG",
-    249.0
+    243.95
    ],
    [
     "monitor",
     "ASUS ZenScreen MQ16FC OLED",
-    269.0
+    259.0
    ],
    [
     "monitor",
@@ -843,7 +838,7 @@
    [
     "monitor",
     "Acer Nitro XV240YW3bmiiprx",
-    131.9
+    128.99
    ],
    [
     "monitor",
@@ -853,7 +848,7 @@
    [
     "monitor",
     "Acer PD243YEbmiuux",
-    337.99
+    329.0
    ],
    [
     "monitor",
@@ -863,22 +858,22 @@
    [
     "monitor",
     "Apple Studio Display (2026) mit neigbarem Standfuß",
-    1493.0
+    1525.0
    ],
    [
     "monitor",
     "Apple Studio Display (2026) mit neigbarem, höhen­verstellbarem Standfuß",
-    1854.0
+    1837.0
    ],
    [
     "monitor",
     "Apple Studio Display Nanotextur (2026) mit VESA Montage",
-    1767.0
+    1734.0
    ],
    [
     "monitor",
     "Apple Studio Display Nanotextur (2026) mit neigbarem Standfuß",
-    1767.0
+    1761.0
    ],
    [
     "monitor",
@@ -888,17 +883,17 @@
    [
     "monitor",
     "Apple Studio Display XDR (2026) mit VESA Montage",
-    3066.0
+    3004.0
    ],
    [
     "monitor",
     "Apple Studio Display XDR (2026) mit neigbarem, höhen­verstellbarem Standfuß",
-    3115.0
+    3024.0
    ],
    [
     "monitor",
     "Apple Studio Display XDR Nanotextur (2026) mit VESA Montage",
-    3324.0
+    3256.0
    ],
    [
     "monitor",
@@ -943,57 +938,47 @@
    [
     "monitor",
     "Dell P2425H",
-    150.9
+    146.95
    ],
    [
     "monitor",
     "Dell Pro P P2426HE",
-    225.9
+    221.9
    ],
    [
     "monitor",
     "Dell Pro Plus P3425WE Curved",
-    429.9
+    420.9
    ],
    [
     "monitor",
     "Dell U2422H",
-    235.9
+    231.9
    ],
    [
     "monitor",
     "Dell U2725QE",
-    621.9
+    615.9
    ],
    [
     "monitor",
     "Dell U4025QW",
-    1632.0
+    1608.0
    ],
    [
     "monitor",
     "EIZO CS2740",
-    1308.0
+    1299.0
    ],
    [
     "monitor",
     "EIZO EV3240X-BK",
-    1090.0
+    1089.0
    ],
    [
     "monitor",
     "EIZO FlexScan EV3450XC-BK",
-    852.9
-   ],
-   [
-    "monitor",
-    "Eizo EV2480-BK",
-    322.9
-   ],
-   [
-    "monitor",
-    "GIGABYTE G27Q2",
-    139.0
+    839.9
    ],
    [
     "monitor",
@@ -1003,17 +988,17 @@
    [
     "monitor",
     "GIGABYTE G34WQC2 Curved",
-    278.0
+    271.9
    ],
    [
     "monitor",
     "GIGABYTE GS27QA",
-    139.0
+    135.9
    ],
    [
     "monitor",
     "GIGABYTE GS32QA",
-    209.0
+    208.95
    ],
    [
     "monitor",
@@ -1027,18 +1012,8 @@
    ],
    [
     "monitor",
-    "GIGABYTE MO27Q28G WOLED",
-    489.0
-   ],
-   [
-    "monitor",
     "GIGABYTE MO27Q28GR WOLED",
-    503.9
-   ],
-   [
-    "monitor",
-    "GIGABYTE MO27Q2A",
-    369.0
+    492.9
    ],
    [
     "monitor",
@@ -1053,37 +1028,32 @@
    [
     "monitor",
     "GIGABYTE MO34WQC36 QD-OLED Curved",
-    907.9
+    888.9
    ],
    [
     "monitor",
     "HP E27K G5",
-    401.9
-   ],
-   [
-    "monitor",
-    "HP Serie 5 Pro 534pm",
-    479.0
+    393.9
    ],
    [
     "monitor",
     "HP Series 5 Pro 524pf",
-    157.9
+    154.95
    ],
    [
     "monitor",
     "HP Series 5 Pro 524pn",
-    177.95
+    174.9
    ],
    [
     "monitor",
     "HP Series 5 Pro 527pq",
-    220.95
+    218.95
    ],
    [
     "monitor",
     "HP Series 5 Pro 527pq Doppelpack",
-    435.0
+    431.0
    ],
    [
     "monitor",
@@ -1102,18 +1072,13 @@
    ],
    [
     "monitor",
-    "Iiyama ProLite XCB3497WQSNP-B1",
-    299.0
-   ],
-   [
-    "monitor",
     "Iiyama Prolite XCB3497WQSNPH-B1",
     379.0
    ],
    [
     "monitor",
     "LG 24U411B-B",
-    94.0
+    92.9
    ],
    [
     "monitor",
@@ -1152,43 +1117,18 @@
    ],
    [
     "monitor",
-    "LG 27UP850K-W.AEU Doppelpack",
-    469.0
-   ],
-   [
-    "monitor",
-    "LG 27UP850K-W.AEU Doppelpack + BlueBuilt Monitorhalterung Mechanische Feder für 2 Monitore",
-    549.0
-   ],
-   [
-    "monitor",
-    "LG 27UP850N-W Doppelpack",
-    469.0
-   ],
-   [
-    "monitor",
     "LG 32U401B-B",
     159.0
    ],
    [
     "monitor",
     "LG 34BA75QE-B",
-    358.9
+    351.9
    ],
    [
     "monitor",
     "LG 34BA85QE-B",
     389.0
-   ],
-   [
-    "monitor",
-    "LG Ergo 32UN880K-B.AEU",
-    299.0
-   ],
-   [
-    "monitor",
-    "LG Smart Monitor 32U721SA-W",
-    249.0
    ],
    [
     "monitor",
@@ -1208,12 +1148,12 @@
    [
     "monitor",
     "LG UltraFine 32UQ850V-W",
-    439.0
+    429.0
    ],
    [
     "monitor",
     "LG UltraGear 24G411B-B",
-    93.9
+    91.9
    ],
    [
     "monitor",
@@ -1238,7 +1178,7 @@
    [
     "monitor",
     "LG UltraGear 27GX790B WOLED",
-    650.95
+    649.99
    ],
    [
     "monitor",
@@ -1258,12 +1198,12 @@
    [
     "monitor",
     "LG UltraGear Evo 52G930B-B.AEU Curved",
-    1492.0
+    1460.0
    ],
    [
     "monitor",
     "LG UltraGear OLED 39GX900A-B",
-    901.0
+    882.0
    ],
    [
     "monitor",
@@ -1302,11 +1242,6 @@
    ],
    [
     "monitor",
-    "LG UltraWide 34U650A-B",
-    329.0
-   ],
-   [
-    "monitor",
     "LG UltraWide 34WR50QK-B",
     229.0
    ],
@@ -1317,23 +1252,18 @@
    ],
    [
     "monitor",
-    "Legion Legion Pro 27Q-10 QD-OLED",
-    378.9
-   ],
-   [
-    "monitor",
     "Lenovo L16",
-    170.9
+    167.9
    ],
    [
     "monitor",
     "Lenovo L24-4e",
-    74.9
+    73.9
    ],
    [
     "monitor",
     "Lenovo L27-4e",
-    91.9
+    89.9
    ],
    [
     "monitor",
@@ -1358,12 +1288,12 @@
    [
     "monitor",
     "Lenovo Legion 27Q-10",
-    194.9
+    190.9
    ],
    [
     "monitor",
     "Lenovo Legion Pro 34WD-10 OLED",
-    743.9
+    728.9
    ],
    [
     "monitor",
@@ -1392,18 +1322,13 @@
    ],
    [
     "monitor",
-    "Lenovo ThinkVision T27Q-40",
-    234.99
-   ],
-   [
-    "monitor",
     "Lenovo ThinkVision T27QD-40",
     262.99
    ],
    [
     "monitor",
     "Lenovo ThinkVision T34WD-40",
-    363.9
+    359.9
    ],
    [
     "monitor",
@@ -1413,12 +1338,12 @@
    [
     "monitor",
     "MSI MAG 245F X24",
-    124.99
+    122.9
    ],
    [
     "monitor",
     "MSI MAG 271QP X28 QD-OLED",
-    427.9
+    419.9
    ],
    [
     "monitor",
@@ -1428,12 +1353,12 @@
    [
     "monitor",
     "MSI MAG 272QP X24 QD-OLED",
-    382.9
+    379.9
    ],
    [
     "monitor",
     "MSI MAG 272QP X50 QD-OLED",
-    640.9
+    599.0
    ],
    [
     "monitor",
@@ -1453,12 +1378,12 @@
    [
     "monitor",
     "MSI MAG 274CF X24 Curved",
-    131.99
+    129.9
    ],
    [
     "monitor",
     "MSI MAG 274CQFDE",
-    211.9
+    207.9
    ],
    [
     "monitor",
@@ -1468,7 +1393,7 @@
    [
     "monitor",
     "MSI MAG 274QPF X32",
-    261.9
+    256.9
    ],
    [
     "monitor",
@@ -1483,7 +1408,7 @@
    [
     "monitor",
     "MSI MAG 274UPDFDE E16M",
-    455.9
+    446.9
    ],
    [
     "monitor",
@@ -1493,17 +1418,17 @@
    [
     "monitor",
     "MSI MAG 27CQ6F",
-    202.95
+    169.0
    ],
    [
     "monitor",
     "MSI MAG 321CQFDE E18",
-    260.9
+    255.9
    ],
    [
     "monitor",
     "MSI MAG 321CUPDFDE Curved",
-    499.0
+    493.9
    ],
    [
     "monitor",
@@ -1513,27 +1438,27 @@
    [
     "monitor",
     "MSI MAG 32CQ6F",
-    179.9
+    175.9
    ],
    [
     "monitor",
     "MSI MAG 341CQP QD-OLED",
-    599.9
+    599.0
    ],
    [
     "monitor",
     "MSI MAG 341CQPDE QD-OLED",
-    896.9
+    877.95
    ],
    [
     "monitor",
     "MSI MAG 341CQPDE X28 QD-OLED Curved",
-    894.9
+    875.99
    ],
    [
     "monitor",
     "MSI MAG 342CQRF E20 Curved",
-    262.9
+    257.9
    ],
    [
     "monitor",
@@ -1543,7 +1468,7 @@
    [
     "monitor",
     "MSI MAG 401QR",
-    381.9
+    349.0
    ],
    [
     "monitor",
@@ -1553,7 +1478,7 @@
    [
     "monitor",
     "MSI MPG 272URXDE QD-OLED",
-    845.9
+    828.9
    ],
    [
     "monitor",
@@ -1568,32 +1493,27 @@
    [
     "monitor",
     "MSI MPG 321URXDE QD-OLED",
-    894.9
+    875.99
    ],
    [
     "monitor",
     "MSI MPG 322UR QD-OLED X24",
-    831.9
+    949.0
    ],
    [
     "monitor",
     "MSI MPG 322URDE X24 QD-OLED",
-    942.9
-   ],
-   [
-    "monitor",
-    "MSI MPG 322URXDE QD-OLED",
-    649.0
+    919.0
    ],
    [
     "monitor",
     "MSI MPG 341CQPX QD-OLED Curved",
-    649.9
+    649.0
    ],
    [
     "monitor",
     "MSI MPG 341CQR X36 QD-OLED Curved",
-    1082.0
+    1060.0
    ],
    [
     "monitor",
@@ -1603,12 +1523,12 @@
    [
     "monitor",
     "MSI MPG 346CQRF X24",
-    399.0
+    339.0
    ],
    [
     "monitor",
     "MSI MPG 491CQP QD-OLED Curved",
-    799.0
+    789.0
    ],
    [
     "monitor",
@@ -1618,7 +1538,7 @@
    [
     "monitor",
     "MSI PRO MP165DE E6",
-    137.9
+    134.9
    ],
    [
     "monitor",
@@ -1628,7 +1548,7 @@
    [
     "monitor",
     "MSI PRO MP272PMG",
-    137.9
+    134.9
    ],
    [
     "monitor",
@@ -1638,42 +1558,42 @@
    [
     "monitor",
     "MSI PRO MP275QPDGDE",
-    399.0
+    397.9
    ],
    [
     "monitor",
     "MSI PRO MP341CQ E12 Curved",
-    256.9
+    251.9
    ],
    [
     "monitor",
     "Philips 242B1G/00",
-    171.99
+    172.9
    ],
    [
     "monitor",
     "Philips 242B1G/00 + BlueBuilt Monitorhalterung Mechanische Feder für 1 Monitor",
-    214.9
+    214.99
    ],
    [
     "monitor",
     "Philips 242B1G/00 Doppelpack",
-    339.9
+    340.9
    ],
    [
     "monitor",
     "Philips 242B1G/00 Doppelpack + BlueBuilt Monitorhalterung Mechanische Feder für 2 Monitore",
-    409.9
+    410.9
    ],
    [
     "monitor",
     "Philips 245B1",
-    204.0
+    204.95
    ],
    [
     "monitor",
     "Philips 24B2G5301/00",
-    235.95
+    269.0
    ],
    [
     "monitor",
@@ -1683,12 +1603,12 @@
    [
     "monitor",
     "Philips 24E1N1300AE/00",
-    127.9
+    124.9
    ],
    [
     "monitor",
     "Philips 24E2N1110/00",
-    74.9
+    73.9
    ],
    [
     "monitor",
@@ -1728,27 +1648,27 @@
    [
     "monitor",
     "Philips 27E1N1300AE/00",
-    150.9
+    147.9
    ],
    [
     "monitor",
     "Philips 27E1N1300AE/00 Doppelpack",
-    296.9
+    290.9
    ],
    [
     "monitor",
     "Philips 27E1N1600AE/00",
-    179.9
+    176.9
    ],
    [
     "monitor",
     "Philips 27E1N1600AE/00 + BlueBuilt Monitorhalterung Gasfeder für 1 Monitor",
-    218.9
+    215.9
    ],
    [
     "monitor",
     "Philips 27E1N1600AE/00 Doppelpack + BlueBuilt Monitorhalterung Mechanische Feder für 2 Mon",
-    431.9
+    425.9
    ],
    [
     "monitor",
@@ -1758,7 +1678,7 @@
    [
     "monitor",
     "Philips 27E1N1800AE/00",
-    163.9
+    160.9
    ],
    [
     "monitor",
@@ -1773,7 +1693,7 @@
    [
     "monitor",
     "Philips 27E2N1100L/00",
-    83.9
+    81.99
    ],
    [
     "monitor",
@@ -1798,7 +1718,7 @@
    [
     "monitor",
     "Philips 27M2C5501/00",
-    172.9
+    169.9
    ],
    [
     "monitor",
@@ -1813,7 +1733,7 @@
    [
     "monitor",
     "Philips 325E1C",
-    179.9
+    176.9
    ],
    [
     "monitor",
@@ -1838,7 +1758,7 @@
    [
     "monitor",
     "Philips 34M2C6500/00",
-    533.9
+    522.9
    ],
    [
     "monitor",
@@ -1893,12 +1813,12 @@
    [
     "monitor",
     "Philips EVNIA 24M2N3201P/00",
-    123.9
+    120.9
    ],
    [
     "monitor",
     "Philips EVNIA 27M2N3501PA/00",
-    188.9
+    184.9
    ],
    [
     "monitor",
@@ -1938,7 +1858,7 @@
    [
     "monitor",
     "Philips Evnia 32M2C5501",
-    214.95
+    210.9
    ],
    [
     "monitor",
@@ -1963,7 +1883,7 @@
    [
     "monitor",
     "Phillips 32E1N1800LA/00",
-    203.9
+    201.95
    ],
    [
     "monitor",
@@ -1998,7 +1918,7 @@
    [
     "monitor",
     "Samsung G7 G73SH LS32HG732SUXEN OLED",
-    679.0
+    669.0
    ],
    [
     "monitor",
@@ -2012,13 +1932,8 @@
    ],
    [
     "monitor",
-    "Samsung G8 G80SH LS32HG802SUXEN OLED",
-    842.9
-   ],
-   [
-    "monitor",
     "Samsung G8 G81SF LS27FG814SUXEN OLED",
-    814.9
+    797.9
    ],
    [
     "monitor",
@@ -2063,7 +1978,7 @@
    [
     "monitor",
     "Samsung Odyssey G7 G70F LS27FG702EUXEN",
-    291.9
+    285.9
    ],
    [
     "monitor",
@@ -2073,7 +1988,7 @@
    [
     "monitor",
     "Samsung Odyssey G8 G80HF LS27HG806EFXEN",
-    548.9
+    536.9
    ],
    [
     "monitor",
@@ -2088,12 +2003,17 @@
    [
     "monitor",
     "Samsung Odyssey G8 G85SD LS34DG850SUXEN OLED Curved",
-    649.9
+    636.9
    ],
    [
     "monitor",
     "Samsung Odyssey G9 G91SD LS49DG912SUXEN OLED Curved",
     729.0
+   ],
+   [
+    "monitor",
+    "Samsung Odyssey G9 G93SD LS49DG934SUXEN OLED Curved",
+    829.0
    ],
    [
     "monitor",
@@ -2103,12 +2023,12 @@
    [
     "monitor",
     "Samsung Odyssey OLED G80SD",
-    862.99
+    845.9
    ],
    [
     "monitor",
     "Samsung S55GH LS34H550GAUXEN Curved",
-    196.9
+    196.99
    ],
    [
     "monitor",
@@ -2127,8 +2047,13 @@
    ],
    [
     "monitor",
+    "Samsung Smart Monitor M7 M70F LS43FM702UUXEN",
+    449.0
+   ],
+   [
+    "monitor",
     "Samsung Smart Monitor M8 M80F LS32FM801UUXEN",
-    448.9
+    439.9
    ],
    [
     "monitor",
@@ -2158,17 +2083,12 @@
    [
     "monitor",
     "Samsung ViewFinity S70D",
-    203.9
+    199.9
    ],
    [
     "monitor",
     "Samsung ViewFinity S8 S80HF LS27H804EFAXEN",
     549.0
-   ],
-   [
-    "monitor",
-    "Samsung ViewFinity S8 S80UD LS32D800UAUXEN",
-    428.9
    ],
    [
     "monitor",
@@ -2188,7 +2108,7 @@
    [
     "monitor",
     "TCL G64 32G64",
-    319.0
+    299.0
    ],
    [
     "monitor",
@@ -2232,11 +2152,6 @@
    ],
    [
     "monitor",
-    "Vortech Pro 34 Zoll Quad HD Curved + Vortech Monitorhalterung mit Gasfeder",
-    279.0
-   ],
-   [
-    "monitor",
     "iiyama G-Master G4380UHSU-B2",
     599.0
    ],
@@ -2258,7 +2173,7 @@
    [
     "monitor",
     "iiyama PROLITE XU2792UHSU-B6",
-    265.0
+    265.95
    ],
    [
     "monitor",
@@ -2268,17 +2183,17 @@
    [
     "monitor",
     "iiyama ProLite T2255MSC-B1",
-    265.9
+    259.9
    ],
    [
     "monitor",
     "iiyama ProLite T2455MSC-B2",
-    312.9
+    329.0
    ],
    [
     "monitor",
     "iiyama ProLite T2755MSC-B1 Monitor",
-    359.0
+    356.9
    ],
    [
     "monitor",
@@ -2293,7 +2208,7 @@
    [
     "monitor",
     "iiyama ProLite X2493HSU-B1",
-    106.9
+    108.9
    ],
    [
     "monitor",
@@ -2303,7 +2218,7 @@
    [
     "monitor",
     "iiyama ProLite X2792HSU-B1",
-    125.9
+    122.99
    ],
    [
     "monitor",
@@ -2323,7 +2238,7 @@
    [
     "monitor",
     "iiyama ProLite XB2491HS-B1",
-    106.9
+    105.95
    ],
    [
     "monitor",
@@ -2338,7 +2253,7 @@
    [
     "monitor",
     "iiyama ProLite XB2497HSN-B1",
-    174.99
+    168.95
    ],
    [
     "monitor",
@@ -2378,7 +2293,7 @@
    [
     "monitor",
     "iiyama ProLite XB2797QSNP-B1",
-    230.95
+    231.0
    ],
    [
     "monitor",
@@ -2398,12 +2313,12 @@
    [
     "monitor",
     "iiyama ProLite XUB2492QSU-B1",
-    174.99
+    177.99
    ],
    [
     "monitor",
     "iiyama ProLite XUB3293UHSN-B5",
-    393.9
+    397.9
    ],
    [
     "mouse",
@@ -2413,7 +2328,7 @@
    [
     "mouse",
     "3Dconnexion SpaceMouse Enterprise",
-    415.9
+    416.9
    ],
    [
     "mouse",
@@ -2538,12 +2453,12 @@
    [
     "mouse",
     "Corsair Nightsword V2 Stream Deck Kabellose Gaming-Maus Schwarz",
-    108.95
+    108.9
    ],
    [
     "mouse",
     "Corsair Scimitar Elite RGB",
-    79.9
+    78.99
    ],
    [
     "mouse",
@@ -2568,7 +2483,7 @@
    [
     "mouse",
     "HP 400 Leise Kabellose Maus Blau",
-    29.9
+    39.99
    ],
    [
     "mouse",
@@ -2583,7 +2498,7 @@
    [
     "mouse",
     "HP 480 Comfort Bluetooth Maus",
-    43.99
+    36.9
    ],
    [
     "mouse",
@@ -2623,7 +2538,7 @@
    [
     "mouse",
     "HyperX Pulsefire Haste 2 Pro 4K Wireless Gaming-Maus",
-    98.9
+    100.9
    ],
    [
     "mouse",
@@ -2677,13 +2592,8 @@
    ],
    [
     "mouse",
-    "Lenovo Yoga Bluetooth Leise Maus Luna Grey",
-    30.9
-   ],
-   [
-    "mouse",
     "Lenovo Yoga Bluetooth Leise Maus Seashell",
-    27.9
+    29.9
    ],
    [
     "mouse",
@@ -2708,7 +2618,7 @@
    [
     "mouse",
     "Logitech G PRO X SUPERLIGHT 2c SE Schwarz",
-    139.9
+    139.99
    ],
    [
     "mouse",
@@ -2738,12 +2648,17 @@
    [
     "mouse",
     "Logitech G PRO X Superlight 2 Lightspeed Kabellose Gaming-Maus Weiß",
-    99.9
+    100.9
    ],
    [
     "mouse",
     "Logitech G PRO X2 Superstrike Lightspeed Kabellose Gaming-Maus",
     147.0
+   ],
+   [
+    "mouse",
+    "Logitech G PRO X3 SUPERSTRIKE LIGHTSPEED Rosa",
+    189.99
    ],
    [
     "mouse",
@@ -2773,12 +2688,12 @@
    [
     "mouse",
     "Logitech G309 Lightspeed Kabellose Gaming-Maus Schwarz",
-    60.9
+    61.9
    ],
    [
     "mouse",
     "Logitech G403 Hero Gaming-Maus",
-    47.9
+    47.99
    ],
    [
     "mouse",
@@ -2828,17 +2743,17 @@
    [
     "mouse",
     "Logitech Lift Vertikale ergonomische Maus für Linkshänder Schwarz",
-    52.95
+    52.9
    ],
    [
     "mouse",
     "Logitech Lift für Mac Vertikale Ergonomische Maus Weiß",
-    52.95
+    52.9
    ],
    [
     "mouse",
     "Logitech M220 Silent Kabellose Maus Schwarz",
-    19.95
+    19.9
    ],
    [
     "mouse",
@@ -2868,12 +2783,12 @@
    [
     "mouse",
     "Logitech MX Anywhere 3S Kompakt Rosa",
-    74.9
+    85.9
    ],
    [
     "mouse",
     "Logitech MX Anywhere 3S für Mac Grau",
-    75.9
+    74.95
    ],
    [
     "mouse",
@@ -2883,7 +2798,7 @@
    [
     "mouse",
     "Logitech MX Ergo S Advanced Wireless Trackball Maus Schwarz",
-    82.9
+    81.95
    ],
    [
     "mouse",
@@ -2998,17 +2913,17 @@
    [
     "mouse",
     "Razer DeathAdder V3 Pro Gaming-Maus Schwarz",
-    88.9
+    90.9
    ],
    [
     "mouse",
     "Razer DeathAdder V4 Pro Gaming-Maus",
-    125.95
+    122.9
    ],
    [
     "mouse",
     "Razer Naga V2 HyperSpeed Kabellose Gaming-Maus",
-    79.9
+    79.95
    ],
    [
     "mouse",
@@ -3018,7 +2933,7 @@
    [
     "mouse",
     "Razer Viper V3 Pro SE Kabellose Gaming-Maus Schwarz",
-    79.9
+    79.95
    ],
    [
     "mouse",
@@ -3028,12 +2943,12 @@
    [
     "mouse",
     "Razer Viper V4 Pro Wireless Gaming-Maus Schwarz",
-    148.95
+    140.99
    ],
    [
     "mouse",
     "Razer Viper V4 Pro Wireless Gaming-Maus Weiß",
-    149.9
+    148.95
    ],
    [
     "mouse",
@@ -3053,7 +2968,7 @@
    [
     "mouse",
     "SteelSeries Aerox 3 Wireless Onyx",
-    109.99
+    94.99
    ],
    [
     "mouse",
@@ -3178,7 +3093,7 @@
    [
     "psu",
     "be quiet! Power Zone 2 1200 W ATX 3.1",
-    165.9
+    165.99
    ],
    [
     "psu",
@@ -3188,7 +3103,7 @@
    [
     "psu",
     "be quiet! Power Zone 2 850 W",
-    142.99
+    143.9
    ],
    [
     "ram",
@@ -3646,11 +3561,6 @@
     "case",
     "Corsair 3200D RS PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
     54.9
-   ],
-   [
-    "case",
-    "Corsair 3500X LX-R PC-Gehäuse, Midi-Tower, E-ATX, RGB, Tempered Glass - weiß",
-    79.9
    ],
    [
     "case",
@@ -6289,11 +6199,6 @@
    ],
    [
     "cooler",
-    "Corsair iCUE LINK Titan 360 RX RGB Komplett-Wasserkühlung - 360 mm, weiß",
-    157.9
-   ],
-   [
-    "cooler",
     "EK Water Blocks EK-Nucleus AIO CR360 Dark AiO Wasserkühlung - Schwarz",
     85.41
    ],
@@ -6576,11 +6481,6 @@
     "cooler",
     "Jonsbo TF3-360SCB AiO Wasserkühlung, ARGB, 3,5” + 3x 3,38” LCD - 360mm, schwarz",
     199.9
-   ],
-   [
-    "cooler",
-    "Jonsbo TF3-360SCBN AiO Wasserkühlung, ARGB, 3,5” Display - 360mm, schwarz, ohne Lüfter",
-    149.9
    ],
    [
     "cooler",
@@ -7515,7 +7415,7 @@
    [
     "cpu",
     "AMD EPYC 4244P CPU, 6 Kerne, 5,1 GHz, Sockel AM5 (Raphael) - tray, ohne Kühler",
-    222.9
+    202.9
    ],
    [
     "cpu",
@@ -7761,11 +7661,6 @@
     "cpu",
     "Intel Core i5-14500 2,6 GHz (Raptor Lake Refresh) Sockel 1700 - tray",
     249.0
-   ],
-   [
-    "cpu",
-    "Intel Core i5-14500T 1,7 GHz (Raptor Lake Refresh) Sockel 1700 - tray",
-    329.0
    ],
    [
     "cpu",
@@ -8261,11 +8156,6 @@
     "fans",
     "Alphacool Apex Stealth Metall Power Lüfter 120 mm, 3.000 U/min - gold",
     25.41
-   ],
-   [
-    "fans",
-    "Alphacool Core PWM-Lüfter 2.500 U/min - 140 mm - schwarz",
-    6.71
    ],
    [
     "fans",
@@ -11249,11 +11139,6 @@
    ],
    [
     "keyboard",
-    "Ducky One 3 Aura White SF Gaming Tastatur, RGB LED - MX-Silent-Red",
-    19.9
-   ],
-   [
-    "keyboard",
     "Ducky One 3 Hot-Swap Barebone, Mini - ISO Layout",
     14.9
    ],
@@ -11404,11 +11289,6 @@
    ],
    [
     "keyboard",
-    "Glorious GMMK 3 Pro 75 % Custom Gaming-Tastatur - Barebone, ISO-Layout, schwarz",
-    29.9
-   ],
-   [
-    "keyboard",
     "Glorious GMMK 3 Pro 75 % Gaming-Tastatur, Fox Switches - ISO-ND, schwarz",
     65.9
    ],
@@ -11425,16 +11305,6 @@
    [
     "keyboard",
     "Glorious GMMK Coiled Cable Glorious Gold, Spiralkabel, USB-C/USB-A - gold/schwarz",
-    6.9
-   ],
-   [
-    "keyboard",
-    "Glorious GMMK Coiled Cable Nebula, Spiralkabel, USB-C/USB-A - lila/silber",
-    6.9
-   ],
-   [
-    "keyboard",
-    "Glorious GMMK Compact Tastatur - Barebone, ANSI-Layout",
     6.9
    ],
    [
@@ -11494,6 +11364,11 @@
    ],
    [
     "keyboard",
+    "Glorious GMMK Pro White Ice 75% TKL Tastatur - Barebone, ANSI-Layout, silber",
+    39.9
+   ],
+   [
+    "keyboard",
     "Glorious GMMK Pro mechanische Tastatur, 75% - Pre-built, ISO UK-Layout - weiß",
     91.9
    ],
@@ -11529,13 +11404,13 @@
    ],
    [
     "keyboard",
-    "Glorious GPBT Gradient Keycaps, ANSI Layout (US), PBT, Dye-Sub - Rainforest",
-    4.9
+    "Glorious GPBT Keycaps - 114 PBT Tastenkappen, ANSI, US-Layout - Celestial Fire",
+    16.9
    ],
    [
     "keyboard",
-    "Glorious GPBT Keycaps - 114 PBT Tastenkappen, ANSI, US-Layout - Celestial Fire",
-    16.9
+    "Glorious GPBT Keycaps - 114 PBT Tastenkappen, ANSI, US-Layout, Arctic White",
+    4.9
    ],
    [
     "keyboard",
@@ -11605,11 +11480,6 @@
    [
     "keyboard",
     "Glorious Lynx Switches - 36 Stück",
-    2.9
-   ],
-   [
-    "keyboard",
-    "Glorious Lynx Switches - 36 Stück, geschmiert",
     2.9
    ],
    [
@@ -14014,6 +13884,26 @@
    ],
    [
     "mouse",
+    "ATK Blazing Sky F1 V3 Ultimate+ kabellose Gaming-Maus, PAW3955 Master, 50.000 DPI, 8K Hz -",
+    69.9
+   ],
+   [
+    "mouse",
+    "ATK Blazing Sky F1 V3 Ultimate+ kabellose Gaming-Maus, PAW3955 Master, 50.000 DPI, 8K Hz -",
+    69.9
+   ],
+   [
+    "mouse",
+    "ATK Blazing Sky GHOST Extreme+ kabellose Gaming-Maus, PAW3955 Master, 50.000 DPI, 8.000Hz ",
+    114.9
+   ],
+   [
+    "mouse",
+    "ATK Blazing Sky GHOST Ultimate+ kabellose Gaming-Maus, PAW3955 Master, 50.000 DPI, 8.000Hz",
+    89.9
+   ],
+   [
+    "mouse",
     "ATK Blazing Sky Ghost EXTREME kabellose Gaming-Maus, 8.000Hz - silber",
     79.9
    ],
@@ -14046,6 +13936,16 @@
     "mouse",
     "ATK VXE Dragonfly R1 PRO MAX kabellose Gaming-Maus, PAW3395, 26.000 DPI, 4.000Hz - weiß",
     49.9
+   ],
+   [
+    "mouse",
+    "ATK VXE Dragonfly R1 PRO kabellose Gaming-Maus, PAW3950, 30.000 DPI, 4.000Hz - schwarz",
+    44.9
+   ],
+   [
+    "mouse",
+    "ATK VXE Dragonfly R1 PRO kabellose Gaming-Maus, PAW3950, 30.000 DPI, 4.000Hz - weiß",
+    44.9
    ],
    [
     "mouse",
@@ -14474,7 +14374,7 @@
    ],
    [
     "mouse",
-    "Razer Hero Bundle, Viper V3 Pro + Gigantus M Mauspad - weiß",
+    "Razer Hero Bundle, Viper V3 Pro, weiß + Gigantus V2 Medium Mauspad",
     89.9
    ],
    [
@@ -17797,7 +17697,7 @@
    [
     "case",
     "Antec C3 ARGB Midi-tower PC-behuizing Zwart Zijvenster",
-    99.99
+    97.99
    ],
    [
     "case",
@@ -17813,11 +17713,6 @@
     "case",
     "Antec CX500M Mini-tower Gaming-behuizing Zwart Stoffilter",
     73.99
-   ],
-   [
-    "case",
-    "Antec CX800 Wood Midi-tower Gaming-behuizing Zwart, Hout Stoffilter",
-    89.99
    ],
    [
     "case",
@@ -18042,7 +17937,7 @@
    [
     "case",
     "BeQuiet PURE BASE 501 Airflow Black Midi-tower PC-behuizing Zwart",
-    89.99
+    85.99
    ],
    [
     "case",
@@ -18072,7 +17967,7 @@
    [
     "case",
     "BeQuiet be quiet! Geh Pure Base 501 DX White Midi-tower PC-behuizing Wit",
-    129.99
+    114.99
    ],
    [
     "case",
@@ -18222,7 +18117,7 @@
    [
     "case",
     "Cooler Master CoolerMaster Geh MasterFrame 360 Stage M Midi-tower PC-behuizing Zwart Stoff",
-    224.99
+    244.99
    ],
    [
     "case",
@@ -18247,7 +18142,7 @@
    [
     "case",
     "Cooler Master MF600-KGNN-S00 Midi-tower PC-behuizing Zwart",
-    219.99
+    234.99
    ],
    [
     "case",
@@ -18352,7 +18247,7 @@
    [
     "case",
     "Corsair CC-9011279-WW Midi-tower PC-behuizing Wit",
-    169.99
+    174.99
    ],
    [
     "case",
@@ -18412,7 +18307,7 @@
    [
     "case",
     "Corsair CORSAIR Geh Midi FRAME 4000X RS Mid-Towe Midi-tower PC-behuizing Wit 4 voorgeïnsta",
-    199.99
+    184.99
    ],
    [
     "case",
@@ -18438,11 +18333,6 @@
     "case",
     "Corsair FRAME 4000D RS, White/Oak Midi-tower PC-behuizing Hout, Wit",
     169.99
-   ],
-   [
-    "case",
-    "Corsair FRAME 4500X LX RGB Midi-tower PC-behuizing Wit Zijvenster, Stoffilter",
-    315.0
    ],
    [
     "case",
@@ -18611,6 +18501,11 @@
    ],
    [
     "case",
+    "Fractal Design Define 7 Compact Midi-tower PC-behuizing Zwart",
+    129.99
+   ],
+   [
+    "case",
     "Fractal Design Define 7 Nano PC-behuizing Zwart Geluidsdemping",
     114.99
    ],
@@ -18726,6 +18621,11 @@
    ],
    [
     "case",
+    "Fractal Design Geh Pop 2 Vision Black RG Midi-tower PC-behuizing Zwart 4 voorgeïnstalleerd",
+    114.99
+   ],
+   [
+    "case",
     "Fractal Design Geh Pop 2 Vision White RG Midi-tower PC-behuizing Wit 4 voorgeïnstalleerde ",
     114.99
    ],
@@ -18772,7 +18672,7 @@
    [
     "case",
     "Fractal Design North XL Midi-tower Gaming-behuizing Steenkool, Zwart Stoffilter, 3 voorgeï",
-    199.99
+    204.99
    ],
    [
     "case",
@@ -18786,8 +18686,13 @@
    ],
    [
     "case",
+    "Fractal Design Pop Mini Air Mini-tower PC-behuizing Zwart",
+    104.99
+   ],
+   [
+    "case",
     "Fractal Design Pop Silent Tower PC-behuizing Zwart",
-    91.99
+    93.99
    ],
    [
     "case",
@@ -18802,7 +18707,7 @@
    [
     "case",
     "Gigabyte AORUS C400 Glass Midi-tower PC-behuizing Zwart",
-    139.99
+    134.99
    ],
    [
     "case",
@@ -18861,11 +18766,6 @@
    ],
    [
     "case",
-    "HYTE HYTE X50 Midi Tower Midi-tower Behuizing, PC-behuizing, Gaming-behuizing Wit",
-    59.99
-   ],
-   [
-    "case",
     "HYTE HYTE X50 Pitch Black Midi-tower PC-behuizing, Gaming-behuizing Black",
     69.99
    ],
@@ -18892,7 +18792,7 @@
    [
     "case",
     "Inter-Tech 88881366 Midi-tower PC-behuizing Zwart",
-    67.99
+    69.99
    ],
    [
     "case",
@@ -18902,17 +18802,22 @@
    [
     "case",
     "Inter-Tech 88881379 PC-behuizing Meerdere kleuren",
-    57.99
+    53.99
    ],
    [
     "case",
     "Inter-Tech 88881380 PC-behuizing Meerdere kleuren",
-    59.99
+    57.99
    ],
    [
     "case",
     "Inter-Tech A-3411 Creek - RGB Midi-tower PC-behuizing Zwart Stoffilter, Zijvenster, Geïnte",
     53.99
+   ],
+   [
+    "case",
+    "Inter-Tech A80 Mini-tower PC-behuizing Zwart",
+    79.99
    ],
    [
     "case",
@@ -18946,6 +18851,11 @@
    ],
    [
     "case",
+    "Inter-Tech CXC2 Tower PC-behuizing Zwart",
+    67.99
+   ],
+   [
+    "case",
     "Inter-Tech H-606 Micro-tower PC-behuizing Zwart",
     44.99
    ],
@@ -18962,7 +18872,7 @@
    [
     "case",
     "Inter-Tech IT-3303 Hornet Midi - RGB Midi-tower Gaming-behuizing Zwart",
-    55.99
+    53.99
    ],
    [
     "case",
@@ -19032,7 +18942,7 @@
    [
     "case",
     "Inter-Tech S-3906 Renegade Tower PC-behuizing Zwart Stoffilter, Geïntegreerde verlichting,",
-    93.99
+    89.99
    ],
    [
     "case",
@@ -19417,7 +19327,7 @@
    [
     "case",
     "LC Power 2016MB Micro-tower PC-behuizing Zwart",
-    42.99
+    43.99
    ],
    [
     "case",
@@ -19483,11 +19393,6 @@
     "case",
     "LC Power LC-7041B-ON Midi-tower PC-behuizing Zwart",
     46.99
-   ],
-   [
-    "case",
-    "LC Power LC-717B-ON Micro-tower Gaming-behuizing Zwart Zijvenster",
-    69.99
    ],
    [
     "case",
@@ -19682,7 +19587,7 @@
    [
     "case",
     "Micro Star International Computer MAG FORGE 100R Midi-tower PC-behuizing Zwart, Transparan",
-    104.99
+    99.99
    ],
    [
     "case",
@@ -19697,7 +19602,7 @@
    [
     "case",
     "Phanteks Evolv S2 Midi-tower Behuizing, Gaming-behuizing, PC-behuizing Zwart",
-    104.99
+    124.99
    ],
    [
     "case",
@@ -19822,7 +19727,7 @@
    [
     "case",
     "Sharkoon Rebel C60 RGB White Midi-tower PC-behuizing Wit 2 voorgeïnstalleerde ventilators,",
-    93.99
+    114.99
    ],
    [
     "case",
@@ -19877,7 +19782,7 @@
    [
     "case",
     "Streacom Streacom BC1 V2 Benchtable Behuizing Zilver",
-    179.99
+    184.99
    ],
    [
     "case",
@@ -19897,7 +19802,7 @@
    [
     "case",
     "Thermaltake AX100 Snow White Desktop Sokkel Sneeuwwit Zijvenster",
-    174.99
+    179.99
    ],
    [
     "case",
@@ -19942,12 +19847,12 @@
    [
     "case",
     "Thermaltake CA-1S3-00M1WN-03 Midi-tower PC-behuizing Zwart",
-    65.99
+    71.99
    ],
    [
     "case",
     "Thermaltake CA-1S3-00M6WN-03 Midi-tower PC-behuizing Wit",
-    67.99
+    71.99
    ],
    [
     "case",
@@ -20072,7 +19977,7 @@
    [
     "case",
     "Thermaltake Ceres 330 TG Midi-tower Gaming-behuizing Wit Zijvenster",
-    71.99
+    73.99
    ],
    [
     "case",
@@ -20087,12 +19992,12 @@
    [
     "case",
     "Thermaltake Ceres 350 MX Racing Green Midi-tower PC-behuizing Groen",
-    69.99
+    67.99
    ],
    [
     "case",
     "Thermaltake Ceres 350 MX Snow White Midi-tower PC-behuizing Sneeuwwit",
-    65.99
+    61.99
    ],
    [
     "case",
@@ -20202,7 +20107,7 @@
    [
     "case",
     "Thermaltake The Tower 200 Mini-tower PC-behuizing Lichtgroen 2 voorgeïnstalleerde ventilat",
-    83.99
+    85.99
    ],
    [
     "case",
@@ -20222,7 +20127,7 @@
    [
     "case",
     "Thermaltake The Tower 250 Black Midi-tower Gaming-behuizing Zwart Zijvenster",
-    104.99
+    114.99
    ],
    [
     "case",
@@ -20242,7 +20147,7 @@
    [
     "case",
     "Thermaltake The Tower 250 Snow White Midi-tower Gaming-behuizing Wit",
-    104.99
+    99.99
    ],
    [
     "case",
@@ -20402,7 +20307,7 @@
    [
     "case",
     "Thermaltake View 51 TG ARGB Midi-tower PC-behuizing Zwart",
-    149.99
+    129.99
    ],
    [
     "case",
@@ -20427,7 +20332,7 @@
    [
     "case",
     "XPG VALOR AIR PLUS Midi-tower PC-behuizing Zwart 4 voorgeïnstalleerde LED-ventilators",
-    67.99
+    69.99
    ],
    [
     "case",
@@ -20462,7 +20367,7 @@
    [
     "case",
     "Xilence XG221 Midi-tower PC-behuizing Wit",
-    49.99
+    48.99
    ],
    [
     "cooler",
@@ -20536,6 +20441,11 @@
    ],
    [
     "cooler",
+    "Arctic Freezer 36 A-RGB (Black) Chipsetkoeler met ventilator Intel LGA 1700, AMD AM5, AMD ",
+    35.99
+   ],
+   [
+    "cooler",
     "BeQuiet DARK ROCK 6 CPU-koellichaam passief",
     79.99
    ],
@@ -20562,7 +20472,7 @@
    [
     "cooler",
     "Cooler Master RR-S4KK-25DN-R1 CPU-koellichaam met ventilator Intel LGA 1150, Intel LGA 115",
-    38.99
+    43.99
    ],
    [
     "cooler",
@@ -20592,7 +20502,7 @@
    [
     "cooler",
     "Dynatron J10 AMD SP5 CPU-koellichaam met ventilator AMD SP5",
-    65.99
+    71.99
    ],
    [
     "cooler",
@@ -20657,7 +20567,7 @@
    [
     "cooler",
     "Dynatron Q7 Intel 1700 CPU-koellichaam met ventilator Intel LGA 1700",
-    69.99
+    71.99
    ],
    [
     "cooler",
@@ -20677,7 +20587,7 @@
    [
     "cooler",
     "Dynatron S6-4710 CPU-koellichaam met ventilator Intel FC LGA 47",
-    61.99
+    65.99
    ],
    [
     "cooler",
@@ -20702,7 +20612,7 @@
    [
     "cooler",
     "FSP Fortron POO0000012 CPU-koellichaam met ventilator Intel LGA 1851, Intel LGA 1700, Inte",
-    40.99
+    37.99
    ],
    [
     "cooler",
@@ -20723,11 +20633,6 @@
     "cooler",
     "Inter-Tech Argus T-200 CPU-koellichaam met ventilator",
     10.99
-   ],
-   [
-    "cooler",
-    "Inter-Tech IP-3 CPU-koellichaam met ventilator",
-    36.99
    ],
    [
     "cooler",
@@ -20857,12 +20762,12 @@
    [
     "cooler",
     "Kolink Umbra EX180 CPU-koellichaam met ventilator Intel LGA 1700, Intel LGA 1200, Intel LG",
-    38.99
+    36.99
    ],
    [
     "cooler",
     "LC Power LC-CC-120-DB6 CPU-koellichaam met ventilator Intel LGA 1851, Intel LGA 1700, Inte",
-    38.99
+    39.99
    ],
    [
     "cooler",
@@ -21027,7 +20932,7 @@
    [
     "cooler",
     "Xilence A250PWM.B CPU-koellichaam met ventilator AMD AM4, AMD AM5",
-    11.99
+    7.99
    ],
    [
     "cooler",
@@ -21042,7 +20947,7 @@
    [
     "cooler",
     "Xilence LiQuRizer LQ240 CPU-koellichaam met ventilator AMD AM4, AMD AM5, Intel LGA 1150, I",
-    48.99
+    49.99
    ],
    [
     "cooler",
@@ -21077,7 +20982,7 @@
    [
     "cooler",
     "Xilence XC974 CPU-koellichaam met ventilator AMD AM4, AMD AM5, Intel LGA 1150, Intel LGA 1",
-    59.99
+    61.99
    ],
    [
     "cooler",
@@ -21182,7 +21087,7 @@
    [
     "fans",
     "Arctic Lüfter 140*140*27 P14 Pro Reverse Videokaartkoeler met ventilator Wit (b x h x d) 1",
-    30.99
+    35.99
    ],
    [
     "fans",
@@ -21372,7 +21277,7 @@
    [
     "fans",
     "BeQuiet LIGHT WINGS LX 120mm PWM Triple-Pack PC-ventilator Zwart (b x h x d) 120 x 120 x 2",
-    45.99
+    46.99
    ],
    [
     "fans",
@@ -21382,7 +21287,7 @@
    [
     "fans",
     "BeQuiet LIGHT WINGS LX 120mm PWM high-speed Triple-Pack PC-ventilator Zwart (b x h x d) 12",
-    48.99
+    49.99
    ],
    [
     "fans",
@@ -21402,7 +21307,7 @@
    [
     "fans",
     "BeQuiet LIGHT WINGS LX 140mm PWM high-speed Triple-Pack PC-ventilator Zwart (b x h x d) 14",
-    46.99
+    49.99
    ],
    [
     "fans",
@@ -21447,7 +21352,7 @@
    [
     "fans",
     "BeQuiet Pure Wings 3 PC-ventilator Zwart (b x h x d) 140 x 25 x 140 mm",
-    12.99
+    13.99
    ],
    [
     "fans",
@@ -21477,7 +21382,7 @@
    [
     "fans",
     "BeQuiet SILENT WINGS PRO 4 PC-ventilator Zwart (b x h x d) 120 x 25 x 120 mm",
-    32.99
+    30.99
    ],
    [
     "fans",
@@ -21537,7 +21442,7 @@
    [
     "fans",
     "Corsair CO-9050196-WW PC-ventilator Zwart (b x h x d) 150 x 100 x 150 mm Incl. RGB-verlich",
-    59.99
+    61.99
    ],
    [
     "fans",
@@ -21547,7 +21452,7 @@
    [
     "fans",
     "Corsair CO-9051006-WW PC-ventilator Wit (b x h x d) 370 x 50 x 130 mm Incl. LED-verlichtin",
-    194.99
+    199.99
    ],
    [
     "fans",
@@ -21557,7 +21462,7 @@
    [
     "fans",
     "Corsair CO-9051032-WW PC-ventilator Wit (b x h x d) 140 x 25 x 140 mm",
-    124.99
+    119.99
    ],
    [
     "fans",
@@ -21577,7 +21482,7 @@
    [
     "fans",
     "Corsair iCUE LINK RX140 PC-ventilator Zwart (b x h x d) 140 x 140 x 25 mm",
-    34.99
+    28.99
    ],
    [
     "fans",
@@ -21697,7 +21602,7 @@
    [
     "fans",
     "Fractal Design Aspect 12 RGB PWM PC-ventilator Zwart (b x h x d) 150 x 50 x 150 mm",
-    40.99
+    38.99
    ],
    [
     "fans",
@@ -21707,12 +21612,12 @@
    [
     "fans",
     "Fractal Design Dynamic 3-12 PC-ventilator Zwart",
-    14.99
+    18.99
    ],
    [
     "fans",
     "Fractal Design Dynamic 3-12 PC-ventilator Zwart",
-    43.99
+    44.99
    ],
    [
     "fans",
@@ -21737,7 +21642,7 @@
    [
     "fans",
     "Fractal Design FD-F-MR1-1202 PC-ventilator Wit (b x h x d) 150 x 50 x 250 mm",
-    32.99
+    30.99
    ],
    [
     "fans",
@@ -21772,7 +21677,7 @@
    [
     "fans",
     "Gigabyte GP-ECFAN1203 PC-ventilator Zwart (b x h x d) 120 x 25 x 120 mm",
-    61.99
+    59.99
    ],
    [
     "fans",
@@ -21897,7 +21802,7 @@
    [
     "fans",
     "Inter-Tech 88887289 PC-ventilator Zwart (b x h x d) 120 x 25 x 120 mm",
-    18.99
+    14.99
    ],
    [
     "fans",
@@ -21912,7 +21817,7 @@
    [
     "fans",
     "Inter-Tech Argus RS08 PC-ventilator Zwart (b x h x d) 120 x 120 x 25 mm Incl. afstandsbedi",
-    35.99
+    33.99
    ],
    [
     "fans",
@@ -22097,7 +22002,7 @@
    [
     "fans",
     "Lian Li Lian Li UNI FAN SL Wireless LCD Lüfter, ARGB, PWM, 3er-Pack inkl. Controller PC-ve",
-    61.99
+    124.99
    ],
    [
     "fans",
@@ -22412,7 +22317,7 @@
    [
     "fans",
     "Noctua Noctua NF-A14 ULN Lüfter - 140mm PC-ventilator Bruin (b x h x d) 140 x 140 x 25 mm",
-    30.99
+    29.99
    ],
    [
     "fans",
@@ -22432,11 +22337,6 @@
    [
     "fans",
     "Noctua Noctua NF-F12 industrialPPC-24V-2000 SP IP67 PWM - 120mm PC-ventilator Bruin (b x h",
-    40.99
-   ],
-   [
-    "fans",
-    "Noctua Noctua NF-F12 industrialPPC-24V-3000 SP IP67 PWM - 120mm PC-ventilator Zwart (b x h",
     40.99
    ],
    [
@@ -22461,6 +22361,11 @@
    ],
    [
     "fans",
+    "NoiseBlocker BlackSilent XE2 PC-ventilator Zwart, Blauw (transparant) (b x h x d) 92 x 92 ",
+    6.49
+   ],
+   [
+    "fans",
     "NoiseBlocker BlackSilent XM-2 PC-ventilator Zwart, Blauw (transparant) (b x h x d) 40 x 40",
     9.49
    ],
@@ -22482,7 +22387,7 @@
    [
     "fans",
     "PC-ventilator Thermaltake 3 stuk(s) RIING PLUS 14 LED RGB (b x h x d) 140 x 140 x 25 mm",
-    104.99
+    93.99
    ],
    [
     "fans",
@@ -22592,7 +22497,7 @@
    [
     "fans",
     "Phanteks PH-F120T30_BG PC-ventilator Meerdere kleuren (b x h x d) 120 x 120 x 30 mm",
-    36.99
+    33.99
    ],
    [
     "fans",
@@ -22671,11 +22576,6 @@
    ],
    [
     "fans",
-    "Sharkoon SilentStorm BW120 PWM PC-ventilator Bessen (b x h x d) 120 x 25 x 120 mm",
-    10.99
-   ],
-   [
-    "fans",
     "Simpletek PC-ventilator Zwart, Rood (b x h x d) 92 x 25 x 92 mm",
     4.79
    ],
@@ -22707,7 +22607,7 @@
    [
     "fans",
     "Thermaltake CL-F147-PL12BL-A PC-ventilator Zwart (b x h x d) 120 x 120 x 25 mm",
-    20.99
+    23.99
    ],
    [
     "fans",
@@ -22722,12 +22622,12 @@
    [
     "fans",
     "Thermaltake CL-F151-PL12WT-A PC-ventilator Wit (b x h x d) 120 x 120 x 25 mm",
-    20.99
+    21.99
    ],
    [
     "fans",
     "Thermaltake CL-F153-PL12SW-A PC-ventilator Wit, Transparant, RGB (b x h x d) 120 x 120 x 2",
-    29.99
+    35.99
    ],
    [
     "fans",
@@ -22747,17 +22647,17 @@
    [
     "fans",
     "Thermaltake CT120 ARGB Sync PC Cooling Fan Hydrangea Blue 2 Pack/ PC-ventilator Groen (b x",
-    29.99
+    32.99
    ],
    [
     "fans",
     "Thermaltake CT120 ARGB Sync PC Cooling Fan Matcha Green 2 Pack PC-ventilator Groen (b x h ",
-    29.99
+    33.99
    ],
    [
     "fans",
     "Thermaltake CT120 EX ARGB Sync PC Cooling Fan Bumblebee 3 Pack PC-ventilator Geel (b x h x",
-    55.99
+    61.99
    ],
    [
     "fans",
@@ -22767,17 +22667,17 @@
    [
     "fans",
     "Thermaltake CT120 EX ARGB Sync PC Cooling Fan Hydrangea Blue 3 Fan Pack PC-ventilator Blau",
-    55.99
+    65.99
    ],
    [
     "fans",
     "Thermaltake CT120 EX ARGB Sync PC Cooling Fan Matcha Green 3 Fan Pack PC-ventilator Meerde",
-    67.99
+    65.99
    ],
    [
     "fans",
     "Thermaltake CT120 EX ARGB Sync PC Cooling Fan Pink 3 Pack PC-ventilator Pink (b x h x d) 1",
-    55.99
+    61.99
    ],
    [
     "fans",
@@ -22802,7 +22702,7 @@
    [
     "fans",
     "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan 3 Fan Pack PC-ventilator Zwart (b x ",
-    55.99
+    65.99
    ],
    [
     "fans",
@@ -22812,27 +22712,27 @@
    [
     "fans",
     "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan Gravel Sand 3 Pack PC-ventilator Zan",
-    67.99
-   ],
-   [
-    "fans",
-    "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan Hydrangea Blue 3 Fan Pack PC-ventila",
-    69.99
-   ],
-   [
-    "fans",
-    "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan Matcha Green 3 Fan Pack PC-ventilato",
     59.99
    ],
    [
     "fans",
+    "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan Hydrangea Blue 3 Fan Pack PC-ventila",
+    71.99
+   ],
+   [
+    "fans",
+    "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan Matcha Green 3 Fan Pack PC-ventilato",
+    71.99
+   ],
+   [
+    "fans",
     "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan Pink 3 Pack PC-ventilator Pink (b x ",
-    67.99
+    59.99
    ],
    [
     "fans",
     "Thermaltake CT120 EX Reverse ARGB Sync PC Cooling Fan Racing Green 3 Pack PC-ventilator Gr",
-    67.99
+    59.99
    ],
    [
     "fans",
@@ -22887,7 +22787,7 @@
    [
     "fans",
     "Thermaltake CT140 EX ARGB Sync PC Cooling Fan Matcha Green 3 Fan Pack PC-ventilator Groen ",
-    65.99
+    73.99
    ],
    [
     "fans",
@@ -22917,12 +22817,12 @@
    [
     "fans",
     "Thermaltake CT140 EX PC-ventilator Zwart Incl. LED-verlichting",
-    65.99
+    67.99
    ],
    [
     "fans",
     "Thermaltake CT140 EX Reverse ARGB Sync PC Cooling Fan 3 Fan Pack PC-ventilator Meerdere kl",
-    75.99
+    65.99
    ],
    [
     "fans",
@@ -22957,7 +22857,7 @@
    [
     "fans",
     "Thermaltake CT140 EX Reverse ARGB Sync PC Cooling Fan White 3 Fan Pack PC-ventilator Wit (",
-    65.99
+    67.99
    ],
    [
     "fans",
@@ -22967,7 +22867,7 @@
    [
     "fans",
     "Thermaltake CT140 Reverse ARGB Sync PC Cooling Fan Hydrangea Blue 2 Pack PC-ventilator Mee",
-    32.99
+    33.99
    ],
    [
     "fans",
@@ -23032,7 +22932,7 @@
    [
     "fans",
     "Thermaltake SWAFAN EX12 ARGB PC-ventilator Wit (b x h x d) 120 x 25 x 120 mm Incl. LED-ver",
-    104.99
+    93.99
    ],
    [
     "fans",
@@ -23062,7 +22962,7 @@
    [
     "fans",
     "Thermaltake TOUGHFAN 12 PC-ventilator Zwart",
-    32.99
+    34.99
    ],
    [
     "fans",
@@ -23072,7 +22972,7 @@
    [
     "fans",
     "Thermaltake TOUGHFAN EX12 Pro PC-ventilator Zwart",
-    83.99
+    89.99
    ],
    [
     "fans",
@@ -23102,7 +23002,7 @@
    [
     "fans",
     "Thermaltake Thermaltake CT120 EX ARGB Sync - Gehäuselüfter - 120 mm - weiß (Packung mit 3)",
-    55.99
+    65.99
    ],
    [
     "fans",
@@ -23157,7 +23057,7 @@
    [
     "fans",
     "Xilence XILENCE XF141 Performance C Gehäuselüfte PC-ventilator Zwart",
-    4.79
+    4.29
    ],
    [
     "fans",
@@ -23202,12 +23102,12 @@
    [
     "fans",
     "Xilence XPF92.R PC-ventilator Meerdere kleuren (b x h x d) 92 x 25 x 92 mm",
-    2.99
+    2.79
    ],
    [
     "gpu",
     "AMD AMD Radeon Pro WX 3200 Videokaart Radeon Pro WX 3200 4 GB GDDR5-RAM PCIe Mini-DisplayP",
-    174.99
+    184.99
    ],
    [
     "gpu",
@@ -23217,7 +23117,7 @@
    [
     "gpu",
     "Asus Videokaart Nvidia GeForce GT1030 2 GB GDDR5-RAM PCIe HDMI, DisplayPort Low Profile",
-    129.99
+    134.99
    ],
    [
     "gpu",
@@ -23227,7 +23127,7 @@
    [
     "gpu",
     "Gigabyte Nvidia GeForce RTX 3050 Videokaart GeForce RTX 3050 6 GB GDDR6-VRAM PCIe DisplayP",
-    335.0
+    349.0
    ],
    [
     "gpu",
@@ -23247,7 +23147,7 @@
    [
     "gpu",
     "MSI RTX 3050 Videokaart GeForce RTX 3050 6 GB HDMI, DisplayPort",
-    355.0
+    375.0
    ],
    [
     "gpu",
@@ -23257,12 +23157,12 @@
    [
     "gpu",
     "Nvidia Nvidia RTX™ A400 Videokaart RTX A400 4 GB GDDR6-RAM PCIe x8 Mini-DisplayPort Vulkan",
-    285.0
+    289.0
    ],
    [
     "gpu",
     "PNY Nvidia RTX™ A400 Videokaart Low Profile OEM 4 GB GDDR6-RAM PCIe x8 Mini-DisplayPort Lo",
-    275.0
+    285.0
    ],
    [
     "gpu",
@@ -23342,7 +23242,7 @@
    [
     "keyboard",
     "Lenovo Set met toetsenbord en muis Draadloos QWERTZ, Duits Zwart",
-    75.99
+    81.99
    ],
    [
     "keyboard",
@@ -23372,7 +23272,7 @@
    [
     "keyboard",
     "Matias Matias FK316CS Wired USB-C® Keyboard for Mac - Silver - U.S. Version Toetsenbord US",
-    43.99
+    38.99
    ],
    [
     "keyboard",
@@ -23402,7 +23302,7 @@
    [
     "keyboard",
     "R-GO Tools Split Break Toetsenbord Bluetooth QWERTY, US-Engels Wit Ergonomisch",
-    134.99
+    129.99
    ],
    [
     "keyboard",
@@ -23417,7 +23317,7 @@
    [
     "keyboard",
     "RAZER BlackWidow V4 Gaming-toetsenbord Bluetooth, USB QWERTY, Engels Zwart Oplaadbaar, Gel",
-    184.99
+    149.99
    ],
    [
     "keyboard",
@@ -23447,12 +23347,12 @@
    [
     "mobo",
     "ASRock A520M Pro4 Moederbord Socket AMD AM4 Vormfactor Micro-ATX",
-    97.99
+    104.99
    ],
    [
     "mobo",
     "ASRock A520M-HDV Moederbord Socket AMD AM4 Vormfactor Micro-ATX",
-    65.99
+    67.99
    ],
    [
     "mobo",
@@ -23467,7 +23367,7 @@
    [
     "mobo",
     "ASRock A620AM-HVS Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AMD® A",
-    85.99
+    87.99
    ],
    [
     "mobo",
@@ -23482,7 +23382,7 @@
    [
     "mobo",
     "ASRock ASROCK B860M Challenger WiFi (1851) (D) Moederbord Socket Intel LGA 1851 Vormfactor",
-    159.99
+    164.99
    ],
    [
     "mobo",
@@ -23492,7 +23392,7 @@
    [
     "mobo",
     "ASRock ASRock B860M Challenger WiFi White 1851 Moederbord Socket Intel LGA 1851 Vormfactor",
-    174.99
+    179.99
    ],
    [
     "mobo",
@@ -23506,38 +23406,33 @@
    ],
    [
     "mobo",
-    "ASRock B550 Phantom Gaming 4 Moederbord Socket AMD AM4 Vormfactor ATX Moederbord chipset A",
-    109.99
-   ],
-   [
-    "mobo",
     "ASRock B550 Pro4 Moederbord Socket AMD AM4 Vormfactor ATX Moederbord chipset AMD® B550",
-    119.99
+    124.99
    ],
    [
     "mobo",
     "ASRock B550M Phantom Gaming 4 Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord ch",
-    97.99
+    99.99
    ],
    [
     "mobo",
     "ASRock B550M-HDV Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset AMD® B5",
-    79.99
+    81.99
    ],
    [
     "mobo",
     "ASRock B550M-ITX/ac Moederbord Socket AMD AM4 Vormfactor Mini-ITX Moederbord chipset AMD® ",
-    144.99
+    149.99
    ],
    [
     "mobo",
     "ASRock B550M-P Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset AMD® B550",
-    109.99
+    114.99
    ],
    [
     "mobo",
     "ASRock B650 Rock WiFi7 Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® B6",
-    174.99
+    179.99
    ],
    [
     "mobo",
@@ -23557,12 +23452,7 @@
    [
     "mobo",
     "ASRock B850 Pro-A Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® B850",
-    179.99
-   ],
-   [
-    "mobo",
-    "ASRock B850 Pro-A Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® B850",
-    194.99
+    184.99
    ],
    [
     "mobo",
@@ -23572,12 +23462,12 @@
    [
     "mobo",
     "ASRock B850M Challenger WiFi White AM5 m Moederbord Socket AMD AM5 Vormfactor Micro-ATX Mo",
-    179.99
+    184.99
    ],
    [
     "mobo",
     "ASRock B850M Pro RS Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AMD®",
-    159.99
+    164.99
    ],
    [
     "mobo",
@@ -23606,18 +23496,18 @@
    ],
    [
     "mobo",
-    "ASRock B860 LiveMixer WiFi Moederbord Socket Intel LGA 1851 Vormfactor ATX",
-    224.99
+    "ASRock B860 Challenger WiFi White, 1851 Moederbord Socket Intel LGA 1851 Vormfactor ATX",
+    199.99
    ],
    [
     "mobo",
     "ASRock B860 Pro RS Moederbord Socket Intel LGA 1851 Vormfactor ATX",
-    164.99
+    169.99
    ],
    [
     "mobo",
     "ASRock B860M LiveMixer WiFi Moederbord Socket Intel LGA 1851 Vormfactor ATX",
-    204.99
+    209.99
    ],
    [
     "mobo",
@@ -23642,22 +23532,27 @@
    [
     "mobo",
     "ASRock H610M-H2/M.2 D5 Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord ch",
-    69.99
+    71.99
    ],
    [
     "mobo",
     "ASRock H610M-H2/M.2 Moederbord Socket Intel 1700 Vormfactor Micro-ATX Moederbord chipset I",
-    73.99
+    75.99
    ],
    [
     "mobo",
     "ASRock H610M-HDV/M.2 D5 GEN5 1700 mAT Moederbord Socket Intel 1700 Vormfactor ATX",
-    77.99
+    79.99
    ],
    [
     "mobo",
     "ASRock H610M-HDV/M.2+ D5 Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord ",
     57.99
+   ],
+   [
+    "mobo",
+    "ASRock H810M-P Gen5 1851 mAT Moederbord Socket Intel LGA 1851 Vormfactor ATX",
+    93.99
    ],
    [
     "mobo",
@@ -23667,7 +23562,7 @@
    [
     "mobo",
     "ASRock H810M-X GEN5 WIFI 1851 mATX Moederbord Socket Intel LGA 1851 Vormfactor ATX",
-    119.99
+    124.99
    ],
    [
     "mobo",
@@ -23687,7 +23582,7 @@
    [
     "mobo",
     "ASRock X870 Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® X870",
-    345.0
+    349.0
    ],
    [
     "mobo",
@@ -23702,12 +23597,12 @@
    [
     "mobo",
     "ASRock X870E Nova WiFi Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® X8",
-    379.0
+    389.0
    ],
    [
     "mobo",
     "ASRock Z890I Nova Moederbord Socket Intel LGA 1851 Vormfactor Mini-ATX Moederbord chipset ",
-    315.0
+    325.0
    ],
    [
     "mobo",
@@ -23722,12 +23617,12 @@
    [
     "mobo",
     "Asus 90MB1KR0-M0EAY0 Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® X870",
-    765.0
+    769.0
    ],
    [
     "mobo",
     "Asus 90MB1LC0-M0EAYC Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® B850",
-    244.99
+    249.99
    ],
    [
     "mobo",
@@ -23747,17 +23642,17 @@
    [
     "mobo",
     "Asus ASUS ROG CROSSHAIR X870E HERO (AM5) (D) Moederbord Socket AMD AM5 Vormfactor ATX Moed",
-    725.0
+    729.0
    ],
    [
     "mobo",
     "Asus ASUS ROG STRIX X870-A Gaming WIFI (AM5) Moederbord Socket AMD AM5 Vormfactor ATX Moed",
-    485.0
+    489.0
    ],
    [
     "mobo",
     "Asus ASUS ROG STRIX X870-F Gaming WIFI (AM5) Moederbord Socket AMD AM5 Vormfactor ATX Moed",
-    515.0
+    519.0
    ],
    [
     "mobo",
@@ -23772,7 +23667,7 @@
    [
     "mobo",
     "Asus MB ASUS ROG CROSSHAIR X870E DARK HERO Moederbord Socket AMD AM5 Vormfactor ATX Moeder",
-    889.0
+    895.0
    ],
    [
     "mobo",
@@ -23782,12 +23677,12 @@
    [
     "mobo",
     "Asus MB PRIME B650-PLUS WIFI Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset A",
-    194.99
+    209.99
    ],
    [
     "mobo",
     "Asus MB PRIME B850-PLUS WIFI Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset A",
-    275.0
+    289.0
    ],
    [
     "mobo",
@@ -23797,7 +23692,7 @@
    [
     "mobo",
     "Asus PRIME A520M-A II/CSM Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipse",
-    97.99
+    99.99
    ],
    [
     "mobo",
@@ -23807,7 +23702,7 @@
    [
     "mobo",
     "Asus PRIME A620M-A-CSM Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset A",
-    139.99
+    144.99
    ],
    [
     "mobo",
@@ -23822,12 +23717,12 @@
    [
     "mobo",
     "Asus PRIME B550M-A/CSM Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset A",
-    169.99
+    174.99
    ],
    [
     "mobo",
     "Asus PRIME B550M-K Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset AMD® ",
-    124.99
+    129.99
    ],
    [
     "mobo",
@@ -23842,7 +23737,7 @@
    [
     "mobo",
     "Asus PRIME B760-PLUS D4 Moederbord Socket Intel LGA 1700 Vormfactor ATX Moederbord chipset",
-    179.99
+    184.99
    ],
    [
     "mobo",
@@ -23857,7 +23752,7 @@
    [
     "mobo",
     "Asus PRIME B760M-A WIFI Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord c",
-    194.99
+    199.99
    ],
    [
     "mobo",
@@ -23887,7 +23782,7 @@
    [
     "mobo",
     "Asus PRIME B840M-A Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AMD® ",
-    164.99
+    169.99
    ],
    [
     "mobo",
@@ -23922,7 +23817,7 @@
    [
     "mobo",
     "Asus PRIME H610M-A-CSM Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord ch",
-    119.99
+    124.99
    ],
    [
     "mobo",
@@ -23932,7 +23827,7 @@
    [
     "mobo",
     "Asus PRIME H610M-D Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord chipse",
-    109.99
+    114.99
    ],
    [
     "mobo",
@@ -23952,7 +23847,7 @@
    [
     "mobo",
     "Asus PRIME H810M-A-CSM Moederbord Socket Intel LGA 1851 Vormfactor Micro-ATX Moederbord ch",
-    134.99
+    129.99
    ],
    [
     "mobo",
@@ -23987,7 +23882,7 @@
    [
     "mobo",
     "Asus PRO H610M-C D4-CSM Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord c",
-    119.99
+    124.99
    ],
    [
     "mobo",
@@ -24002,7 +23897,7 @@
    [
     "mobo",
     "Asus PRO WS TRX50-SAGE WIFI Moederbord Socket AMD sTR5 Vormfactor SSI CEB Moederbord chips",
-    959.0
+    965.0
    ],
    [
     "mobo",
@@ -24027,7 +23922,7 @@
    [
     "mobo",
     "Asus Prime A620AM-K Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AMD®",
-    114.99
+    119.99
    ],
    [
     "mobo",
@@ -24037,17 +23932,17 @@
    [
     "mobo",
     "Asus ROG MAXIMUS Z890 APEX Moederbord Socket Intel LGA 1851 Vormfactor ATX Moederbord chip",
-    529.0
+    535.0
    ],
    [
     "mobo",
     "Asus ROG MAXIMUS Z890 HERO Moederbord Socket Intel LGA 1851 Vormfactor ATX Moederbord chip",
-    475.0
+    479.0
    ],
    [
     "mobo",
     "Asus ROG STRIX B550-A GAMING Moederbord Socket AMD AM4 Vormfactor ATX Moederbord chipset A",
-    194.99
+    199.99
    ],
    [
     "mobo",
@@ -24067,7 +23962,7 @@
    [
     "mobo",
     "Asus ROG STRIX B760-F GAMING WIFI Moederbord Socket Intel LGA 1700 Vormfactor ATX Moederbo",
-    275.0
+    279.0
    ],
    [
     "mobo",
@@ -24102,7 +23997,7 @@
    [
     "mobo",
     "Asus ROG STRIX Z890-F GAMING WIFI Moederbord Socket Intel LGA 1851 Vormfactor ATX Moederbo",
-    369.0
+    375.0
    ],
    [
     "mobo",
@@ -24147,7 +24042,7 @@
    [
     "mobo",
     "Asus TUF GAMING B760M-PLUS WIFI II Moederbord Socket Intel LGA 1700 Vormfactor ATX Moederb",
-    214.99
+    219.99
    ],
    [
     "mobo",
@@ -24157,22 +24052,22 @@
    [
     "mobo",
     "Asus TUF GAMING B850M-PLUS Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chips",
-    255.0
+    259.0
    ],
    [
     "mobo",
     "Asus TUF GAMING B860M-PLUS WIFI Moederbord Socket Intel LGA 1851 Vormfactor Micro-ATX Moed",
-    249.99
+    255.0
    ],
    [
     "mobo",
     "Asus TUF GAMING Z790-PLUS WIFI Moederbord Socket Intel LGA 1700 Vormfactor ATX Moederbord ",
-    335.0
+    339.0
    ],
    [
     "mobo",
     "Asus TUF X870E-PLUS Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® X870E",
-    435.0
+    439.0
    ],
    [
     "mobo",
@@ -24187,7 +24082,7 @@
    [
     "mobo",
     "Asustek Computer PRIME H610M-E D4-CSM Moederbord Socket Intel LGA 1700 Vormfactor Micro-AT",
-    129.99
+    134.99
    ],
    [
     "mobo",
@@ -24241,6 +24136,11 @@
    ],
    [
     "mobo",
+    "Gigabyte A520M H ARGB Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset AM",
+    67.99
+   ],
+   [
+    "mobo",
     "Gigabyte A520M K V2 Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset AMD®",
     59.99
    ],
@@ -24248,6 +24148,11 @@
     "mobo",
     "Gigabyte A620M GAMING X Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset ",
     119.99
+   ],
+   [
+    "mobo",
+    "Gigabyte A620M H Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AMD® A6",
+    87.99
    ],
    [
     "mobo",
@@ -24262,17 +24167,27 @@
    [
     "mobo",
     "Gigabyte B650E A STEALTH ICE Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset A",
-    319.0
+    325.0
+   ],
+   [
+    "mobo",
+    "Gigabyte B650M D3HP AX - 1.0 Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chi",
+    144.99
    ],
    [
     "mobo",
     "Gigabyte B650M Gaming Plus WF Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord ch",
-    154.99
+    159.99
    ],
    [
     "mobo",
     "Gigabyte B760 DS3H GEN5 Moederbord Socket Intel 1700 Vormfactor ATX Moederbord chipset Int",
     124.99
+   ],
+   [
+    "mobo",
+    "Gigabyte B760 DS3H WF6E GEN5 Moederbord Socket Intel 1700 Vormfactor ATX Moederbord chipse",
+    139.99
    ],
    [
     "mobo",
@@ -24291,8 +24206,13 @@
    ],
    [
     "mobo",
+    "Gigabyte B760M DS3H WF6E GEN5 Moederbord Socket Intel 1700 Vormfactor Micro-ATX Moederbord",
+    144.99
+   ],
+   [
+    "mobo",
     "Gigabyte B760M E Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord chipset ",
-    114.99
+    119.99
    ],
    [
     "mobo",
@@ -24311,13 +24231,18 @@
    ],
    [
     "mobo",
+    "Gigabyte B840M DS3H WF6 Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset ",
+    149.99
+   ],
+   [
+    "mobo",
     "Gigabyte B840M GAMING PLUS WIFI6E Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbor",
-    134.99
+    139.99
    ],
    [
     "mobo",
     "Gigabyte B840M H Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AMD® B8",
-    109.99
+    114.99
    ],
    [
     "mobo",
@@ -24327,7 +24252,7 @@
    [
     "mobo",
     "Gigabyte B850 A ELITE WF7 Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD®",
-    234.99
+    239.99
    ],
    [
     "mobo",
@@ -24342,7 +24267,7 @@
    [
     "mobo",
     "Gigabyte B850 GAMING X WIFI6E Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset ",
-    259.0
+    265.0
    ],
    [
     "mobo",
@@ -24362,7 +24287,7 @@
    [
     "mobo",
     "Gigabyte B850M Eagle WiFi6E Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chip",
-    189.99
+    194.99
    ],
    [
     "mobo",
@@ -24372,7 +24297,7 @@
    [
     "mobo",
     "Gigabyte B860 A ELITE WF7 ICE LGA1851 MB Moederbord Socket Intel LGA 1851 Vormfactor ATX M",
-    234.99
+    239.99
    ],
    [
     "mobo",
@@ -24401,8 +24326,18 @@
    ],
    [
     "mobo",
+    "Gigabyte B860M GAMING X WIFI6E LGA1851 Moederbord Socket Intel LGA 1851 Vormfactor ATX",
+    209.99
+   ],
+   [
+    "mobo",
     "Gigabyte GA-B850M EAGLE WF7 Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chip",
     229.99
+   ],
+   [
+    "mobo",
+    "Gigabyte GA-H610M S2H Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord chi",
+    89.99
    ],
    [
     "mobo",
@@ -24417,32 +24352,42 @@
    [
     "mobo",
     "Gigabyte GAMING X WIFI6E Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset",
-    159.99
+    164.99
    ],
    [
     "mobo",
     "Gigabyte Gigabyte B840M D3HP Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chi",
-    119.99
+    124.99
+   ],
+   [
+    "mobo",
+    "Gigabyte Gigabyte GA-B860M E (1851) (D) Moederbord Socket Intel LGA 1851 Vormfactor ATX",
+    124.99
    ],
    [
     "mobo",
     "Gigabyte Gigabyte GA-X870E AORUS XTREME X3D AI TO Moederbord Socket AMD AM5 Vormfactor ATX",
-    1385.0
+    1389.0
    ],
    [
     "mobo",
     "Gigabyte Gigabyte GA-X870E EAGLE X WF7 (AM5) (D) Moederbord Socket AMD AM5 Vormfactor ATX ",
-    299.0
+    305.0
    ],
    [
     "mobo",
     "Gigabyte H610M K V2 Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbord chips",
-    73.99
+    75.99
    ],
    [
     "mobo",
     "Gigabyte H610M S2H V2 DDR5 - 1.0 Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moe",
-    63.99
+    65.99
+   ],
+   [
+    "mobo",
+    "Gigabyte TRX50 AERO D - 1.0 Moederbord Socket AMD sTR5 Vormfactor E-ATX Moederbord chipset",
+    825.0
    ],
    [
     "mobo",
@@ -24467,7 +24412,7 @@
    [
     "mobo",
     "Gigabyte X870E A ELITE WIFI7 AM5 ATX MB Moederbord Socket AMD AM5 Vormfactor ATX Moederbor",
-    339.0
+    345.0
    ],
    [
     "mobo",
@@ -24477,7 +24422,7 @@
    [
     "mobo",
     "Gigabyte X870E AORUS ELITE X3D Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset",
-    389.0
+    395.0
    ],
    [
     "mobo",
@@ -24487,7 +24432,7 @@
    [
     "mobo",
     "Gigabyte Z790 D AX Moederbord Socket Intel LGA 1700 Vormfactor ATX Moederbord chipset Inte",
-    209.99
+    214.99
    ],
    [
     "mobo",
@@ -24497,7 +24442,7 @@
    [
     "mobo",
     "Gigabyte Z790 EAGLE Moederbord Socket Intel LGA 1700 Vormfactor ATX Moederbord chipset Int",
-    209.99
+    214.99
    ],
    [
     "mobo",
@@ -24507,7 +24452,7 @@
    [
     "mobo",
     "Gigabyte Z890 A MASTER AI TOP LGA1851 Moederbord Socket Intel LGA 1851 Vormfactor ATX Moed",
-    835.0
+    839.0
    ],
    [
     "mobo",
@@ -24526,13 +24471,18 @@
    ],
    [
     "mobo",
+    "MSI 7E77-003R Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AMD® B840",
+    194.99
+   ],
+   [
+    "mobo",
     "MSI 80I Z890 Gaming Wifi Moederbord Vormfactor ATX",
-    299.0
+    305.0
    ],
    [
     "mobo",
     "MSI A520M PRO Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset AMD® A520",
-    75.99
+    77.99
    ],
    [
     "mobo",
@@ -24543,11 +24493,6 @@
     "mobo",
     "MSI B760 GAMING PLUS WIFI Moederbord Socket Intel LGA 1700 Vormfactor ATX Moederbord chips",
     164.99
-   ],
-   [
-    "mobo",
-    "MSI B760M Gaming Plus Wifi Moederbord Socket Intel LGA 1700 Vormfactor Micro-ATX Moederbor",
-    169.99
    ],
    [
     "mobo",
@@ -24562,7 +24507,7 @@
    [
     "mobo",
     "MSI B850-P Moederbord Socket AMD AM5 Vormfactor ATX Moederbord chipset AMD® B850",
-    265.0
+    244.99
    ],
    [
     "mobo",
@@ -24582,7 +24527,7 @@
    [
     "mobo",
     "MSI MSI MAG B850 Gaming Plus Max Wifi Moederbord Vormfactor ATX",
-    244.99
+    249.99
    ],
    [
     "mobo",
@@ -24632,7 +24577,7 @@
    [
     "mobo",
     "Micro Star International Computer MAG Z790 TOMAHAWK WIFI Moederbord Socket Intel LGA 1700 ",
-    244.99
+    249.99
    ],
    [
     "mobo",
@@ -24642,7 +24587,7 @@
    [
     "mobo",
     "Micro Star International Computer PRO H610M-E DDR4 Moederbord Socket Intel LGA 1700 Vormfa",
-    77.99
+    79.99
    ],
    [
     "mobo",
@@ -24657,7 +24602,7 @@
    [
     "mobo",
     "Sapphire 52119-04-40G Moederbord Socket AMD AM4 Vormfactor Micro-ATX Moederbord chipset AM",
-    73.99
+    75.99
    ],
    [
     "mobo",
@@ -24667,7 +24612,7 @@
    [
     "mobo",
     "Sapphire 52123-04-40G Moederbord Socket AMD AM5 Vormfactor Micro-ATX Moederbord chipset AM",
-    169.99
+    174.99
    ],
    [
     "monitor",
@@ -24677,7 +24622,7 @@
    [
     "monitor",
     "AOC 24E3QAF LED-monitor Energielabel E (A - G) 61 cm (24 inch) 1920 x 1080 Pixel 16:9 4 ms",
-    114.99
+    109.99
    ],
    [
     "monitor",
@@ -24716,11 +24661,6 @@
    ],
    [
     "monitor",
-    "AOC U32P2 LED-monitor Energielabel G (A - G) 80 cm (31.5 inch) 3840 x 2160 Pixel 16:9 4 ms",
-    329.0
-   ],
-   [
-    "monitor",
     "ASRock ASRock 68,5cm PG27QFT1B 16:9 HDMI/DP Gaming monitor Energielabel F (A - G) 68.6 cm ",
     174.99
    ],
@@ -24737,12 +24677,12 @@
    [
     "monitor",
     "ASRock PG27FFS1A Gaming monitor Energielabel E (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixel",
-    154.99
+    159.99
    ],
    [
     "monitor",
     "ASRock PG27FFS2E Gaming monitor Energielabel E (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixel",
-    164.99
+    169.99
    ],
    [
     "monitor",
@@ -24767,22 +24707,22 @@
    [
     "monitor",
     "ASRock PGO27QFS Gaming monitor Energielabel F (A - G) 68.6 cm (27 inch) 2560 x 1440 Pixel ",
-    549.0
+    555.0
    ],
    [
     "monitor",
     "ASRock PGO27QFV Gaming monitor Energielabel F (A - G) 68.6 cm (27 inch) 16:9 0.03 ms",
-    675.0
+    679.0
    ],
    [
     "monitor",
     "ASRock PGO32UFS Gaming monitor Energielabel G (A - G) 80 cm (31.5 inch) 3840 x 2160 Pixel ",
-    925.0
+    929.0
    ],
    [
     "monitor",
     "Acer Acer B277KLBb 27 68,6cm 16:9 60H LCD-monitor Energielabel E (A - G) 68.6 cm (27 inch)",
-    325.0
+    319.0
    ],
    [
     "monitor",
@@ -24813,6 +24753,11 @@
     "monitor",
     "Acer B247WE5b LED-monitor Energielabel C (A - G) 61 cm (24 inch) 1920 x 1200 Pixel 16:10 4",
     204.99
+   ],
+   [
+    "monitor",
+    "Acer B247YD6b Gaming monitor Energielabel B (A - G) 61 cm (24 inch) 1920 x 1080 Pixel 16:9",
+    234.99
    ],
    [
     "monitor",
@@ -24877,7 +24822,7 @@
    [
     "monitor",
     "Acer B277Gb LCD-monitor Energielabel E (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixel 16:9 4 ",
-    209.99
+    204.99
    ],
    [
     "monitor",
@@ -24927,7 +24872,7 @@
    [
     "monitor",
     "Acer DS2 View PSV27-2 Gaming monitor Energielabel F (A - G) 68.6 cm (27 inch) 3840 x 2160 ",
-    2199.0
+    2245.0
    ],
    [
     "monitor",
@@ -25081,13 +25026,23 @@
    ],
    [
     "monitor",
+    "Arzopa Draagbare monitor Energielabel F (A - G) 40.9 cm (16.1 inch) 2560 x 1440 Pixel 16:9",
+    154.99
+   ],
+   [
+    "monitor",
     "Arzopa E1SILVER Draagbare monitor Energielabel E (A - G) 39.6 cm (15.6 inch) 1920 x 1080 P",
-    259.0
+    244.99
    ],
    [
     "monitor",
     "Arzopa LCD-monitor Energielabel D (A - G) 39.6 cm (15.6 inch) 1920 x 1080 Pixel 16:9 25 ms",
     99.99
+   ],
+   [
+    "monitor",
+    "Arzopa Z1C Draagbare monitor Energielabel A (A - G) 40.9 cm (16.1 inch) 1920 x 1080 Pixel ",
+    104.99
    ],
    [
     "monitor",
@@ -25127,7 +25082,7 @@
    [
     "monitor",
     "Asus Business Monitor LED-monitor Energielabel E (A - G) 60.5 cm (23.8 inch) 1920 x 1080 P",
-    425.0
+    529.0
    ],
    [
     "monitor",
@@ -25146,6 +25101,11 @@
    ],
    [
     "monitor",
+    "Asus Business VY27UQ LCD-monitor Energielabel F (A - G) 68.6 cm (27 inch) 3840 x 2160 Pixe",
+    269.0
+   ],
+   [
+    "monitor",
     "Asus Docking Monitor LED-monitor Energielabel E (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixe",
     325.0
    ],
@@ -25157,7 +25117,7 @@
    [
     "monitor",
     "Asus Eye Care VA279HG Gaming monitor Energielabel C (A - G) 68.6 cm (27 inch) 1920 x 1080 ",
-    139.99
+    144.99
    ],
    [
     "monitor",
@@ -25228,11 +25188,6 @@
     "monitor",
     "Asus PA248CRV ProArt LED-monitor Energielabel D (A - G) 61.2 cm (24.1 inch) 1920 x 1200 Pi",
     329.0
-   ],
-   [
-    "monitor",
-    "Asus PA248QV LED-monitor Energielabel G (A - G) 61.2 cm (24.1 inch) 1920 x 1200 Pixel 16:1",
-    285.0
    ],
    [
     "monitor",
@@ -25346,11 +25301,6 @@
    ],
    [
     "monitor",
-    "Asus ROG Swift OLED Gaming monitor Energielabel F (A - G) 86.4 cm (34 inch) 3440 x 1440 Pi",
-    1415.0
-   ],
-   [
-    "monitor",
     "Asus TUF Gaming Gaming monitor Energielabel E (A - G) 86.4 cm (34 inch) 3440 x 1440 Pixel ",
     395.0
    ],
@@ -25358,11 +25308,6 @@
     "monitor",
     "Asus TUF Gaming VG249Q5A Gaming monitor Energielabel E (A - G) 60.5 cm (23.8 inch) 1920 x ",
     124.99
-   ],
-   [
-    "monitor",
-    "Asus TUF Gaming VG259Q5A Gaming monitor Energielabel E (A - G) 62.2 cm (24.5 inch) 1920 x ",
-    134.99
    ],
    [
     "monitor",
@@ -25393,11 +25338,6 @@
     "monitor",
     "Asus TUF Gaming VG27AQL5A Gaming monitor Energielabel F (A - G) 68.6 cm (27 inch) 2560 x 1",
     229.99
-   ],
-   [
-    "monitor",
-    "Asus TUF Gaming VG27AQML1A-W Gaming monitor Energielabel F (A - G) 68.6 cm (27 inch) 2560 ",
-    385.0
    ],
    [
     "monitor",
@@ -25438,11 +25378,6 @@
     "monitor",
     "Asus XG49VQ Gaming monitor Energielabel G (A - G) 124.5 cm (49 inch) 3840 x 1080 Pixel 32:",
     909.0
-   ],
-   [
-    "monitor",
-    "Asus ZenScreen MB16AHV LCD-monitor Energielabel B (A - G) 39.6 cm (15.6 inch) 1920 x 1080 ",
-    199.99
    ],
    [
     "monitor",
@@ -25602,7 +25537,7 @@
    [
     "monitor",
     "Dell P2225H Professional LED-monitor Energielabel D (A - G) 54.6 cm (21.5 inch) 1920 x 108",
-    164.99
+    154.99
    ],
    [
     "monitor",
@@ -25652,7 +25587,7 @@
    [
     "monitor",
     "Dell P2725DE LED-monitor Energielabel E (A - G) 68.6 cm (27 inch) 2560 x 1440 Pixel 16:9 8",
-    339.0
+    329.0
    ],
    [
     "monitor",
@@ -25666,18 +25601,13 @@
    ],
    [
     "monitor",
-    "Dell P2725QE LED-monitor Energielabel F (A - G) 68.6 cm (27 inch) 3840 x 2160 Pixel 16:9 8",
-    469.0
-   ],
-   [
-    "monitor",
     "Dell P3225DE LED-monitor Energielabel E (A - G) 80 cm (31.5 inch) 2560 x 1440 Pixel 16:9 8",
     459.0
    ],
    [
     "monitor",
     "Dell P3424WEB Conferencing LED-monitor Energielabel F (A - G) 86.4 cm (34 inch) 3440 x 144",
-    739.0
+    769.0
    ],
    [
     "monitor",
@@ -25757,7 +25687,7 @@
    [
     "monitor",
     "Dell Pro P LCD-monitor Energielabel D (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixel 16:9 8 m",
-    265.0
+    259.0
    ],
    [
     "monitor",
@@ -25792,7 +25722,7 @@
    [
     "monitor",
     "Dell U2724D UltraSharp LED-monitor Energielabel F (A - G) 68.6 cm (27 inch) 2560 x 1440 Pi",
-    375.0
+    385.0
    ],
    [
     "monitor",
@@ -25892,7 +25822,7 @@
    [
     "monitor",
     "Fujitsu B27-9 TS FHD LED-monitor Energielabel C (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixe",
-    199.99
+    209.99
    ],
    [
     "monitor",
@@ -25917,7 +25847,7 @@
    [
     "monitor",
     "HP 524pm Series 5 Pro LCD-monitor Energielabel D (A - G) 61 cm (24 inch) 1920 x 1080 Pixel",
-    379.0
+    389.0
    ],
    [
     "monitor",
@@ -25932,7 +25862,7 @@
    [
     "monitor",
     "HP 724pn Series 7 Pro LCD-monitor Energielabel E (A - G) 61 cm (24 inch) 1920 x 1200 Pixel",
-    244.99
+    249.99
    ],
    [
     "monitor",
@@ -25956,11 +25886,6 @@
    ],
    [
     "monitor",
-    "HP 740pm Series 7 Pro LCD-monitor Energielabel F (A - G) 100.8 cm (39.7 inch) 5120 x 2160 ",
-    2185.0
-   ],
-   [
-    "monitor",
     "HP E24m G4 LCD-monitor Energielabel F (A - G) 60.5 cm (23.8 inch) 1920 x 1080 Pixel 16:9 5",
     315.0
    ],
@@ -25972,7 +25897,7 @@
    [
     "monitor",
     "HP E27 G5 LCD-monitor Energielabel D (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixel 16:9 5 ms",
-    295.0
+    309.0
    ],
    [
     "monitor",
@@ -26081,13 +26006,8 @@
    ],
    [
     "monitor",
-    "Iiyama GCB3482WQSU-B1 LED-monitor Energielabel E (A - G) 86.4 cm (34 inch) 3440 x 1440 Pix",
-    259.0
-   ],
-   [
-    "monitor",
     "Iiyama ProGraphic LCD-monitor Energielabel F (A - G) 80 cm (31.5 inch) 3840 x 2160 Pixel 1",
-    895.0
+    915.0
    ],
    [
     "monitor",
@@ -26106,18 +26026,8 @@
    ],
    [
     "monitor",
-    "Iiyama ProLite LCD-monitor Energielabel C (A - G) 60.5 cm (23.8 inch) 1920 x 1080 Pixel 16",
-    124.99
-   ],
-   [
-    "monitor",
     "Iiyama ProLite LCD-monitor Energielabel D (A - G) 54.4 cm (21.4 inch) 1920 x 1080 Pixel 16",
     325.0
-   ],
-   [
-    "monitor",
-    "Iiyama ProLite LCD-monitor Energielabel D (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixel 16:9",
-    224.99
    ],
    [
     "monitor",
@@ -26176,11 +26086,6 @@
    ],
    [
     "monitor",
-    "Iiyama ProLite LED-monitor Energielabel D (A - G) 68.6 cm (27 inch) 16:9 USB VA LED",
-    179.99
-   ],
-   [
-    "monitor",
     "Iiyama ProLite LED-monitor Energielabel D (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixel 16:9",
     144.99
    ],
@@ -26201,11 +26106,6 @@
    ],
    [
     "monitor",
-    "Iiyama ProLite LED-monitor Energielabel E (A - G) 54.6 cm (21.5 inch) 1920 x 1080 Pixel 16",
-    134.99
-   ],
-   [
-    "monitor",
     "Iiyama ProLite LED-monitor Energielabel E (A - G) 68.6 cm (27 inch) 2560 x 1440 Pixel 16:9",
     295.0
    ],
@@ -26221,7 +26121,7 @@
    ],
    [
     "monitor",
-    "Iiyama ProLite TF2234MC-B7X LCD-monitor 54.6 cm (21.5 inch) Energielabel F (A - G) 1920 x ",
+    "Iiyama ProLite TF2234MC-B7X LCD-monitor Energielabel F (A - G) 54.6 cm (21.5 inch) 1920 x ",
     515.0
    ],
    [
@@ -26293,11 +26193,6 @@
     "monitor",
     "Iiyama XUB3297QSNP-B1 LCD-monitor Energielabel F (A - G) 81.3 cm (32 inch) 2560 x 1440 Pix",
     349.0
-   ],
-   [
-    "monitor",
-    "Iiyama XUB3493WQSU-B6 LCD-monitor Energielabel F (A - G) 86.4 cm (34 inch) 3440 x 1440 Pix",
-    375.0
    ],
    [
     "monitor",
@@ -26381,13 +26276,18 @@
    ],
    [
     "monitor",
+    "LG Electronics 39GS95QE-B Gaming monitor Energielabel F (A - G) 86.4 cm (34 inch) 21:9 0.0",
+    1245.0
+   ],
+   [
+    "monitor",
     "LG Electronics 40WT95UF-W Gaming monitor Energielabel F (A - G) 101.6 cm (40 inch) 5120 x ",
     1775.0
    ],
    [
     "monitor",
     "LG Electronics UltraFine 32U720A-B LCD-monitor Energielabel E (A - G) 81.3 cm (32 inch) 38",
-    319.0
+    315.0
    ],
    [
     "monitor",
@@ -26467,17 +26367,12 @@
    [
     "monitor",
     "Lenovo ThinkVision T27-40 LED-monitor Energielabel D (A - G) 68.6 cm (27 inch) 1920 x 1080",
-    179.99
+    189.99
    ],
    [
     "monitor",
     "MSI MAG 244F Gaming monitor Energielabel E (A - G) 59.9 cm (23.6 inch) 1920 x 1080 Pixel 1",
     149.99
-   ],
-   [
-    "monitor",
-    "MSI MAG 272QPDE X24 Gaming monitor Energielabel E (A - G) 174.2 cm (68.6 inch) 2560 x 1440",
-    535.0
    ],
    [
     "monitor",
@@ -26516,11 +26411,6 @@
    ],
    [
     "monitor",
-    "MSI MAG 341CQPDE QD-OLED Gaming monitor Energielabel G (A - G) 86.9 cm (34.2 inch) 3440 x ",
-    1009.0
-   ],
-   [
-    "monitor",
     "MSI MAG 342CQRFDE E20 Gaming monitor Energielabel F (A - G) 86.4 cm (34 inch) 3440 x 1440 ",
     359.0
    ],
@@ -26541,13 +26431,13 @@
    ],
    [
     "monitor",
-    "MSI MPG 272URXDE QD-OLED OLED-monitor Energielabel G (A - G) 67.3 cm (26.5 inch) 3840 x 21",
-    1015.0
+    "MSI MPG 271QRXDE QD-OLED Gaming monitor Energielabel G (A - G) 67.3 cm (26.5 inch) 2560 x ",
+    835.0
    ],
    [
     "monitor",
-    "MSI MPG 274URDFWDE E16M Gaming monitor Energielabel F (A - G) 68.6 cm (27 inch) 3840 x 216",
-    595.0
+    "MSI MPG 272URXDE QD-OLED OLED-monitor Energielabel G (A - G) 67.3 cm (26.5 inch) 3840 x 21",
+    1015.0
    ],
    [
     "monitor",
@@ -26558,11 +26448,6 @@
     "monitor",
     "MSI MPG 491CQPXDE Gaming monitor Energielabel G (A - G) 124.5 cm (49 inch) 5120 x 1440 Pix",
     1179.0
-   ],
-   [
-    "monitor",
-    "MSI PRO MP241WDE E14V LCD-monitor Energielabel D (A - G) 60.5 cm (23.8 inch) 1920 x 1080 P",
-    89.99
    ],
    [
     "monitor",
@@ -26587,7 +26472,7 @@
    [
     "monitor",
     "MSI PRO MP273QDE E7 LED-monitor Energielabel D (A - G) 68.6 cm (27 inch) 2560 x 1440 Pixel",
-    139.99
+    109.99
    ],
    [
     "monitor",
@@ -26597,12 +26482,12 @@
    [
     "monitor",
     "MSI PRO MP275QPDG LCD-monitor Energielabel F (A - G) 68.6 cm (27 inch) 2560 x 1440 Pixel 1",
-    409.0
+    419.0
    ],
    [
     "monitor",
     "MSI Pro MP273DE E14A LED-monitor Energielabel C (A - G) 68.6 cm (27 inch) 1920 x 1080 Pixe",
-    139.99
+    134.99
    ],
    [
     "monitor",
@@ -26662,7 +26547,7 @@
    [
     "monitor",
     "Philips 27E1N1600AE LCD-monitor Energielabel E (A - G) 68.6 cm (27 inch) 2560 x 1440 Pixel",
-    234.99
+    239.99
    ],
    [
     "monitor",
@@ -26722,12 +26607,7 @@
    [
     "monitor",
     "Philips Monitore 276B9/00 LED-monitor Energielabel F (A - G) 60.5 cm (23.8 inch) 2560 x 14",
-    204.99
-   ],
-   [
-    "monitor",
-    "Philips Monitore 279P1/00 LCD-monitor Energielabel G (A - G) 68.6 cm (27 inch) 3840 x 2160",
-    455.0
+    219.99
    ],
    [
     "monitor",
@@ -26812,7 +26692,7 @@
    [
     "monitor",
     "Samsung Odyssey G5 LS32CG554EU Gaming monitor Energielabel G (A - G) 81.3 cm (32 inch) 256",
-    249.99
+    255.0
    ],
    [
     "monitor",
@@ -26832,7 +26712,7 @@
    [
     "monitor",
     "Samsung S32FM700UU LED-monitor Energielabel F (A - G) 81.3 cm (32 inch) 3840 x 2160 Pixel ",
-    325.0
+    315.0
    ],
    [
     "monitor",
@@ -26866,13 +26746,18 @@
    ],
    [
     "monitor",
+    "Samsung ViewFinity S8 LS32D800UAU LCD-monitor Energielabel G (A - G) 81.3 cm (32 inch) 16:",
+    565.0
+   ],
+   [
+    "monitor",
     "Samsung ViewFinity S8 LS37D804UAU LCD-monitor Energielabel F (A - G) 94 cm (37 inch) 3840 ",
     635.0
    ],
    [
     "monitor",
     "Samsung ViewFinity S9 LS27C902PAU LED-monitor Energielabel F (A - G) 68.6 cm (27 inch) 512",
-    1059.0
+    1095.0
    ],
    [
     "monitor",
@@ -27036,11 +26921,6 @@
    ],
    [
     "monitor",
-    "Viewsonic VG3419C-2 LED-monitor Energielabel F (A - G) 86.4 cm (34 inch) 3440 x 1440 Pixel",
-    319.0
-   ],
-   [
-    "monitor",
     "Viewsonic VP2766-2K LED-monitor Energielabel C (A - G) 68.6 cm (27 inch) 2560 x 1440 Pixel",
     339.0
    ],
@@ -27072,7 +26952,7 @@
    [
     "monitor",
     "Viewsonic VX2718-PC-MHDJ LED-monitor Energielabel F (A - G) 68.6 cm (27 inch) 1920 x 1080 ",
-    224.99
+    214.99
    ],
    [
     "monitor",
@@ -27112,7 +26992,7 @@
    [
     "monitor",
     "Viewsonic VX3276-MHD-3 LED-monitor Energielabel G (A - G) 80 cm (31.5 inch) 1920 x 1080 Pi",
-    209.99
+    214.99
    ],
    [
     "monitor",
@@ -27216,11 +27096,6 @@
    ],
    [
     "mouse",
-    "Asus Asus MW202C wireless optical night blue Muis Radiografisch Blauw 6 Toetsen 4000 dpi G",
-    27.99
-   ],
-   [
-    "mouse",
     "Asus Asus WT425 kabellose Maus, Weiß Muis Draadloos Optisch Wit 1600 dpi Geïntegreerd scro",
     33.99
    ],
@@ -27236,18 +27111,13 @@
    ],
    [
     "mouse",
-    "Asus Keris Wireless AimPoint Gaming-muis Radiografisch, Bluetooth, USB Optisch Zwart 5 Toe",
-    109.99
-   ],
-   [
-    "mouse",
     "Asus ROG Gladius III Wireless AimPoint Gaming-muis Radiografisch, Bluetooth, USB Optisch Z",
     129.99
    ],
    [
     "mouse",
     "Asus ROG Harpe Ace Aim Lab Edition White Gaming-muis Radiografisch, Bluetooth, USB Optisch",
-    119.99
+    99.99
    ],
    [
     "mouse",
@@ -27287,7 +27157,7 @@
    [
     "mouse",
     "CHERRY CHERRY MSM STREAM MOUSE ULTIMATE Muis Bluetooth Optisch Zwart 7 Toetsen 4000 dpi",
-    114.99
+    119.99
    ],
    [
     "mouse",
@@ -27302,7 +27172,7 @@
    [
     "mouse",
     "CHERRY JW-8600 Muis Radiografisch Optisch Zwart 6 Toetsen 3200 dpi",
-    43.99
+    45.99
    ],
    [
     "mouse",
@@ -27317,7 +27187,7 @@
    [
     "mouse",
     "CHERRY MSW Stream Comfort Muis Radiografisch Optisch Wit 6 Toetsen 4000 dpi Ergonomisch, G",
-    48.99
+    49.99
    ],
    [
     "mouse",
@@ -27337,12 +27207,12 @@
    [
     "mouse",
     "Cherry XTRFY M50 Black Wired Mouse Muis Kabelgebonden Optisch Zwart 5 Toetsen",
-    35.99
+    30.99
    ],
    [
     "mouse",
     "Cherry XTRFY M64 Wireless, Black Muis Radiografisch Optisch 5 Toetsen",
-    73.99
+    63.99
    ],
    [
     "mouse",
@@ -27377,12 +27247,12 @@
    [
     "mouse",
     "Contour Contour Touch Ergonomic Touchpad wireles Toetsenbord Draadloos Zwart 4 Toetsen Gla",
-    139.99
+    144.99
    ],
    [
     "mouse",
     "Contour Contour UniMouse wireless Bluetooth link Ergonomische muis Bluetooth Zwart 7 Toets",
-    109.99
+    95.99
    ],
    [
     "mouse",
@@ -27427,12 +27297,12 @@
    [
     "mouse",
     "Contour Design RollerMouse RED Plus Thin Client Muis USB Zwart, Zilver 6 Toetsen 2800 dpi",
-    429.0
+    419.0
    ],
    [
     "mouse",
     "Contour Design RollerMouse RED Set met muis en muismat Bluetooth Zwart, Zilver 7 Toetsen 6",
-    445.0
+    429.0
    ],
    [
     "mouse",
@@ -27502,7 +27372,7 @@
    [
     "mouse",
     "Dell MS355 Muis Draadloos Optisch Zwart 3 Toetsen 4020 dpi",
-    32.99
+    31.99
    ],
    [
     "mouse",
@@ -27577,7 +27447,7 @@
    [
     "mouse",
     "Endgame Gear XM2 8k v2 Gaming-muis Snow 6 Toetsen 30000 dpi",
-    85.99
+    83.99
    ],
    [
     "mouse",
@@ -27617,7 +27487,7 @@
    [
     "mouse",
     "Evoluent D Small Ergonomische muis USB Maat: S Laser Meerdere kleuren 6 Toetsen Ergonomisc",
-    114.99
+    109.99
    ],
    [
     "mouse",
@@ -27652,7 +27522,7 @@
    [
     "mouse",
     "Evoluent VerticalMouse 3 Ergonomische muis USB Optisch Zwart, Zilver 5 Toetsen 2600 dpi Er",
-    75.99
+    73.99
    ],
    [
     "mouse",
@@ -27672,7 +27542,7 @@
    [
     "mouse",
     "HP 100 Muis Kabelgebonden Optisch Zwart 3 Toetsen 1600 dpi",
-    14.99
+    9.99
    ],
    [
     "mouse",
@@ -27732,7 +27602,7 @@
    [
     "mouse",
     "HP 285 Silent - muis - ergonomisch - opt",
-    32.99
+    24.99
    ],
    [
     "mouse",
@@ -27762,12 +27632,12 @@
    [
     "mouse",
     "HP Wireless 200 Muis Radiografisch Optisch Zwart 3 Toetsen 1000 dpi",
-    15.99
+    16.99
    ],
    [
     "mouse",
     "HP Z3700 Dual-Maus (silbergrau) Muis Draadloos Optisch Zilver 3 Toetsen 1600 dpi",
-    30.99
+    29.99
    ],
    [
     "mouse",
@@ -27782,7 +27652,7 @@
    [
     "mouse",
     "Hama EWM-500R Muis Draadloos Optisch Zwart 7 Toetsen 1800 dpi Ergonomisch",
-    21.99
+    20.99
    ],
    [
     "mouse",
@@ -27852,7 +27722,7 @@
    [
     "mouse",
     "Hama WM-400 Muis Draadloos Optisch Zwart 6 Toetsen 1600 dpi",
-    13.99
+    12.99
    ],
    [
     "mouse",
@@ -27862,7 +27732,7 @@
    [
     "mouse",
     "Hama WM-450 Muis Draadloos Optisch Pink 7 Toetsen 1600 dpi",
-    18.99
+    17.99
    ],
    [
     "mouse",
@@ -27872,7 +27742,7 @@
    [
     "mouse",
     "Hama WM-450 Muis Draadloos Optisch Zwart 7 Toetsen 1600 dpi Oplaadbaar",
-    18.99
+    16.99
    ],
    [
     "mouse",
@@ -27902,7 +27772,7 @@
    [
     "mouse",
     "Incase Muis Draadloos Zwart Intelligent scrollwiel",
-    29.99
+    27.99
    ],
    [
     "mouse",
@@ -27932,7 +27802,7 @@
    [
     "mouse",
     "Kensington Muis Draadloos Zwart 5 Toetsen 1000 dpi, 1600 dpi, 2400 dpi",
-    49.99
+    51.99
    ],
    [
     "mouse",
@@ -28002,7 +27872,7 @@
    [
     "mouse",
     "Lenovo Go Wireless Vertical Ergonomische muis Draadloos Optisch Grijs, Hout 6 Toetsen 2400",
-    41.99
+    40.99
    ],
    [
     "mouse",
@@ -28067,7 +27937,7 @@
    [
     "mouse",
     "Lenovo ThinkPad Silent Muis Bluetooth Optisch Zwart 3 Toetsen 800 dpi, 1600 dpi, 2400 dpi",
-    26.99
+    25.99
    ],
    [
     "mouse",
@@ -28232,7 +28102,7 @@
    [
     "mouse",
     "Logitech G502 Hero Gaming-muis USB Optisch Zwart 11 Toetsen 16000 dpi Verlicht, Geïntegree",
-    45.99
+    44.99
    ],
    [
     "mouse",
@@ -28347,7 +28217,7 @@
    [
     "mouse",
     "Logitech M185 Muis Radiografisch Optisch Grijs 2 Toetsen 1000 dpi",
-    11.99
+    10.99
    ],
    [
     "mouse",
@@ -28407,7 +28277,7 @@
    [
     "mouse",
     "Logitech M330 Silent Plus Muis Radiografisch Optisch Rood 3 Toetsen 1000 dpi",
-    30.99
+    31.99
    ],
    [
     "mouse",
@@ -28418,11 +28288,6 @@
     "mouse",
     "Logitech M705 Marathon Ergonomische muis Radiografisch Laser Zwart, Zilver 7 Toetsen 1000 ",
     29.99
-   ],
-   [
-    "mouse",
-    "Logitech M705 Marathon Muis Radiografisch Laser Zwart 5 Toetsen 1000 dpi",
-    26.99
    ],
    [
     "mouse",
@@ -28442,7 +28307,7 @@
    [
     "mouse",
     "Logitech MX Anywhere 3S Muis Radiografisch Optisch Grafiet 6 Toetsen 8000 dpi",
-    75.99
+    79.99
    ],
    [
     "mouse",
@@ -28566,6 +28431,11 @@
    ],
    [
     "mouse",
+    "Microsoft Surface Arc Muis Bluetooth Optisch Zwart 2 Toetsen 1000 dpi",
+    93.99
+   ],
+   [
+    "mouse",
     "Microsoft Surface Muis Bluetooth BlueTrack Grijs 3 Toetsen 1000 dpi",
     57.99
    ],
@@ -28597,7 +28467,7 @@
    [
     "mouse",
     "Perixx PERIMICE-513 W Ergonomische muis Kabelgebonden Optisch Wit 6 Toetsen 1600 dpi Ergon",
-    20.99
+    21.99
    ],
    [
     "mouse",
@@ -28608,11 +28478,6 @@
     "mouse",
     "Perixx PERIMICE-520 Ergonomische muis Kabelgebonden Optisch Zwart 8 Toetsen 2 dpi Met trac",
     41.99
-   ],
-   [
-    "mouse",
-    "Perixx PERIMICE-621 B Ergonomische muis Radiografisch Zwart 1.600 dpi Geluidsarme toetsen",
-    7.99
    ],
    [
     "mouse",
@@ -28717,7 +28582,7 @@
    [
     "mouse",
     "Perixx Perimice-719 Ergonomische muis Radiografisch Optisch Zwart 6 Toetsen 1600 dpi Ergon",
-    30.99
+    31.99
    ],
    [
     "mouse",
@@ -28782,7 +28647,7 @@
    [
     "mouse",
     "RAZER Cobra Gaming-muis Kabelgebonden Optisch Zwart 6 Toetsen 8500 dpi",
-    41.99
+    38.99
    ],
    [
     "mouse",
@@ -28797,7 +28662,7 @@
    [
     "mouse",
     "RAZER Naga V2 HyperSpeed Ergonomische gaming-muis Bluetooth, Radiografisch Optisch Zwart 2",
-    95.99
+    99.99
    ],
    [
     "mouse",
@@ -28817,7 +28682,7 @@
    [
     "mouse",
     "Rapoo EV310M Muis Draadloos, Bluetooth Grijs 6 Toetsen 2400 dpi Ergonomisch",
-    31.99
+    36.99
    ],
    [
     "mouse",
@@ -28827,7 +28692,7 @@
    [
     "mouse",
     "Rapoo M100 Muis Draadloos, Bluetooth Zwart 3 Toetsen 1300 dpi Ergonomisch",
-    15.99
+    11.99
    ],
    [
     "mouse",
@@ -28842,7 +28707,7 @@
    [
     "mouse",
     "Rapoo M500 Muis Draadloos, Bluetooth Rood 1600 dpi",
-    21.99
+    19.99
    ],
    [
     "mouse",
@@ -28931,12 +28796,17 @@
    ],
    [
     "mouse",
+    "Renkforce RF-WRM-300 Hygiënische muis Draadloos Optisch Wit 5 Toetsen 800 dpi, 1000 dpi, 1",
+    31.99
+   ],
+   [
+    "mouse",
     "Samsung EJ-M3400 Muis Bluetooth Optisch Zwart 5 Toetsen 1000 dpi Ergonomisch",
     36.99
    ],
    [
     "mouse",
-    "Sandberg SANDBERG Muis Kabelgebonden, USB Optisch Zwart 6 Toetsen 2400 dpi Ergonomisch, Ve",
+    "Sandberg SANDBERG Muis Kabelgebonden, USB Optisch Meerdere kleuren 6 Toetsen 2400 dpi Ergo",
     19.99
    ],
    [
@@ -29012,7 +28882,12 @@
    [
     "mouse",
     "SpeedLink Axon Silent Ergonomische muis USB Optisch Zwart 5 Toetsen 2400 dpi Ergonomisch",
-    15.99
+    16.99
+   ],
+   [
+    "mouse",
+    "SpeedLink CEPTICA Muis Radiografisch Optisch Zwart 3 Toetsen 1600 dpi Ergonomisch",
+    7.49
    ],
    [
     "mouse",
@@ -29022,7 +28897,7 @@
    [
     "mouse",
     "SpeedLink CORAX Gaming-muis USB Optisch Zwart 5 Toetsen 3200 dpi Verlicht, Geïntegreerd sc",
-    9.99
+    10.99
    ],
    [
     "mouse",
@@ -29102,7 +28977,7 @@
    [
     "mouse",
     "Trust Bayo II Ergonomische muis USB Zwart 6 Toetsen 800 dpi, 1200 dpi, 1600 dpi, 2400 dpi ",
-    22.99
+    25.99
    ],
    [
     "mouse",
@@ -29132,11 +29007,6 @@
    [
     "mouse",
     "Trust Ferro Muis Draadloos Zwart 9 Toetsen 3200 dpi",
-    30.99
-   ],
-   [
-    "mouse",
-    "Trust GXT 790 3-in-1 Gaming-muis & headset-set USB Optisch Zwart Verlicht",
     30.99
    ],
    [
@@ -29212,7 +29082,7 @@
    [
     "mouse",
     "Trust Seron Muis Draadloos Optisch Pink 7 Toetsen 3200 dpi",
-    25.99
+    23.99
    ],
    [
     "mouse",
@@ -29227,7 +29097,7 @@
    [
     "mouse",
     "Trust TM-201 Muis Radiografisch Optisch Zwart 4 Toetsen 1600 dpi Geluidsarme toetsen",
-    9.99
+    8.49
    ],
    [
     "mouse",
@@ -29237,7 +29107,7 @@
    [
     "mouse",
     "Trust VERTO ERGO Muis Kabelgebonden Optisch Wit 6 Toetsen 1600 dpi Ergonomisch",
-    19.99
+    21.99
    ],
    [
     "mouse",
@@ -29267,7 +29137,7 @@
    [
     "mouse",
     "Trust ZYLO Muis Draadloos Zwart 6 Toetsen 2400 dpi",
-    26.99
+    24.99
    ],
    [
     "mouse",
@@ -29307,12 +29177,12 @@
    [
     "psu",
     "ASRock Challenger Series CL-650B PC-netvoeding 650 W ATX 80 Plus Bronze",
-    67.99
+    69.99
    ],
    [
     "psu",
     "ASRock Challenger Series CL-750G PC-netvoeding 750 W ATX 80 Plus Gold",
-    89.99
+    87.99
    ],
    [
     "psu",
@@ -29322,7 +29192,7 @@
    [
     "psu",
     "ASRock Phantom Gaming PG-1000G PC-netvoeding 750 W ATX 80 Plus Gold",
-    159.99
+    164.99
    ],
    [
     "psu",
@@ -29407,12 +29277,12 @@
    [
     "psu",
     "Akyga PC-netvoeding 600 W ATX 80 Plus",
-    61.99
+    67.99
    ],
    [
     "psu",
     "Akyga PC-netvoeding 600 W ATX 80 Plus",
-    67.99
+    69.99
    ],
    [
     "psu",
@@ -29447,12 +29317,12 @@
    [
     "psu",
     "Asus ASUS Netzteil TUF Gaming-750B-EVO PC-netvoeding 750 W ATX 80 Plus Bronze",
-    95.99
+    97.99
    ],
    [
     "psu",
     "Asus ASUS Netzteil TUF Gaming-750G-EVO PC-netvoeding 750 W ATX 80 Plus Gold",
-    134.99
+    139.99
    ],
    [
     "psu",
@@ -29526,8 +29396,13 @@
    ],
    [
     "psu",
+    "Asus ROG-THOR-1600T3-GAMING-EVO PC-netvoeding 1600 W ATX 80 Plus Titanium",
+    875.0
+   ],
+   [
+    "psu",
     "Asus TUF Gaming 1000W Gold PC-netvoeding 1000 W ATX 80 Plus Gold",
-    219.99
+    199.99
    ],
    [
     "psu",
@@ -29587,7 +29462,7 @@
    [
     "psu",
     "BeQuiet PURE POWER 13 M 550W PC-netvoeding 550 W ATX 80 Plus Gold",
-    97.99
+    93.99
    ],
    [
     "psu",
@@ -29617,7 +29492,7 @@
    [
     "psu",
     "BeQuiet SYSTEM POWER 11   550W PC-netvoeding 550 W ATX",
-    61.99
+    59.99
    ],
    [
     "psu",
@@ -29712,7 +29587,7 @@
    [
     "psu",
     "Chieftec VEGA PPG-750-S (8 PC-netvoeding 750 W ATX 80 Plus Gold",
-    91.99
+    89.99
    ],
    [
     "psu",
@@ -29757,7 +29632,7 @@
    [
     "psu",
     "Corsair RM750x SHIFT PC-netvoeding 750 W ATX 80 Plus Gold",
-    164.99
+    169.99
    ],
    [
     "psu",
@@ -29772,7 +29647,7 @@
    [
     "psu",
     "Cougar CGR GDN-750 PC-netvoeding 750 W ATX 80 Plus Gold",
-    97.99
+    93.99
    ],
    [
     "psu",
@@ -29837,7 +29712,7 @@
    [
     "psu",
     "Enermax EMB850EWT-MAC PC-netvoeding 850 W 80 Plus Bronze",
-    83.99
+    87.99
    ],
    [
     "psu",
@@ -29857,7 +29732,7 @@
    [
     "psu",
     "Enermax ERV850G-AHG-NAC PC-netvoeding 850 W ATX 80 Plus Gold",
-    97.99
+    93.99
    ],
    [
     "psu",
@@ -29897,17 +29772,12 @@
    [
     "psu",
     "FSP Fortron FSP400-70AGB PC-netvoeding 400 W ATX 80 Plus Bronze",
-    79.99
-   ],
-   [
-    "psu",
-    "FSP Fortron FSP400-70PFL Netvoedingsmodule 400 W ATX 80 Plus Bronze",
-    104.99
+    81.99
    ],
    [
     "psu",
     "FSP Fortron FSP460-70PFL(SK) Netvoedingsmodule 460 W ATX 80 Plus Bronze",
-    119.99
+    124.99
    ],
    [
     "psu",
@@ -29946,6 +29816,11 @@
    ],
    [
     "psu",
+    "FSP PC- Netzteil Fortron Cannon Pro 2500 250 PC-netvoeding 2500 W ATX",
+    599.0
+   ],
+   [
+    "psu",
     "FSP PPA8503510 PC-netvoeding 850 W ATX 80 Plus",
     174.99
    ],
@@ -29967,7 +29842,7 @@
    [
     "psu",
     "Gigabyte AORUS ELITE P1000W 80+ Platinm PC-netvoeding 1000 W ATX 80 Plus Platinum",
-    174.99
+    179.99
    ],
    [
     "psu",
@@ -29997,12 +29872,12 @@
    [
     "psu",
     "Gigabyte GP-UD750GM PG5 ICE Netvoedingsmodule 750 W ATX 80 Plus Gold",
-    99.99
+    104.99
    ],
    [
     "psu",
     "Gigabyte GP-UD750GM PG5 V2 Netvoedingsmodule 750 W ATX 80 Plus Gold",
-    99.99
+    104.99
    ],
    [
     "psu",
@@ -30022,7 +29897,7 @@
    [
     "psu",
     "Gigabyte P650SS ICE PC-netvoeding 650 W ATX 80 Plus Silver",
-    57.99
+    53.99
    ],
    [
     "psu",
@@ -30041,8 +29916,13 @@
    ],
    [
     "psu",
+    "Inter-Tech 88882098 PC-netvoeding 90 W",
+    19.99
+   ],
+   [
+    "psu",
     "Inter-Tech 88882099 PC-netvoeding 60 W",
-    14.99
+    15.99
    ],
    [
     "psu",
@@ -30157,12 +30037,12 @@
    [
     "psu",
     "Inter-Tech HIPOWER SP-650 PC-netvoeding 650 W ATX",
-    48.99
+    44.99
    ],
    [
     "psu",
     "Inter-Tech HIPOWER SP-750 PC-netvoeding 750 W ATX",
-    57.99
+    55.99
    ],
    [
     "psu",
@@ -30187,12 +30067,12 @@
    [
     "psu",
     "Inter-Tech SAMA-FTX-1200-A Armor PC-netvoeding 1200 W ATX 80 Plus Platinum",
-    204.99
+    199.99
    ],
    [
     "psu",
     "Inter-Tech SFX-300W PC-netvoeding 300 W ATX 80 Plus",
-    51.99
+    49.99
    ],
    [
     "psu",
@@ -30307,7 +30187,7 @@
    [
     "psu",
     "Lian Li EG0850 Netvoedingsmodule 850 W SFX 80 Plus Platinum",
-    164.99
+    169.99
    ],
    [
     "psu",
@@ -30482,12 +30362,12 @@
    [
     "psu",
     "Seasonic BC-650 PC-netvoeding 650 W ATX 80 Plus Bronze",
-    59.99
+    61.99
    ],
    [
     "psu",
     "Seasonic BC-750 PC-netvoeding 750 W ATX 80 Plus Bronze",
-    73.99
+    75.99
    ],
    [
     "psu",
@@ -30497,12 +30377,12 @@
    [
     "psu",
     "Seasonic FOCUS-SPX-750 PC-netvoeding 750 W CFX 80 Plus Platinum",
-    204.99
+    209.99
    ],
    [
     "psu",
     "Seasonic GC-650 PC-netvoeding 650 W ATX 80 Plus Gold",
-    83.99
+    71.99
    ],
    [
     "psu",
@@ -30637,7 +30517,7 @@
    [
     "psu",
     "Thermaltake Toughpower GF1 ARGB PC-netvoeding 650 W ATX 80 Plus Gold",
-    73.99
+    71.99
    ],
    [
     "psu",
@@ -30652,7 +30532,7 @@
    [
     "psu",
     "Thermaltake Toughpower PF1 PC-netvoeding 750 W ATX 80 Plus Platinum",
-    114.99
+    119.99
    ],
    [
     "psu",
@@ -30692,12 +30572,12 @@
    [
     "psu",
     "Xilence XN176 PC-netvoeding 1050 W ATX 80 Plus Gold",
-    139.99
+    149.99
    ],
    [
     "psu",
     "Xilence XN178 PC-netvoeding 1250 W ATX 80 Plus Gold",
-    154.99
+    164.99
    ],
    [
     "psu",
@@ -30717,12 +30597,12 @@
    [
     "psu",
     "Xilence XN235 PC-netvoeding 750 W ATX 80 Plus Bronze",
-    67.99
+    65.99
    ],
    [
     "psu",
     "Xilence XN320 PC-netvoeding 650 W ATX 80 Plus Gold",
-    69.99
+    61.99
    ],
    [
     "psu",
@@ -30762,7 +30642,7 @@
    [
     "ram",
     "Crucial CP2K32G4DFRA32A Werkgeheugenset voor PC Retail DDR4 64 GB 2 x 32 GB 3200 MHz 288-p",
-    835.0
+    735.0
    ],
    [
     "ram",
@@ -30772,7 +30652,7 @@
    [
     "ram",
     "Crucial CT16G56C46S5 Werkgeheugenmodule voor laptop DDR5 16 GB 1 x 16 GB ECC 5600 MHz 262-",
-    365.0
+    385.0
    ],
    [
     "ram",
@@ -30797,7 +30677,7 @@
    [
     "ram",
     "G.Skill Aegis Werkgeheugenset voor PC DDR4 16 GB 2 x 8 GB Non-ECC 3200 MHz 288-pins DIMM C",
-    164.99
+    154.99
    ],
    [
     "ram",
@@ -30817,7 +30697,7 @@
    [
     "ram",
     "Kingston KCP556SS8-16 Werkgeheugenmodule voor laptop DDR5 16 GB 1 x 16 GB Non-ECC 5600 MHz",
-    459.0
+    455.0
    ],
    [
     "ram",
@@ -30857,7 +30737,7 @@
    [
     "ram",
     "Kingston ValueRAM Werkgeheugenmodule voor laptop DDR5 8 GB 1 x 8 GB Non-ECC 5600 MHz 262-p",
-    224.99
+    219.99
    ],
    [
     "ram",
@@ -31172,7 +31052,7 @@
    [
     "ssd",
     "Transcend 115S 250 GB NVMe/PCIe M.2 SSD 2280 harde schijf PCIe NVMe 3.0 x4 Retail TS250GMT",
-    104.99
+    97.99
    ],
    [
     "ssd",
@@ -31227,7 +31107,7 @@
    [
     "ssd",
     "Transcend 256 GB PCIe SSD harde schijf M.2 PCIe NVMe TS256GMTE672AI-VS1",
-    399.0
+    409.0
    ],
    [
     "ssd",
@@ -31342,7 +31222,7 @@
    [
     "ssd",
     "Transcend MTE452T-I 256 GB NVMe/PCIe M.2 SSD 2242 harde schijf PCIe NVMe 3.0 x2 Industrial",
-    705.0
+    689.0
    ],
    [
     "ssd",
@@ -31447,7 +31327,7 @@
    [
     "ssd",
     "Transcend MTE712A 256 GB NVMe/PCIe M.2 SSD 2280 harde schijf PCIe NVMe 4.0 x4 Industrial T",
-    409.0
+    399.0
    ],
    [
     "ssd",
@@ -31478,11 +31358,6 @@
     "ssd",
     "Transcend MTS552T2 512 GB NVMe/PCIe M.2 SSD 2242 harde schijf SATA 6 Gb/s Industrial TS512",
     639.0
-   ],
-   [
-    "ssd",
-    "Transcend MTS602M 128 GB SATA M.2 SSD 2260 harde schijf SATA III Industrial TS128GMTS602M",
-    859.0
    ],
    [
     "ssd",
@@ -31522,7 +31397,7 @@
    [
     "ssd",
     "Transcend SSD220Q 500 GB SSD harde schijf (2.5 inch) SATA 6 Gb/s Retail TS500GSSD220Q",
-    134.99
+    149.99
    ],
    [
     "ssd",
@@ -31562,7 +31437,7 @@
    [
     "ssd",
     "Transcend SSD452K-I 512 GB SSD harde schijf (2.5 inch) SATA 6 Gb/s Industrial TS512GSSD452",
-    945.0
+    929.0
    ],
    [
     "ssd",
@@ -31572,7 +31447,7 @@
    [
     "ssd",
     "Transcend TS128GMSA230S mSATA SSD harde schijf 128 GB mSATA",
-    93.99
+    91.99
    ],
    [
     "ssd",
